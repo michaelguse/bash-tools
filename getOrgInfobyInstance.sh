@@ -1,18 +1,13 @@
 #!/bin/bash
-
-clear
+  
+echo
 echo '/*********************************************/'
 echo '/*   Salesforce Instance lookup by MyDomain  */'
 echo '/*********************************************/'
+echo 
 
-while :
-do
-    echo
-    printf 'Domain Name: '
-    read var
-    echo
-    
-    INST=`nslookup ${var}.my.salesforce.com|egrep '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
+for INST in $@; do
+
     printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
     
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o tmpFile
@@ -44,15 +39,5 @@ do
     test -f relFile1 && rm relFile1
     test -f relFile2 && rm relFile2
     test -f relFile && rm relFile
-    
-    read -n 1 -s -r -p "Press any key to continue or q to quit " key
-
-    if [[ $key = q ]]
-    then
-        clear
-        break
-    fi
-    
-    printf '\n'
 
 done

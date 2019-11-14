@@ -1,0 +1,4559 @@
+
+/*********************************************/
+/*   Salesforce Instance lookup by MyDomain  */
+/*********************************************/
+
+Instance:    "NA44"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.4" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-11T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-16T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-19T03:00:00.000Z"
+
+
+Instance:    "NA45"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-11T05:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-16T04:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-19T04:30:00.000Z"
+
+
+Instance:    "NA135"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-11T05:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-16T04:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-19T04:30:00.000Z"
+
+
+Instance:    "NA39"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA65"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA66"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA69"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA70"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA71"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA72"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA74"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA83"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA91"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA94"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA95"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA97"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA98"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA99"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA100"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA101"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA104"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA105"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA115"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA116"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA117"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA122"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA124"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA136"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T04:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T03:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T03:00:00.000Z"
+
+
+Instance:    "NA146"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "NA196"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T05:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T04:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T04:00:00.000Z"
+
+
+Instance:    "EU14"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T01:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T00:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T00:30:00.000Z"
+
+
+Instance:    "EU15"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T03:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T02:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T02:00:00.000Z"
+
+
+Instance:    "EU17"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.1" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T03:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T02:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T02:00:00.000Z"
+
+
+Instance:    "EU18"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Disregard --- Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-08T03:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T02:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T02:00:00.000Z"
+
+
+Instance:    "UM5"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T03:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T02:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T02:00:00.000Z"
+
+
+Instance:    "EU7"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T21:30:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-14T22:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T21:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T21:30:00.000Z"
+
+
+Instance:    "EU8"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU10"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU12"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU13"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU16"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU19"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU25"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU26"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU27"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU28"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-08T03:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-06T02:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-10T02:00:00.000Z"
+
+
+Instance:    "EU29"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU30"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU31"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "EU32"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "UM1"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "UM2"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "UM3"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "UM4"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS33"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "CS82"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS86"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS89"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS100"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS101"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS102"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "CS110"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T00:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-12T23:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-16T23:00:00.000Z"
+
+
+Instance:    "NA21"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA32"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA37"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA46"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA47"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA49"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA52"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA53"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA54"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA57"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA58"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA59"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA60"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA61"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA62"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA64"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA67"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA68"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA73"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA75"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA76"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA77"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA79"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA80"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA81"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.5" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA82"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA84"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA85"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA86"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA87"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA88"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA89"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA90"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA92"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA93"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA96"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA102"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA103"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA107"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 11.2" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA109"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA110"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA111"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA112"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA113"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA114"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA118"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA119"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA120"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA121"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.4" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA126"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA129"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA130"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA131"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA132"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T06:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA134"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA141"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA142"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA154"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA155"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T05:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "NA171"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "NA174"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T06:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T05:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T05:00:00.000Z"
+
+
+Instance:    "AP0"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP3"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP4"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP5"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP6"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP7"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP8"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP9"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP10"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP11"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 12.8" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP12"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP13"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP14"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP15"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP16"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP17"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP18"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP19"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.2" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "AP20"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP21"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP22"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "AP28"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS1"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS6"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS8"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.4" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS10"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS16"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS18"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS22"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS24"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS29"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.1" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS40"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS43"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS50"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS52"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS58"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS60"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS62"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS64"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS65"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS66"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS68"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS70"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS73"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS90"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS92"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS94"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS98"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T17:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T17:00:00.000Z"
+
+
+Instance:    "CS114"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS115"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS117"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS132"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 11.2" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-02-15T07:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T06:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T06:00:00.000Z"
+
+
+Instance:    "CS148"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS151"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-12T16:00:00.000Z"
+
+   "Spring '20 Major Release"
+   "2020-02-15T16:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-06-13T16:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-10-17T16:00:00.000Z"
+
+
+Instance:    "CS46"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+
+Instance:    "CS49"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+
+Instance:    "GS0"
+Location:    null 
+Status:      null 
+
+Current Release:  null 
+Upcoming Releases:
+
+Instance:    "CS2"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS3"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS4"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS7"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS9"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS11"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS12"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS13"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS14"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS15"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS17"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS19"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS20"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS21"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS23"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS25"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS26"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS27"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS28"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS30"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS32"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS34"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS35"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS36"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS37"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS41"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS42"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS44"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS45"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS47"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS51"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS53"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS54"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS59"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS61"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS63"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS67"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS69"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS71"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS77"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS78"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS79"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS80"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T02:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T01:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T01:00:00.000Z"
+
+
+Instance:    "CS81"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS83"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS84"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS85"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS87"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS88"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS91"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS93"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS95"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS96"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS97"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS99"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS103"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '19 Patch 11.4" 
+Upcoming Releases:
+   "Winter '20 Major Release"
+   "2019-10-11T23:00:00.000Z"
+
+
+Instance:    "CS104"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '19 Patch 11.4" 
+Upcoming Releases:
+
+Instance:    "CS105"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS106"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS107"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS108"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS109"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS123"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS124"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS125"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS128"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS129"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS133"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 11.2" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "CS138"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T04:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T03:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T03:30:00.000Z"
+
+
+Instance:    "CS142"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T03:30:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T02:30:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T02:30:00.000Z"
+
+
+Instance:    "SR5"
+Location:    null 
+Status:      null 
+
+Current Release:  null 
+Upcoming Releases:
+
+Instance:    "SR8"
+Location:    null 
+Status:      null 
+
+Current Release:  null 
+Upcoming Releases:
+
+Instance:    "CS5"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS31"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS57"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS72"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS74"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS75"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS76"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS111"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS112"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS113"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS116"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS137"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "CS152"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '20 Patch 13.3" 
+Upcoming Releases:
+   "Spring '20 Major Release"
+   "2020-01-04T17:00:00.000Z"
+
+   "Summer '20 Major Release"
+   "2020-05-09T17:00:00.000Z"
+
+   "Winter '21 Major Release"
+   "2020-09-12T17:00:00.000Z"
+
+
+Instance:    "SR6"
+Location:    null 
+Status:      null 
+
+Current Release:  null 
+Upcoming Releases:
+
+Instance:    "SR7"
+Location:    null 
+Status:      null 
+
+Current Release:  null 
+Upcoming Releases:
+
