@@ -12,12 +12,12 @@ for var in $@; do
     INST=`nslookup ${var}.my.salesforce.com|egrep '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
     printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
     
-    curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o tmpFile
+    curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
     
-    printf "Location:    `jq .location tmpFile` \n" 
-    printf "Status:      `jq .status tmpFile` \n\n"
-    printf "Current Release:  `jq .releaseVersion tmpFile` \n"
-    jq -f ~/Desktop/sf-trust.jq tmpFile > relFile1 
+    printf "Location:    `jq .location sfTrustFile` \n" 
+    printf "Status:      `jq .status sfTrustFile` \n\n"
+    printf "Current Release:  `jq .releaseVersion sfTrustFile` \n"
+    jq -f ~/Desktop/sf-trust.jq sfTrustFile > relFile1 
     jq -s '.' < relFile1 > relFile2
     jq '. |= sort_by(.start)' relFile2 > relFile
     
@@ -37,7 +37,7 @@ for var in $@; do
     
     printf "\n"
 
-    test -f tmpFile && rm tmpFile
+    test -f sfTrustFile && rm sfTrustFile
     test -f relFile1 && rm relFile1
     test -f relFile2 && rm relFile2
     test -f relFile && rm relFile
