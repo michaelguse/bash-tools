@@ -9,7 +9,7 @@ echo
 for var in $@; do
 
     printf "Domain Name: \"$(echo "${var}" | awk '{print toupper($0)}')\"\n"
-    INST=`nslookup ${var}.my.salesforce.com|egrep '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
+    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
     printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
     
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
