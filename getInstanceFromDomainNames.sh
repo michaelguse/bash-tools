@@ -1,9 +1,9 @@
 #!/bin/bash
   
 echo
-echo '/*********************************************/'
-echo '/*   Salesforce Instance lookup by MyDomain  */'
-echo '/*********************************************/'
+echo '/*************************************************************/'
+echo '/*  Salesforce Instance lookup by MyDomain or Instance Name  */'
+echo '/*************************************************************/'
 echo 
 
 for var in $@; do
