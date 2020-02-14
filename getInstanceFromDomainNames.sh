@@ -10,8 +10,10 @@ for var in $@; do
 
     INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
 
-    if ( ${var} <> ${INST} ) then 
+    if [ ${var} != ${INST} ] 
+    then 
       printf "Domain Name: \"$(echo "${var}" | awk '{print toupper($0)}')\"\n"
+    fi
     
     printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
     
