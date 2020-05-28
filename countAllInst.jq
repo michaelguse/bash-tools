@@ -1,4 +1,5 @@
 .[] 
 | select(.isActive == true) 
 | select(.environment == "sandbox") 
-| .key
+| [.key, .releaseVersion, .location, .status] 
+| @csv
