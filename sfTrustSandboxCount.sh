@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 
 echo "List of active sandboxes from Salesforce Trust:"
 echo 
@@ -12,7 +13,14 @@ curl -sS https://api.status.salesforce.com/v1/instances/ | jq -r -f countAllInst
 
 cat sfTrustResult.new
 
+diff sfTrustResult.new sfTrustResult.old > diffResult.txt
+
 echo
-echo "Difference between current and last run results:"
-diff sfTrustResult.new sfTrustResult.old
+if test -s diffResult.txt; then
+  echo "Difference between current and last run results:"
+  cat diffResult.txt
+else
+  echo "No changes detected!"
+fi
+echo
 
