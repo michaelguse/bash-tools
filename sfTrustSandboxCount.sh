@@ -12,10 +12,11 @@ if test -s sfTrustResult.new; then
   echo "Number of active sandbox Instances: " && wc -l sfTrustResult.new | awk '{print $1}'
 fi
 
+diff sfTrustResult.old sfTrustResult.new > hasChanged
 diff -y --left-column sfTrustResult.new sfTrustResult.old > diffResult.txt
 
 echo
-if test -s diffResult.txt; then
+if test -s hasChanged; then
   echo "Instance,Release Version,Location,Status,Count"
   cat diffResult.txt
 else
