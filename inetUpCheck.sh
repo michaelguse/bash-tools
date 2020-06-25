@@ -4,6 +4,8 @@ INTERNET_STATUS="UNKNOWN"
 TIMESTAMP=`date +%s`
 STARTDOWN=TIMESTAMP
 STARTUP=TIMESTAMP
+INTERVAL=3
+
 while [ 1 ]
  do
     ping -c 1 -W 0.7 8.8.4.4 > /dev/null 2>&1
@@ -20,5 +22,5 @@ while [ 1 ]
             INTERNET_STATUS="DOWN"
         fi
     fi
-    sleep 1
+    sleep $INTERVAL
  done;
