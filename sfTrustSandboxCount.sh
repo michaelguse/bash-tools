@@ -34,7 +34,7 @@ diff sfTrustResult.old sfTrustResult.new > hasChanged
 diff -y --left-column sfTrustResult.new sfTrustResult.old > diffResult.txt
 
 if test -s hasChanged; then
-  echo "  Detected changes since last run!"
+  echo "  ==> Detected changes since last run! <=="
   echo
 
   read -n 1 -s -r -p "  Press any key to see more details or q to quit " key
@@ -43,9 +43,8 @@ if test -s hasChanged; then
   else
     echo
     echo 
-    echo "CURRENT RESULT                                                 ( UPDATED INSTANCES"
-    echo "---------------------------------------------------------------(----------------------------------------------------"
-    echo "Instance,Release Version,Location,Status,Count"
+    echo "CURRENT (NEW)                                                 ( PREVIOUS (OLD)                                 "
+    echo "--------------------------------------------------------------(------------------------------------------------"
     cat diffResult.txt
   fi
 else
