@@ -26,7 +26,10 @@ if test -s sfTrustResult.new; then
   echo "|==                                                                  ==|"
   echo "|======================================================================|"
   echo
-  echo "  Number of active sandbox Instances: `wc -l sfTrustResult.new | awk '{print $1}'`"
+  echo "  Active Sandbox Statistics:"
+  echo "    # of Non-Preview sandboxes: `less sfTrustResult.new | grep Spring | wc -l`"
+  echo "    # of Preview sandboxes:     `less sfTrustResult.new | grep Summer | wc -l`"
+  echo "    # of All sandboxes:         `less sfTrustResult.new | wc -l`"
   echo
 fi
 
