@@ -1,12 +1,6 @@
 #!/bin/bash
 clear
 
-echo
-echo "|======================================================================|"
-echo "|==                                                                  ==|"
-echo "|==   Lookup of current active Salesforce Sandbox instances          ==|"
-echo "|==                                                                  ==|"
-
 if test -f sfTrustResult.new; then
   mv sfTrustResult.new sfTrustResult.old
   if test -f newDate; then
@@ -14,22 +8,35 @@ if test -f sfTrustResult.new; then
   fi
 fi
 
-date "+%Y-%m-%dT%H:%M:%S%Z" > newDate
+CURR_REL=$'Spring \'20'
+NEXT_REL=$'Summer \'20'
+
+echo
+echo "|======================================================================|"
+echo "|==                                                                  ==|"
+echo "|==   Lookup of current active Salesforce Sandbox instances          ==|"
+echo "|==                                                                  ==|"
+echo "|==   Current Release (Non-Preview): ${CURR_REL}                      ==|"
+echo "|==      Next Release (Preview)    : ${NEXT_REL}                      ==|"
+echo "|==                                                                  ==|"
+
+date "+%Y-%m-%d %H:%M:%S %Z" > newDate
+
 curl -sS https://api.status.salesforce.com/v1/instances/ | jq -r -f countAllInst.jq | awk '{printf("%s,%d\n", $0, NR)}' > sfTrustResult.new
 sed -e '1i\
 Instance,Release Version,Location,Status,Count
 ' <sfTrustResult.new >listOfActiveSandboxes.csv
 
 if test -s sfTrustResult.new; then
-  echo "|==   Current run: `cat newDate`                            ==|"
-  echo "|==   Last run:    `cat oldDate`                            ==|"
+  echo "|==   Current run: `cat newDate`                           ==|"
+  echo "|==      Last run: `cat oldDate`                           ==|"
   echo "|==                                                                  ==|"
   echo "|======================================================================|"
   echo
   echo "  Active Sandbox Statistics:"
-  echo "    # of Non-Preview sandboxes: `less sfTrustResult.new | grep Spring | wc -l`"
-  echo "    # of Preview sandboxes:     `less sfTrustResult.new | grep Summer | wc -l`"
-  echo "    # of All sandboxes:         `less sfTrustResult.new | wc -l`"
+  echo "    # of Non-Preview (${CURR_REL}) sandboxes:`less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
+  echo "    # of Preview (${NEXT_REL}) sandboxes:    `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
+  echo "    # of all active sandboxes:              `less sfTrustResult.new | wc -l`"
   echo
 fi
 
