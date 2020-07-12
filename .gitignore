@@ -1,7 +1,13 @@
 .DS_Store
+
 sfTrustResult.new
+
 sfTrustResult.old
+
 hasChanged
+
 newDate
+
 oldDate
+
 listofActiveSandboxes.csv
