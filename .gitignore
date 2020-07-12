@@ -1,13 +1,9 @@
 .DS_Store
 
 sfTrustResult.new
-
 sfTrustResult.old
-
 hasChanged
-
 newDate
-
 oldDate
-
+diffResult.txt
 listofActiveSandboxes.csv
