@@ -1,7 +1,7 @@
-**/.DS_Store
+.DS_Store
 sfTrustResult.new
 sfTrustResult.old
 hasChanged
-**/newDate
-**/oldDate
+newDate
+oldDate
 listofActiveSandboxes.csv
