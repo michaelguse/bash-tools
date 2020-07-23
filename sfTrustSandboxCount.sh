@@ -8,16 +8,16 @@ if test -f sfTrustResult.new; then
   fi
 fi
 
-CURR_REL=$'Spring \'20'
-NEXT_REL=$'Summer \'20'
+CURR_REL=$'Summer \'20'
+NEXT_REL=$'Winter \'21'
 
 echo
 echo "|======================================================================|"
 echo "|==                                                                  ==|"
 echo "|==   Lookup of current active Salesforce Sandbox instances          ==|"
 echo "|==                                                                  ==|"
-echo "|==   Current Release (Non-Preview): ${CURR_REL}                      ==|"
-echo "|==      Next Release (Preview)    : ${NEXT_REL}                      ==|"
+echo "|==   Current Release: ${CURR_REL}                                    ==|"
+echo "|==      Next Release: ${NEXT_REL}                                    ==|"
 echo "|==                                                                  ==|"
 
 date "+%Y-%m-%d %H:%M:%S %Z" > newDate
@@ -34,9 +34,9 @@ if test -s sfTrustResult.new; then
   echo "|======================================================================|"
   echo
   echo "  Active Sandbox Statistics:"
-  echo "    # of Non-Preview (${CURR_REL}) sandboxes:`less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
-  echo "    # of Preview (${NEXT_REL}) sandboxes:    `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
-  echo "    # of all active sandboxes:              `less sfTrustResult.new | wc -l`"
+  echo "    # of ${CURR_REL} sandboxes: `less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
+  echo "    # of ${NEXT_REL} sandboxes: `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
+  echo "    # of all active sandboxes: `less sfTrustResult.new | wc -l`"
   echo
 fi
 
