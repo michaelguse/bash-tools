@@ -38,12 +38,10 @@ if test -s sfTrustResult.new; then
   echo
   echo "Active Sandbox Statistics:"
   echo "  # of ${CURR_REL} sandboxes: `less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
-  echo "
-    # of ${NEXT_REL} sandboxes: `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
+  echo "  # of ${NEXT_REL} sandboxes: `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
   echo "  # of all active sandboxes: `less sfTrustResult.new | wc -l`"
   echo
-  echo "  List of unique releaseVersions:"
-  echo
+  echo "List of unique releaseVersions:"
   jq -r -f listUniqInst.jq tmpFile
   echo
 fi
@@ -52,10 +50,10 @@ diff sfTrustResult.old sfTrustResult.new > hasChanged
 diff -y --left-column sfTrustResult.new sfTrustResult.old > diffResult.txt
 
 if test -s hasChanged; then
-  echo "  ==> Detected changes since last run! <=="
+  echo "==> Detected changes since last run! <=="
   echo
 
-  read -n 1 -s -r -p "  Press any key to see more details or q to quit " key
+  read -n 1 -s -r -p "Press any key to see more details or q to quit " key
   if [[ $key = q ]]; then
     echo
   else
@@ -66,10 +64,10 @@ if test -s hasChanged; then
     cat diffResult.txt
   fi
 else
-  echo "  No changes detected since last run!"
+  echo "No changes detected since last run!"
   echo
 
-  read -n 1 -s -r -p "  Press any key to see more details or q to quit  " key
+  read -n 1 -s -r -p "Press any key to see more details or q to quit  " key
   if [[ $key = q ]]; then
     echo
   else
