@@ -22,7 +22,10 @@ echo "|==                                                                  ==|"
 
 date "+%Y-%m-%d %H:%M:%S %Z" > newDate
 
-curl -sS https://api.status.salesforce.com/v1/instances/ | jq -r -f countAllInst.jq | awk '{printf("%s,%d\n", $0, NR)}' > sfTrustResult.new
+curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
+
+jq -r -f countAllInst.jq tmpFile | awk '{printf("%s,%d\n", $0, NR)}' > sfTrustResult.new
+
 sed -e '1i\
 Instance,Release Version,Location,Status,Count
 ' <sfTrustResult.new >listOfActiveSandboxes.csv
@@ -33,10 +36,15 @@ if test -s sfTrustResult.new; then
   echo "|==                                                                  ==|"
   echo "|======================================================================|"
   echo
-  echo "  Active Sandbox Statistics:"
-  echo "    # of ${CURR_REL} sandboxes: `less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
-  echo "    # of ${NEXT_REL} sandboxes: `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
-  echo "    # of all active sandboxes: `less sfTrustResult.new | wc -l`"
+  echo "Active Sandbox Statistics:"
+  echo "  # of ${CURR_REL} sandboxes: `less sfTrustResult.new | grep -F "${CURR_REL}" | wc -l`"
+  echo "
+    # of ${NEXT_REL} sandboxes: `less sfTrustResult.new | grep -F "${NEXT_REL}" | wc -l`"
+  echo "  # of all active sandboxes: `less sfTrustResult.new | wc -l`"
+  echo
+  echo "  List of unique releaseVersions:"
+  echo
+  jq -r -f listUniqInst.jq tmpFile
   echo
 fi
 
@@ -69,4 +77,6 @@ else
     echo
     cat listOfActiveSandboxes.csv
   fi
+
+  rm tmpFile
 fi

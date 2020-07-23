@@ -3,6 +3,7 @@
 sfTrustResult.new
 sfTrustResult.old
 hasChanged
+tmpFile
 newDate
 oldDate
 diffResult.txt

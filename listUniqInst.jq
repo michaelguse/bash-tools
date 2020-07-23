@@ -2,6 +2,7 @@
 .[]
 | select(.isActive == true) 
 | select(.environment == "sandbox") 
-| .releaseVersion
+| {Key: .key, Release: .releaseVersion}
 ]
-| unique
+| group_by(.Release) 
+|  map({ release: .[0].Release, count: map(.Key) | length})
