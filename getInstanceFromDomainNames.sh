@@ -1,50 +1,64 @@
 #!/bin/bash
   
+echo '/-------------------------------------------/'
 echo
-echo '/*************************************************************/'
-echo '/*  Salesforce Instance lookup by MyDomain or Instance Name  */'
-echo '/*************************************************************/'
-echo 
+echo "  Salesforce Instance Lookup    "
+echo
+echo "  `date "+%Y-%m-%d %H:%M:%S %Z"`"
+echo
+echo "  Input: $@"
+echo
+echo '/-------------------------------------------/'
+echo
 
 for var in $@; do
 
-    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu]+\d+\.'|cut -d . -f 1`
+    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'|cut -d . -f 1`
 
     if [ ${var} != ${INST} ] 
     then 
-      printf "Domain Name: \"$(echo "${var}" | awk '{print toupper($0)}')\"\n"
+      printf "MyDomain:    \"$(echo "${var}" | awk '{print toupper($0)}')\"\n"
     fi
     
-    printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
-    
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
-    
-    printf "Location:    `jq .location sfTrustFile` \n" 
-    printf "Status:      `jq .status sfTrustFile` \n\n"
-    printf "Current Release:  `jq .releaseVersion sfTrustFile` \n"
-    jq -f ~/Desktop/sf-trust.jq sfTrustFile > relFile1 
-    jq -s '.' < relFile1 > relFile2
-    jq '. |= sort_by(.start)' relFile2 > relFile
-    
-    printf "Upcoming Releases:\n"
-    
-    len=`jq '. | length' relFile` 
-    # printf "len: $len \n"
 
-    for ((i=0; i<len; i++)); do
-        # printf " i = $i \n"
-        printf "   "
-        jq --arg ij "$i" .[' $ij|tonumber '].name relFile
-        printf "   "
-        jq --arg ij "$i" .[' $ij|tonumber '].start relFile
-        printf "\n"
-    done
-    
-    printf "\n"
+    jq '. | select(.isActive == true)' sfTrustFile > activeInstance
 
-    test -f sfTrustFile && rm sfTrustFile
-    test -f relFile1 && rm relFile1
-    test -f relFile2 && rm relFile2
-    test -f relFile && rm relFile
+    if [ -s activeInstance ]; then
+
+      printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
+    
+      printf "Location:    `jq .location activeInstance` \n" 
+      printf "Status:      `jq .status activeInstance` \n\n"
+      printf "Current Release:  `jq .releaseVersion activeInstance` \n"
+      jq -f ~/Desktop/sf-trust.jq activeInstance > relFile1 
+      jq -s '.' < relFile1 > relFile2
+      jq '. |= sort_by(.start)' relFile2 > relFile
+      
+      printf "Upcoming Releases:\n"
+      
+      len=`jq '. | length' relFile` 
+      # printf "len: $len \n"
+
+      for ((i=0; i<len; i++)); do
+          # printf " i = $i \n"
+          printf "`jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` \n"
+      done
+
+      test -f sfTrustFile && rm sfTrustFile
+      test -f activeInstance && rm activeInstance
+      test -f relFile1 && rm relFile1
+      test -f relFile2 && rm relFile2
+      test -f relFile && rm relFile
+
+    else
+
+      printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\" is not an active instance.\n"
+
+    fi
+
+  echo
+  echo '/---------------------------/'
+  echo
 
 done
