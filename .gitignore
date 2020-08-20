@@ -1,5 +1,4 @@
-.DS_Store
-
+# bash-tools scripts to ignore
 sfTrustResult.new
 sfTrustResult.old
 hasChanged
@@ -8,3 +7,22 @@ newDate
 oldDate
 diffResult.txt
 listofActiveSandboxes.csv
+
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+.vscode
+.env
+*.env
+*.dev
+*.log
+.DS_Store
+.eslintrc.js
+.sass-cache
+/html
+
+# Docker
+Dockerfile
+docker-compose.yml
