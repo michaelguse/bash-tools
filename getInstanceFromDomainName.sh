@@ -11,12 +11,12 @@ do
 
     echo '/-------------------------------------------/'
     echo
-    printf "  Salesforce Instance Lookup #$j \n"
+    printf "   Salesforce Instance Lookup #$j \n"
     echo
-    echo "  `date "+%Y-%m-%d %H:%M:%S %Z"`"
+    echo "   `date "+%Y-%m-%d %H:%M:%S %Z"`"
 
     echo
-    printf '  Name: '
+    printf '   Name: '
     read var
     echo
     echo '/-------------------------------------------/'
@@ -54,8 +54,6 @@ do
           printf "`jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` \n"
       done
 
-      test -f sfTrustFile && rm sfTrustFile
-      test -f activeInstance && rm activeInstance
       test -f relFile1 && rm relFile1
       test -f relFile2 && rm relFile2
       test -f relFile && rm relFile
@@ -65,6 +63,9 @@ do
       printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\" is not an active instance.\n"
 
     fi
+
+    test -f sfTrustFile && rm sfTrustFile
+    test -f activeInstance && rm activeInstance
 
     printf "\n"
 
