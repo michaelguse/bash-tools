@@ -47,34 +47,18 @@ if test -s sfTrustResult.new; then
 fi
 
 diff sfTrustResult.old sfTrustResult.new > hasChanged
-diff -y --left-column sfTrustResult.new sfTrustResult.old > diffResult.txt
 
 if test -s hasChanged; then
   echo "==> Detected changes since last run! <=="
-  echo
-
-  read -n 1 -s -r -p "Press any key to see more details or q to quit " key
-  if [[ $key = q ]]; then
-    echo
-  else
-    echo
-    echo 
-    echo "CURRENT (NEW)                                                 ( PREVIOUS (OLD)                                 "
-    echo "--------------------------------------------------------------(------------------------------------------------"
-    cat diffResult.txt
-  fi
+  echo 
+  echo "CURRENT (NEW)                                                 ( PREVIOUS (OLD)                                 "
+  echo "--------------------------------------------------------------(------------------------------------------------"
+  diff -y --left-column sfTrustResult.new sfTrustResult.old
 else
   echo "No changes detected since last run!"
   echo
-
-  read -n 1 -s -r -p "Press any key to see more details or q to quit  " key
-  if [[ $key = q ]]; then
-    echo
-  else
-    echo 
-    echo
-    cat listOfActiveSandboxes.csv
-  fi
-
-  rm tmpFile
 fi
+
+rm tmpFile
+
+exit 0
