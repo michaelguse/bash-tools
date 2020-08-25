@@ -60,7 +60,7 @@ do
 
     else
 
-      printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\" is not an active instance.\n"
+      printf "Instance $(echo "$INST" | awk '{print toupper($0)}') is not an active instance.\n"
 
     fi
 
