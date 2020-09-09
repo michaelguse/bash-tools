@@ -2,7 +2,7 @@
 
 if [[ $# -eq 0 ]] ; then
     echo
-    echo "This command expects one argument."
+    echo "This command requires one argument."
     echo 
     echo "Usage:   $0 production|sandbox"
     echo
@@ -22,3 +22,5 @@ for ((i=0; i<len; i++)); do
 done
 
 echo
+
+exit 0
