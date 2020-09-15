@@ -22,7 +22,7 @@ do
     echo '/-------------------------------------------/'
     echo
     
-    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'|cut -d . -f 1`
+    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'| tail -n 1 | cut -d . -f 1`
 
     if [ ${var} != ${INST} ] 
     then 
@@ -40,7 +40,7 @@ do
       printf "Location:    `jq .location activeInstance` \n" 
       printf "Status:      `jq .status activeInstance` \n\n"
       printf "Current Release:  `jq .releaseVersion activeInstance` \n"
-      jq -f ~/Desktop/sf-trust.jq activeInstance > relFile1 
+      jq -f sf-trust.jq activeInstance > relFile1 
       jq -s '.' < relFile1 > relFile2
       jq '. |= sort_by(.start)' relFile2 > relFile
       
