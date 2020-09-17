@@ -25,7 +25,8 @@ echo "|==   Current run: `cat newDate`                           ==|"
 echo "|==      Last run: `cat oldDate`                           ==|"
 echo "|==                                                                  ==|"
 echo "|======================================================================|"
-echo
+
+./activeSFCloudInstances.sh 
 
 curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
 
