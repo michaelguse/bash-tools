@@ -1,4 +1,17 @@
 #!/bin/bash
+clear
+
+echo "|======================================================================"
+echo "|=="
+echo "|==   Lookup of listed Salesforce Sandbox instances"
+echo "|=="
+echo "|==   Input: $@"
+echo "|=="
+echo "|==   Run Date: `date "+%Y-%m-%d %H:%M:%S %Z"`"
+echo "|=="
+echo "|======================================================================"
+echo 
+echo "isActive?, orgKey, releaseNumber, status, location"
 
 for var in $@; do
 
