@@ -6,8 +6,6 @@ echo "   Salesforce Instance Lookup    "
 echo
 echo "   `date "+%Y-%m-%d %H:%M:%S %Z"`"
 echo
-echo "   Input: $@"
-echo
 echo '/-------------------------------------------/'
 echo
 
