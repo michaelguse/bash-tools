@@ -33,7 +33,7 @@ curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
 jq -r -f countAllInst.jq tmpFile | awk '{printf("%s,%d\n", $0, NR)}' > sfTrustResult.new
 
 sed -e '1i\
-Instance,Release Version,Location,Status,Count
+Instance,"Release Version",Location,Status,Count
 ' <sfTrustResult.new >listOfActiveSandboxes.csv
 
 if test -s sfTrustResult.new; then

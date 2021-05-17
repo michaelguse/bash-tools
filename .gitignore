@@ -8,6 +8,7 @@ oldDate
 diffResult.txt
 listofActiveSandboxes.csv
 /downloads
+/output
 
 # Node build artifacts
 node_modules
