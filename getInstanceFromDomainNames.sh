@@ -11,7 +11,8 @@ echo
 
 for var in $@; do
 
-    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'| tail -n 1 | cut -d . -f 1`
+#    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'| tail -n 1 | cut -d . -f 1`
+    INST=`curl -sS "https://api.status.salesforce.com/v1/search/${var}" | jq -r '.[] | select(.aliasType == "domain") | [ .instanceKey ] | @tsv'`
 
     if [ ${var} != ${INST} ] 
     then 
