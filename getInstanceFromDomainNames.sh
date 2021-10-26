@@ -10,15 +10,24 @@ echo '/-------------------------------------------/'
 echo
 
 for var in $@; do
+    # translate input variable to uppercase
+    VARIN=$(echo "${var}" | awk '{print toupper($0)}')
 
-#    INST=`nslookup ${var}.my.salesforce.com | egrep -i '^[cs|na|ap|eu|um]+\d+\.'| tail -n 1 | cut -d . -f 1`
-    INST=`curl -sS "https://api.status.salesforce.com/v1/search/${var}" | jq -r '.[] | select(.aliasType == "domain") | [ .instanceKey ] | @tsv'`
+    # Search for domain match for input variable on SF Trust site via REST API
+    INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.aliasType == "domain") | [ .instanceKey ] | @tsv'`
+    #printf "INST(domain): $INST\n"
 
-    if [ ${var} != ${INST} ] 
-    then 
-      printf "MyDomain:    \"$(echo "${var}" | awk '{print toupper($0)}')\"\n"
+    # if no domain match, search for direct instance name matches
+    if [ -z ${INST} ]; then 
+      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.type == "doc") | [ .key ] | @tsv'`
+      #printf "INST(doc): $INST\n"
     fi
     
+    if [ ${VARIN} != ${INST} ]; then 
+      printf "MyDomain:    \"${VARIN}\"\n"
+    fi
+    
+    # Lookup instance status details from SF Trust REST API
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
 
     jq '. | select(.isActive == true)' sfTrustFile > activeInstance
@@ -26,7 +35,6 @@ for var in $@; do
     if [ -s activeInstance ]; then
 
       printf "Instance:    \"$(echo "$INST" | awk '{print toupper($0)}')\"\n"
-    
       printf "Location:    `jq .location activeInstance` \n" 
       printf "Status:      `jq .status activeInstance` \n\n"
       printf "Current Release:  `jq .releaseVersion activeInstance` \n"
