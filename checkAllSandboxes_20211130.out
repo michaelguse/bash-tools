@@ -1,0 +1,2434 @@
+/-------------------------------------------/
+
+   Salesforce Instance Lookup    
+
+   2021-11-30 18:47:08 CST
+
+/-------------------------------------------/
+
+Instance:    "BRA2S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CAN2S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CAN6S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS11"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS123"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS124"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS125"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS133"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS138"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS14"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS142"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS15"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS159"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS166"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS167"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS169"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS169"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS17"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS172"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS19"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS190"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS191"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS192"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS193"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS194"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS195"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS196"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS197"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS198"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS199"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS2"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS20"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS201"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS203"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS209"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS21"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS210"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS211"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS212"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS213"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS214"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS215"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS216"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS217"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS23"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS234"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS25"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS26"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS27"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22  Patch 15" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS28"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS32"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS34"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS35"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS36"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS37"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS4"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS41"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS42"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22  Patch 15" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS44"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS45"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS47"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS53"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS59"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS61"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS63"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS67"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS69"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS7"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS77"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS78"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS79"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS9"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS91"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS95"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS96"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS97"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS99"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance USA14S is not an active instance.
+
+/---------------------------/
+
+Instance:    "USA16S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+
+/---------------------------/
+
+Instance:    "USA18S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+
+/---------------------------/
+
+Instance:    "USA20S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "USA3S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "USA8S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS14S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS22S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS24S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS26S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS2S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS36S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS111"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS112"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS113"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS116"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS137"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS152"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS31"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS5"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS57"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS72"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS74"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS75"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS76"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND10S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND20S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND22S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND3S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND4S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND6S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND8S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN10S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN12S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN2S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN6S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "SGP2S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T18:00:00.000Z - Spring '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-05-07T17:00:00.000Z - Summer '22 Major Release 
+2022-08-27T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS105"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS106"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS107"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS108"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS109"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS122"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS126"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS127"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T03:30:00.000Z - Spring '22 Major Release 
+2022-05-07T02:30:00.000Z - Summer '22 Major Release 
+2022-08-27T02:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS128"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS129"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS160"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS174"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS189"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS80"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS81"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS84"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS87"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS88"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-01-08T04:30:00.000Z - Spring '22 Major Release 
+2022-05-07T03:30:00.000Z - Summer '22 Major Release 
+2022-08-27T03:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "DEU2S"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "FRA2S"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-01-08T02:00:00.000Z - Spring '22 Major Release 
+2022-05-07T01:00:00.000Z - Summer '22 Major Release 
+2022-08-27T01:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "BRA4S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CAN4S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CAN8S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS1"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS10"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS132"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T07:00:00.000Z - Spring '22 Major Release 
+2022-06-11T06:00:00.000Z - Summer '22 Major Release 
+2022-10-15T06:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS148"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS16"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS165"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS170"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS171"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS18"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS200"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS202"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS218"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS219"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T07:00:00.000Z - Spring '22 Major Release 
+2022-06-11T06:00:00.000Z - Summer '22 Major Release 
+2022-10-15T06:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS22"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS220"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T07:00:00.000Z - Spring '22 Major Release 
+2022-06-11T06:00:00.000Z - Summer '22 Major Release 
+2022-10-15T06:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS24"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS29"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS33"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T07:00:00.000Z - Spring '22 Major Release 
+2022-06-11T06:00:00.000Z - Summer '22 Major Release 
+2022-10-15T06:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS40"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS43"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS60"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS62"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS64"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS65"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS66"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS68"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS8"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS90"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS92"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS94"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS98"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "USA10S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+
+/---------------------------/
+
+Instance:    "USA22S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "USA2S"
+Location:    "NA" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T06:00:00.000Z - Spring '22 Major Release 
+2022-06-11T05:00:00.000Z - Summer '22 Major Release 
+2022-10-15T05:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance  is not an active instance.
+
+/---------------------------/
+
+Instance:    "AUS28S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS4S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "AUS6S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS114"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS115"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS117"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS151"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS58"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS6"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS73"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T17:00:00.000Z - Spring '22 Major Release 
+2022-06-11T17:00:00.000Z - Summer '22 Major Release 
+2022-10-15T17:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND14S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND16S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND18S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "IND2S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN4S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "JPN8S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "SGP4S"
+Location:    "APAC" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T16:00:00.000Z - Spring '22 Major Release 
+2022-06-11T16:00:00.000Z - Summer '22 Major Release 
+2022-10-15T16:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS100"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS101"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS102"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS110"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS119"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS121"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS162"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS173"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS86"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "CS89"
+Location:    "EMEA" 
+Status:      "OK" 
+
+Current Release:  "Winter '22 Patch 14.6" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "DEU4S"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+Instance:    "FRA4S"
+Location:    "EU" 
+Status:      "OK" 
+
+Current Release:  "" 
+Upcoming Releases:
+2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
