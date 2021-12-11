@@ -1,14 +1,15 @@
 #!/bin/bash
   
-echo '/----------------------------------------------/'
 echo
-echo "   JOB: Sandbox Major Release defects on Trust"
-echo
-echo "   AUTHOR: Michael Guse - mguse@salesforce.com"
-echo
-echo "   RUN DATE: `date "+%Y-%m-%d %H:%M:%S %Z"`"
-echo
-echo '/----------------------------------------------/'
+echo '/--------------------------------------------------/'
+echo "/                                                  /"
+echo "/  JOB: Sandbox Major Release defects on Trust     /"
+echo "/                                                  /"
+echo "/  AUTHOR: Michael Guse - mguse@salesforce.com     /"
+echo "/                                                  /"
+echo "/  RUN DATE: `date "+%Y-%m-%d %H:%M:%S %Z"`               /"
+echo "/                                                  /"
+echo '/--------------------------------------------------/'
 echo
 
 IFS=$'\n' read -ra arr -d '' <$1
@@ -92,4 +93,4 @@ for var in ${arr[@]}; do
 
 done
 
-printf "\nSUMMARY: ${il} / ${ol} instance(s) with major release record issues.\n"
+printf "SUMMARY: ${il} / ${ol} instance(s) with major release record issues.\n"
