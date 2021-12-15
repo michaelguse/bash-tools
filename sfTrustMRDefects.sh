@@ -3,7 +3,7 @@
 echo
 echo '/--------------------------------------------------/'
 echo "/                                                  /"
-echo "/  JOB: Sandbox Major Release defects on Trust     /"
+echo "/  JOB: Major Release defects on Trust             /"
 echo "/                                                  /"
 echo "/  AUTHOR: Michael Guse - mguse@salesforce.com     /"
 echo "/                                                  /"
@@ -12,7 +12,11 @@ echo "/                                                  /"
 echo '/--------------------------------------------------/'
 echo
 
-IFS=$'\n' read -ra arr -d '' <$1
+curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
+
+jq -r -f listAllInst.jq tmpFile > sb-prod-list.txt
+
+IFS=$'\n' read -ra arr -d '' < sb-prod-list.txt
 
 let "il=0"
 let "ol=0"
