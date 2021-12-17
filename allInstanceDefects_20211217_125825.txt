@@ -5,7 +5,7 @@
 /                                                  /
 /  AUTHOR: Michael Guse - mguse@salesforce.com     /
 /                                                  /
-/  RUN DATE: 2021-12-15 08:00:00 CST               /
+/  RUN DATE: 2021-12-17 12:58:25 CST               /
 /                                                  /
 /--------------------------------------------------/
 
@@ -14,7 +14,7 @@ CS31 has incorrect number (5) of Major Release records!
   Instance:    "CS31"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -30,7 +30,7 @@ CS57 has incorrect number (5) of Major Release records!
   Instance:    "CS57"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -46,7 +46,7 @@ CS5 has incorrect number (5) of Major Release records!
   Instance:    "CS5"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -62,7 +62,7 @@ CS72 has incorrect number (5) of Major Release records!
   Instance:    "CS72"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -78,7 +78,7 @@ CS116 has incorrect number (5) of Major Release records!
   Instance:    "CS116"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -94,7 +94,7 @@ CS74 has incorrect number (5) of Major Release records!
   Instance:    "CS74"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -110,7 +110,7 @@ CS75 has incorrect number (5) of Major Release records!
   Instance:    "CS75"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -126,7 +126,7 @@ CS76 has incorrect number (5) of Major Release records!
   Instance:    "CS76"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -142,7 +142,7 @@ CS137 has incorrect number (5) of Major Release records!
   Instance:    "CS137"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -158,7 +158,7 @@ CS113 has incorrect number (5) of Major Release records!
   Instance:    "CS113"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -174,7 +174,7 @@ CS152 has incorrect number (5) of Major Release records!
   Instance:    "CS152"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -190,7 +190,7 @@ CS112 has incorrect number (5) of Major Release records!
   Instance:    "CS112"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -206,7 +206,7 @@ CS111 has incorrect number (5) of Major Release records!
   Instance:    "CS111"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-01-08T18:00:00.000Z - Spring '22 Major Release 
@@ -222,7 +222,7 @@ IND1 has incorrect number (4) of Major Release records!
   Instance:    "IND1"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.5" 
+  Current Release:  "Winter '22 Patch 16.6" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -267,7 +267,7 @@ IND5 has incorrect number (4) of Major Release records!
   Instance:    "IND5"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -282,7 +282,7 @@ IND7 has incorrect number (4) of Major Release records!
   Instance:    "IND7"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.5" 
+  Current Release:  "Winter '22 Patch 16.6" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -297,7 +297,7 @@ IND9 has incorrect number (4) of Major Release records!
   Instance:    "IND9"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -327,7 +327,7 @@ IND13 has incorrect number (4) of Major Release records!
   Instance:    "IND13"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -342,7 +342,7 @@ USA24S has incorrect number (0) of Major Release records!
   Instance:    "USA24S"
   Location:    "NA" 
   Status:      "OK" 
-  Current Release:  "Spring '22 Patch 1" 
+  Current Release:  "Spring '22 Patch 1.2" 
 
   Upcoming Releases:
 
@@ -353,7 +353,7 @@ USA26 has incorrect number (0) of Major Release records!
   Instance:    "USA26"
   Location:    "NA" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
 
@@ -379,7 +379,7 @@ IND15 has incorrect number (4) of Major Release records!
   Instance:    "IND15"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -499,7 +499,7 @@ IND23 has incorrect number (4) of Major Release records!
   Instance:    "IND23"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -514,7 +514,7 @@ IND11 has incorrect number (4) of Major Release records!
   Instance:    "IND11"
   Location:    "APAC" 
   Status:      "OK" 
-  Current Release:  "Winter '22 Patch 16.6" 
+  Current Release:  "Winter '22 Patch 17.1" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -529,7 +529,7 @@ DEU1 has incorrect number (4) of Major Release records!
   Instance:    "DEU1"
   Location:    "EMEA" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -559,7 +559,7 @@ FRA1 has incorrect number (4) of Major Release records!
   Instance:    "FRA1"
   Location:    "EMEA" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -574,7 +574,7 @@ FRA4S has incorrect number (4) of Major Release records!
   Instance:    "FRA4S"
   Location:    "EMEA" 
   Status:      "OK" 
-  Current Release:  "Winter '22  Patch 17" 
+  Current Release:  "Winter '22 Patch 17.2" 
 
   Upcoming Releases:
     2022-02-12T00:00:00.000Z - Spring '22 Major Release 
@@ -589,7 +589,7 @@ USA18S has incorrect number (0) of Major Release records!
   Instance:    "USA18S"
   Location:    "NA" 
   Status:      "OK" 
-  Current Release:  "Spring '22 Patch 1" 
+  Current Release:  "Spring '22 Patch 1.2" 
 
   Upcoming Releases:
 
@@ -600,7 +600,7 @@ USA10S has incorrect number (0) of Major Release records!
   Instance:    "USA10S"
   Location:    "NA" 
   Status:      "OK" 
-  Current Release:  "Spring '22 Patch 1" 
+  Current Release:  "Spring '22 Patch 1.2" 
 
   Upcoming Releases:
 
@@ -611,10 +611,15 @@ USA16S has incorrect number (0) of Major Release records!
   Instance:    "USA16S"
   Location:    "NA" 
   Status:      "OK" 
-  Current Release:  "Spring '22 Patch 1" 
+  Current Release:  "Spring '22 Patch 1.2" 
 
   Upcoming Releases:
 
 /---------------------------/
 
-SUMMARY: 41 / 415 instance(s) with major release record issues.
+SUMMARY:
+  41 / 415 instance(s) with major release record issues.
+Details:
+    5 / 41 instance(s) with zero release records.
+    23 / 41 instance(s) with four release records.
+    13 / 41 instance(s) with five release records.

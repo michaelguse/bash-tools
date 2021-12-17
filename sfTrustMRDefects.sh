@@ -82,13 +82,29 @@ for var in ${arr[@]}; do
 
       fi
 
+      if [ $len == 0 ]; then
+        ((c0++))
+      elif [ $len == 1 ]; then
+        ((c1++))
+      elif [ $len == 2 ]; then
+        ((c2++))
+      elif [ $len == 3 ]; then
+        ((c3++))
+      elif [ $len == 4 ]; then
+        ((c4++))
+      elif [ $len == 5 ]; then
+        ((c5++))
+      elif [ $len > 5 ]; then
+        ((c5gt++))
+      fi
+
       test -f relFile1 && rm relFile1
       test -f relFile2 && rm relFile2
       test -f relFile && rm relFile
 
-    # else
+    else
 
-      # printf "Instance $(echo "$INST" | awk '{print toupper($0)}') is not an active instance.\n"
+      printf "Instance $(echo "$INST" | awk '{print toupper($0)}') is not an active instance.\n"
 
     fi
 
@@ -97,4 +113,23 @@ for var in ${arr[@]}; do
 
 done
 
-printf "SUMMARY: ${il} / ${ol} instance(s) with major release record issues.\n"
+printf "SUMMARY:\n  ${il} / ${ol} instance(s) with major release record issues.\nDetails:\n"
+
+if [ $c0 > 0 ]; then 
+  printf "    ${c0} / ${il} instance(s) with zero release records.\n"
+fi
+if [ $c1 > 0 ]; then 
+  printf "    ${c1} / ${il} instance(s) with one release record.\n"
+fi
+if [ $c2 > 0 ]; then 
+  printf "    ${c2} / ${il} instance(s) with two release records.\n"
+fi
+if [ $c4 > 0 ]; then 
+  printf "    ${c4} / ${il} instance(s) with four release records.\n"
+fi
+if [ $c5 > 0 ]; then 
+  printf "    ${c5} / ${il} instance(s) with five release records.\n"
+fi
+if [ $c5gt > 0 ]; then 
+  printf "    ${c5gt} / ${il} instance(s) with more than five release records.\n"
+fi
