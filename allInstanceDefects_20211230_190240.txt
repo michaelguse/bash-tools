@@ -1,0 +1,86 @@
+
+/--------------------------------------------------/
+/                                                  /
+/  JOB: Major Release defects on Trust             /
+/                                                  /
+/  AUTHOR: Michael Guse - mguse@salesforce.com     /
+/                                                  /
+/  RUN DATE: 2021-12-30 19:02:40 CST               /
+/                                                  /
+/--------------------------------------------------/
+
+USA24S has incorrect number (0) of Major Release records!
+
+  Instance:    "USA24S"
+  Location:    "NA" 
+  Status:      "OK" 
+  Current Release:  "Spring '22 Patch 2" 
+
+  Upcoming Releases:
+
+/---------------------------/
+
+USA26 has incorrect number (0) of Major Release records!
+
+  Instance:    "USA26"
+  Location:    "NA" 
+  Status:      "OK" 
+  Current Release:  "Winter '22 Patch 17.5" 
+
+  Upcoming Releases:
+
+/---------------------------/
+
+IND18S has incorrect number (4) of Major Release records!
+
+  Instance:    "IND18S"
+  Location:    "APAC" 
+  Status:      "OK" 
+  Current Release:  "Winter '22 Patch 17.5" 
+
+  Upcoming Releases:
+    2022-02-12T00:00:00.000Z - Spring '22 Major Release 
+    2022-06-10T23:00:00.000Z - Summer '22 Major Release 
+    2022-10-14T21:30:00.000Z - Winter '23 Major Release 
+    2022-10-14T23:00:00.000Z - Winter '23 Major Release 
+
+/---------------------------/
+
+USA18S has incorrect number (0) of Major Release records!
+
+  Instance:    "USA18S"
+  Location:    "NA" 
+  Status:      "OK" 
+  Current Release:  "Spring '22 Patch 2" 
+
+  Upcoming Releases:
+
+/---------------------------/
+
+USA10S has incorrect number (0) of Major Release records!
+
+  Instance:    "USA10S"
+  Location:    "NA" 
+  Status:      "OK" 
+  Current Release:  "Spring '22 Patch 2" 
+
+  Upcoming Releases:
+
+/---------------------------/
+
+USA16S has incorrect number (0) of Major Release records!
+
+  Instance:    "USA16S"
+  Location:    "NA" 
+  Status:      "OK" 
+  Current Release:  "Spring '22 Patch 2" 
+
+  Upcoming Releases:
+
+/---------------------------/
+
+SUMMARY:
+  6 / 415 instance(s) with major release record issues.
+Details:
+    5 / 6 instance(s) with zero release records.
+    1 / 6 instance(s) with four release records.
