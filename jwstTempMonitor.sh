@@ -14,8 +14,8 @@ echo
 
 curl -sS https://api.jwst-hub.com/track -o jwstOut
 
-jq -r -f jwstTempCheck.jq jwstOut | awk '{printf("%s\n", $0)}' > jwstTempCheckResult.new
+jq '. | {dateTime: .timestamp, elapsedTime: .launchElapsedTime, percentCompleted: .percentageCompleted, speedKmS: .speedKmS, temps: .tempC}' jwstOut
 
-cat jwstTempCheckResult.new
+jq -r -f jwstTempCheck.jq jwstOut | awk '{printf("%s\n", $0)}' > jwstTempCheckResult.new
 
 cat jwstTempCheckResult.new >>jwstTempFile.csv
