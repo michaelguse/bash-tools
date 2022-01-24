@@ -4,36 +4,38 @@ import pandas as pd
 
 df = pd.read_csv('/Users/mguse/Google Drive/Workspaces/Salesforce/bash-tools/jwstTempFile.csv')
 
-fig = make_subplots(rows=3, cols=1,
+fig = make_subplots(rows=4, cols=1,
                     shared_xaxes=True,
                     vertical_spacing=0.05)
 
-fig.update_layout(height=800, width=1200,
+fig.update_layout(width=1200,
                   title_text="James Webb Space Telescope (JWST) REST API over time")
 
-fig.update_yaxes(title="Temperature [Celsius]", range=(-350,100), row=1, col=1)
+fig.update_yaxes(title="Temp [Celsius]", row=1, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempWarmSide1C"], 
                 mode='lines+markers', name="warmSide1C"), 
                 row=1, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempWarmSide2C"], 
                 mode='lines+markers', name="warmSide2C"),
               row=1, col=1)
+
+fig.update_yaxes(title="Temp [Celsius]", row=2, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempCoolSide1C"], 
                 mode='lines+markers', name="coolSide1C"),
-              row=1, col=1)
+              row=2, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempCoolSide2C"], 
                 mode='lines+markers', name="coolSide2C"),
-              row=1, col=1)
-
-fig.update_yaxes(title="Speed [km/s]", range=(0,0.6), row=2, col=1)
-fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" speedKmS"], 
-                mode='lines+markers', name="JWST speed"),
               row=2, col=1)
 
-fig.update_yaxes(title="Trip Completed [%]", range=(60,100), row=3, col=1)
+fig.update_yaxes(title="Speed [km/s]", row=3, col=1)
+fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" speedKmS"], 
+                mode='lines+markers', name="JWST speed"),
+              row=3, col=1)
+
+fig.update_yaxes(title="Trip Completed [%]", row=4, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" percentCompleted"], 
                 mode='lines+markers', name="Journey to L2"),
-              row=3, col=1)
-fig.update_xaxes(title="Date & Time [UTC]", row=3, col=1)
+              row=4, col=1)
+fig.update_xaxes(title="Date & Time [UTC]", row=4, col=1)
 
 fig.show()
