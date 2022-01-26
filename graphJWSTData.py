@@ -13,18 +13,18 @@ fig.update_layout(width=1200,
 
 fig.update_yaxes(title="Temp [Celsius]", row=1, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempWarmSide1C"], 
-                mode='lines+markers', name="warmSide1C"), 
+                mode='lines+markers', name="warmSide1C", line_color="red"), 
                 row=1, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempWarmSide2C"], 
-                mode='lines+markers', name="warmSide2C"),
+                mode='lines+markers', name="warmSide2C", line_color="orange"),
               row=1, col=1)
 
 fig.update_yaxes(title="Temp [Celsius]", row=2, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempCoolSide1C"], 
-                mode='lines+markers', name="coolSide1C"),
+                mode='lines+markers', name="coolSide1C", line_color="blue"),
               row=2, col=1)
 fig.add_trace(go.Scatter(x=df["Timestamp"], y=df[" tempCoolSide2C"], 
-                mode='lines+markers', name="coolSide2C"),
+                mode='lines+markers', name="coolSide2C", line_color="purple"),
               row=2, col=1)
 
 fig.update_yaxes(title="Speed [km/s]", row=3, col=1)
