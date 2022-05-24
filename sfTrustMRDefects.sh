@@ -1,5 +1,7 @@
 #!/bin/bash
-  
+
+l_procDateTime=`date "+%Y-%m-%d %H:%M:%S %Z"`
+
 echo
 echo '/--------------------------------------------------/'
 echo "/                                                  /"
@@ -7,7 +9,7 @@ echo "/  JOB: Major Release defects on Trust             /"
 echo "/                                                  /"
 echo "/  AUTHOR: Michael Guse - mguse@salesforce.com     /"
 echo "/                                                  /"
-echo "/  RUN DATE: `date "+%Y-%m-%d %H:%M:%S %Z"`               /"
+echo "/  RUN DATE: ${l_procDateTime}               /"
 echo "/                                                  /"
 echo '/--------------------------------------------------/'
 echo
@@ -31,8 +33,8 @@ for var in ${arr[@]}; do
 
     # if no domain match, search for direct instance name matches
     if [ -z ${INST} ]; then 
-      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.type == "doc") | [ .key ] | @tsv'`
-      #printf "INST(doc): $INST\n"
+      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.isActive == true) | [ .key ] | @tsv'`
+      #printf "INST(pod): $INST\n"
     fi
     
     # Lookup instance status details from SF Trust REST API
@@ -113,7 +115,8 @@ for var in ${arr[@]}; do
 
 done
 
-printf "SUMMARY:\n  ${il} / ${ol} instance(s) with major release record issues.\nDetails:\n"
+printf "SUMMARY - ${l_procDateTime}\n"
+printf "  ${il} / ${ol} instance(s) with major release record issues.\nDetails:\n"
 
 if [ $c0 > 0 ]; then 
   printf "    ${c0} / ${il} instance(s) with zero release records.\n"
