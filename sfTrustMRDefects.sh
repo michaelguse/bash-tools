@@ -14,11 +14,16 @@ echo "/                                                  /"
 echo '/--------------------------------------------------/'
 echo
 
-curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
+_in=""
 
-jq -r -f listAllInst.jq tmpFile > sb-prod-list.txt
-
-IFS=$'\n' read -ra arr -d '' < sb-prod-list.txt
+if [ -z "$1" ]
+then
+  curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
+  jq -r -f listAllInst.jq tmpFile > sb-prod-list.txt
+  IFS=$'\n' read -ra arr -d '' < sb-prod-list.txt
+else
+  arr=($1)
+fi
 
 let "il=0"
 let "ol=0"
@@ -75,7 +80,7 @@ for var in ${arr[@]}; do
         printf "  Upcoming Releases:\n"
         for ((i=0; i<len; i++)); do
           # printf " i = $i \n"
-          printf "    `jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` \n"
+          printf "    `jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` (MaintId: `jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`)\n"
         done
 
         echo
