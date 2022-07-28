@@ -1,7 +1,10 @@
 # bash-tools scripts to ignore
 sfTrustResult.new
 sfTrustResult.old
+srv-prd-info.new
+srv-prd-info.old
 hasChanged
+srvprd_hasChanged
 tmpFile
 newDate
 oldDate
