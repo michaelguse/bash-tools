@@ -4,6 +4,8 @@ echo '/-------------------------------------------/'
 echo
 echo "   Salesforce Instance Lookup    "
 echo
+echo "   Input: "$@
+echo
 echo "   `date "+%Y-%m-%d %H:%M:%S %Z"`"
 echo
 echo '/-------------------------------------------/'
@@ -19,7 +21,7 @@ for var in $@; do
 
     # if no domain match, search for direct instance name matches
     if [ -z ${INST} ]; then 
-      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.type == "doc") | [ .key ] | @tsv'`
+      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | [ .key ] | @tsv'`
       #printf "INST(doc): $INST\n"
     fi
     
