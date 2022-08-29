@@ -10,7 +10,7 @@ l_procDateTime=`date "+%Y-%m-%d %H:%M:%S %Z"`
 echo
 echo '/--------------------------------------------------/'
 echo "/                                                  /"
-echo "/  JOB: List all services by products              /"
+echo "/  JOB: List all Services by Products              /"
 echo "/                                                  /"
 echo "/  AUTHOR: Michael Guse - mguse@salesforce.com     /"
 echo "/                                                  /"
