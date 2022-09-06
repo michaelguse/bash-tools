@@ -2,6 +2,9 @@
 
 l_procDateTime=`date "+%Y-%m-%d %H:%M:%S %Z"`
 
+echo "Run Date: ${l_procDateTime}" > maintDiffOutput.log
+echo >> maintDiffOutput.log
+
 echo
 echo '/--------------------------------------------------/'
 echo "/                                                  /"
@@ -46,6 +49,23 @@ for var in ${arr[@]}; do
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
 
     jq '. | select(.isActive == true)' sfTrustFile > activeInstance
+    jq '.Maintenances|sort_by(.id)' sfTrustFile > inst.sorted
+
+    curl -sS "https://api.status.salesforce.com/v1/maintenances?instance=${INST}&limit=1000&offset=0" -o sfMaintFile
+
+    jq '.|sort_by(.id)' sfMaintFile > maint.sorted
+    
+    diff maint.sorted inst.sorted > diffMaint
+
+    if test -s diffMaint; then
+      echo "==> $INST: Detected Maintenance differences between instance and maintenance route <==" >> maintDiffOutput.log
+      echo  >> maintDiffOutput.log
+      diff -y --left-column maint.sorted inst.sorted >> maintDiffOutput.log
+      echo >> maintDiffOutput.log
+    else
+      echo "No maintenance differences detected between instance and maintenance route!" >> maintDiffOutput.log
+      echo >> maintDiffOutput.log
+    fi
 
     if [ -s activeInstance ]; then
 
@@ -115,7 +135,7 @@ for var in ${arr[@]}; do
 
     fi
 
-  test -f sfTrustFile && rm sfTrustFile
+  # test -f sfTrustFile && rm sfTrustFile
   test -f activeInstance && rm activeInstance
 
 done
