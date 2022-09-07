@@ -58,14 +58,20 @@ for var in ${arr[@]}; do
     diff maint.sorted inst.sorted > diffMaint
 
     if test -s diffMaint; then
-      echo "==> $INST: Detected Maintenance differences between instance and maintenance route <==" >> maintDiffOutput.log
+      echo "==> $INST: Detected Maintenance differences between maintenance and instance route <==" >> maintDiffOutput.log
       echo  >> maintDiffOutput.log
-      diff -y --left-column maint.sorted inst.sorted >> maintDiffOutput.log
+      less diffMaint >> maintDiffOutput.log
       echo >> maintDiffOutput.log
     else
-      echo "No maintenance differences detected between instance and maintenance route!" >> maintDiffOutput.log
+      echo "==> $INST: No maintenance differences detected between maintenance and instance route!" >> maintDiffOutput.log
       echo >> maintDiffOutput.log
     fi
+
+    test -f sfTrustFile && rm sfTrustFile
+    test -f sfMaintFile && rm sfMaintFile
+    test -f inst.sorted && rm inst.sorted
+    test -f maint.sorted && rm maint.sorted
+    test -f diffMaint && rm diffMaint
 
     if [ -s activeInstance ]; then
 
