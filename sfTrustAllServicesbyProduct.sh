@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 clear
 
 if test -f srv-prd-info.new; then

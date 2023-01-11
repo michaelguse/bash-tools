@@ -23,7 +23,7 @@ if [ -z "$1" ]
 then
   curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
   jq -r -f listAllInst.jq tmpFile > sb-prod-list.txt
-  IFS=$'\n' read -ra arr -d '' < sb-prod-list.txt
+  IFS=$'\n' read -r -d '' -a arr  < sb-prod-list.txt
 else
   arr=($1)
 fi
