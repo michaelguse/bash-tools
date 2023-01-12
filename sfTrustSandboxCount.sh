@@ -55,7 +55,7 @@ if test -s hasChanged; then
   echo 
   echo "CURRENT (NEW)                                                 ( PREVIOUS (OLD)                                 "
   echo "--------------------------------------------------------------(------------------------------------------------"
-  diff -y --left-column sfTrustResult.new sfTrustResult.old
+  diff -y sfTrustResult.new sfTrustResult.old
 else
   echo "No changes detected since last run!"
   echo
