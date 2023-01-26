@@ -24,6 +24,8 @@ npm-debug.log
 # Local development
 .vscode
 .env
+.venv
+.ipynb_checkpoints
 .swp
 *.env
 *.dev

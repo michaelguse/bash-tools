@@ -2,7 +2,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_csv('/Users/mguse/Google Drive/Workspaces/Salesforce/bash-tools/jwstTempFile.csv')
+df = pd.read_csv('/Users/mguse/Documents/workspaces/Salesforce/bash-tools/jwstTempFile.csv')
 
 fig = make_subplots(rows=4, cols=1,
                     shared_xaxes=True,
