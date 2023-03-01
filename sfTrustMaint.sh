@@ -43,7 +43,7 @@ for var in $@; do
         fi
 
     else
-        printf "Could not find ${VARIN} on Salesforce Trust website .\n"
+        printf "${VARIN} - not listed on Salesforce Trust website .\n"
     fi
     
   test -f sfMaintFile && rm sfMaintFile
