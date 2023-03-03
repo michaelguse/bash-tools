@@ -29,7 +29,7 @@ for numerrors in $@; do
         ./getInstanceFromDomainNameList.sh sfTrustErrors.tmp > details-${numerrors}-errors.tmp
         
         if test -s details-${numerrors}-errors.tmp; then
-            echo "Summer '23 release errors"
+            echo "Summer '23 release info"
             less details-${numerrors}-errors.tmp | grep "\- Summer '23" | cut -c 1-16 | sort | uniq -c
             echo
         fi
