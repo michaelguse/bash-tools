@@ -49,29 +49,6 @@ for var in ${arr[@]}; do
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
 
     jq '. | select(.isActive == true)' sfTrustFile > activeInstance
-    jq '.Maintenances|sort_by(.id)' sfTrustFile > inst.sorted
-
-    curl -sS "https://api.status.salesforce.com/v1/maintenances?instance=${INST}&limit=1000&offset=0" -o sfMaintFile
-
-    jq '.|sort_by(.id)' sfMaintFile > maint.sorted
-    
-    diff maint.sorted inst.sorted > diffMaint
-
-    if test -s diffMaint; then
-      echo "==> $INST: Detected Maintenance differences between maintenance and instance route <==" >> maintDiffOutput.log
-      echo  >> maintDiffOutput.log
-      less diffMaint >> maintDiffOutput.log
-      echo >> maintDiffOutput.log
-    else
-      echo "==> $INST: No maintenance differences detected between maintenance and instance route!" >> maintDiffOutput.log
-      echo >> maintDiffOutput.log
-    fi
-
-    test -f sfTrustFile && rm sfTrustFile
-    test -f sfMaintFile && rm sfMaintFile
-    test -f inst.sorted && rm inst.sorted
-    test -f maint.sorted && rm maint.sorted
-    test -f diffMaint && rm diffMaint
 
     if [ -s activeInstance ]; then
 
@@ -90,7 +67,7 @@ for var in ${arr[@]}; do
       len=`jq '. | length' relFile` 
       # printf "len: $len \n"
  
-      if [ $len != 3 ]; then
+      #if [ $len != 3 ]; then
 
         ((il++))
         
@@ -113,7 +90,7 @@ for var in ${arr[@]}; do
         echo '/---------------------------/'
         echo
 
-      fi
+      #fi
 
       if [ $len == 0 ]; then
         ((c0++))
@@ -157,6 +134,9 @@ if [ $c1 > 0 ]; then
 fi
 if [ $c2 > 0 ]; then 
   printf "    ${c2} / ${il} instance(s) with two release records.\n"
+fi
+if [ $c3 > 0 ]; then 
+  printf "    ${c3} / ${il} instance(s) with three release records.\n"
 fi
 if [ $c4 > 0 ]; then 
   printf "    ${c4} / ${il} instance(s) with four release records.\n"
