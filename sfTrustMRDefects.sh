@@ -65,32 +65,27 @@ for var in ${arr[@]}; do
       jq '. |= sort_by(.start)' relFile2 > relFile
       
       len=`jq '. | length' relFile` 
-      # printf "len: $len \n"
- 
-      #if [ $len != 3 ]; then
 
-        ((il++))
-        
-        printf "$(echo "$INST" | awk '{print toupper($0)}') has incorrect number (${len}) of Major Release records!\n\n"
+      ((il++))
+      
+      printf "$(echo "$INST" | awk '{print toupper($0)}') has (${len}) Major Release record(s)!\n\n"
 
-        if [ ${VARIN} != ${INST} ]; then 
-            printf "  MyDomain:    \"${VARIN}\"\n"
-        fi
-        printf "  Instance:    \"${l_instance}\"\n"
-        printf "  Location:    ${l_location} \n" 
-        printf "  Status:      ${l_status} \n"
-        printf "  Current Release:  ${l_currRel} \n\n"
-        printf "  Upcoming Releases:\n"
-        for ((i=0; i<len; i++)); do
-          # printf " i = $i \n"
-          printf "    `jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` (MaintId: `jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`)\n"
-        done
+      if [ ${VARIN} != ${INST} ]; then 
+          printf "  MyDomain:    \"${VARIN}\"\n"
+      fi
+      printf "  Instance:    \"${l_instance}\"\n"
+      printf "  Location:    ${l_location} \n" 
+      printf "  Status:      ${l_status} \n"
+      printf "  Current Release:  ${l_currRel} \n\n"
+      printf "  Upcoming Releases:\n"
+      for ((i=0; i<len; i++)); do
+        # printf " i = $i \n"
+        printf "    `jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` (MaintId: `jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`)\n"
+      done
 
-        echo
-        echo '/---------------------------/'
-        echo
-
-      #fi
+      echo
+      echo '/---------------------------/'
+      echo
 
       if [ $len == 0 ]; then
         ((c0++))
@@ -118,7 +113,7 @@ for var in ${arr[@]}; do
 
     fi
 
-  # test -f sfTrustFile && rm sfTrustFile
+  test -f sfTrustFile && rm sfTrustFile
   test -f activeInstance && rm activeInstance
 
 done
