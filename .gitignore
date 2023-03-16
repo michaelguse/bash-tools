@@ -30,6 +30,7 @@ npm-debug.log
 *.env
 *.dev
 *.log
+*.arc
 *.tmp
 .DS_Store
 .eslintrc.js
