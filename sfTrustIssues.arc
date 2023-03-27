@@ -93,3 +93,23 @@ Details:
     2 / 528 instance(s) with one release record.
     17 / 528 instance(s) with two release records.
     505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-24 08:50:12 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-26 19:20:47 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
