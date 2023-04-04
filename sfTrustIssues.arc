@@ -113,3 +113,63 @@ Details:
     2 / 528 instance(s) with one release record.
     17 / 528 instance(s) with two release records.
     505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-27 07:49:11 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-28 09:22:27 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-29 09:21:35 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-30 09:35:58 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-03-31 07:59:06 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    4 / 528 instance(s) with zero release records.
+    2 / 528 instance(s) with one release record.
+    17 / 528 instance(s) with two release records.
+    505 / 528 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-03 14:51:54 CDT
+  534 / 534 instance(s) with major release record issues.
+Details:
+    9 / 534 instance(s) with zero release records.
+    3 / 534 instance(s) with one release record.
+    17 / 534 instance(s) with two release records.
+    505 / 534 instance(s) with three release records.
