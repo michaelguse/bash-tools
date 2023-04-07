@@ -173,3 +173,43 @@ Details:
     3 / 534 instance(s) with one release record.
     17 / 534 instance(s) with two release records.
     505 / 534 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-04 11:55:28 CDT
+  534 / 534 instance(s) with major release record issues.
+Details:
+    9 / 534 instance(s) with zero release records.
+    3 / 534 instance(s) with one release record.
+    17 / 534 instance(s) with two release records.
+    505 / 534 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-05 11:15:56 CDT
+  534 / 534 instance(s) with major release record issues.
+Details:
+    9 / 534 instance(s) with zero release records.
+    3 / 534 instance(s) with one release record.
+    17 / 534 instance(s) with two release records.
+    505 / 534 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-06 18:20:17 CDT
+  534 / 534 instance(s) with major release record issues.
+Details:
+    10 / 534 instance(s) with zero release records.
+    4 / 534 instance(s) with one release record.
+    17 / 534 instance(s) with two release records.
+    503 / 534 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-07 08:56:57 CDT
+  536 / 536 instance(s) with major release record issues.
+Details:
+    10 / 536 instance(s) with zero release records.
+    4 / 536 instance(s) with one release record.
+    17 / 536 instance(s) with two release records.
+    505 / 536 instance(s) with three release records.
