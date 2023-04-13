@@ -223,3 +223,43 @@ Details:
     4 / 532 instance(s) with one release record.
     17 / 532 instance(s) with two release records.
     505 / 532 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-04-10 14:43:05 CDT
+  524 / 524 instance(s) with major release record issues.
+Details:
+    6 / 524 instance(s) with zero release records.
+    4 / 524 instance(s) with one release record.
+    16 / 524 instance(s) with two release records.
+    498 / 524 instance(s) with three release records.
+    2024-02-03T05:00:00.000Z - Spring '24 Major Release (MaintId: 637785)
+
+/---------------------------/
+
+SUMMARY - 2023-04-11 11:41:47 CDT
+  206 / 206 instance(s) with major release record issues.
+Details:
+    5 / 206 instance(s) with one release record.
+    7 / 206 instance(s) with two release records.
+    194 / 206 instance(s) with three release records.
+    2024-02-03T05:00:00.000Z - Spring '24 Major Release (MaintId: 637785)
+
+/---------------------------/
+
+SUMMARY - 2023-04-12 12:59:28 CDT
+  541 / 541 instance(s) with major release record issues.
+Details:
+    6 / 541 instance(s) with one release record.
+    21 / 541 instance(s) with two release records.
+    514 / 541 instance(s) with three release records.
+    2024-02-03T05:00:00.000Z - Spring '24 Major Release (MaintId: 637785)
+
+/---------------------------/
+
+SUMMARY - 2023-04-13 10:09:53 CDT
+  540 / 540 instance(s) with major release record issues.
+Details:
+    6 / 540 instance(s) with one release record.
+    21 / 540 instance(s) with two release records.
+    513 / 540 instance(s) with three release records.
