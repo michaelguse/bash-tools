@@ -263,3 +263,13 @@ Details:
     6 / 540 instance(s) with one release record.
     21 / 540 instance(s) with two release records.
     513 / 540 instance(s) with three release records.
+    2024-02-03T05:00:00.000Z - Spring '24 Major Release (MaintId: 637785)
+
+/---------------------------/
+
+SUMMARY - 2023-04-14 09:58:42 CDT
+  541 / 541 instance(s) with major release record issues.
+Details:
+    6 / 541 instance(s) with one release record.
+    21 / 541 instance(s) with two release records.
+    514 / 541 instance(s) with three release records.
