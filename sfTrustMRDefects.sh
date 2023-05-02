@@ -33,18 +33,8 @@ let "ol=0"
 
 for var in ${arr[@]}; do
     # translate input variable to uppercase
-    VARIN=$(echo "${var}" | awk '{print toupper($0)}')
+    INST=$(echo "${var}" | awk '{print toupper($0)}')
 
-    # Search for domain match for input variable on SF Trust site via REST API
-    INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.aliasType == "domain") | [ .instanceKey ] | @tsv'`
-    #printf "INST(domain): $INST\n"
-
-    # if no domain match, search for direct instance name matches
-    if [ -z ${INST} ]; then 
-      INST=`curl -sS "https://api.status.salesforce.com/v1/search/${VARIN}" | jq -r '.[] | select(.isActive == true) | [ .key ] | @tsv'`
-      #printf "INST(pod): $INST\n"
-    fi
-    
     # Lookup instance status details from SF Trust REST API
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
 
@@ -70,9 +60,6 @@ for var in ${arr[@]}; do
       
       printf "$(echo "$INST" | awk '{print toupper($0)}') has (${len}) Major Release record(s)!\n\n"
 
-      if [ ${VARIN} != ${INST} ]; then 
-          printf "  MyDomain:    \"${VARIN}\"\n"
-      fi
       printf "  Instance:    \"${l_instance}\"\n"
       printf "  Location:    ${l_location} \n" 
       printf "  Status:      ${l_status} \n"
