@@ -412,3 +412,143 @@ Details:
     17 / 545 instance(s) with one release record.
     22 / 545 instance(s) with two release records.
     506 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-03 10:57:04 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    22 / 545 instance(s) with two release records.
+    506 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-04 14:51:48 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    22 / 545 instance(s) with two release records.
+    506 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-05 16:58:05 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    21 / 545 instance(s) with two release records.
+    507 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-07 20:20:15 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    21 / 545 instance(s) with two release records.
+    507 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-08 11:30:26 CDT
+  544 / 544 instance(s) with major release record issues.
+Details:
+    17 / 544 instance(s) with one release record.
+    21 / 544 instance(s) with two release records.
+    506 / 544 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-09 09:35:52 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    21 / 545 instance(s) with two release records.
+    507 / 545 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 638914)
+
+/---------------------------/
+
+SUMMARY - 2023-05-10 08:17:29 CDT
+  545 / 545 instance(s) with major release record issues.
+Details:
+    17 / 545 instance(s) with one release record.
+    21 / 545 instance(s) with two release records.
+    507 / 545 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-05-11 07:18:46 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    3 / 548 instance(s) with zero release records.
+    17 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2023-05-12 08:02:49 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    3 / 548 instance(s) with zero release records.
+    17 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-13 09:21:00 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-14 22:59:51 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-15 08:38:08 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-16 10:37:38 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    21 / 548 instance(s) with two release records.
+    507 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-17 08:03:22 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    22 / 548 instance(s) with two release records.
+    506 / 548 instance(s) with three release records.
