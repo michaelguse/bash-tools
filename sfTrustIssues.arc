@@ -552,3 +552,73 @@ Details:
     20 / 548 instance(s) with one release record.
     22 / 548 instance(s) with two release records.
     506 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-18 08:22:05 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    22 / 548 instance(s) with two release records.
+    506 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-19 08:45:01 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    22 / 548 instance(s) with two release records.
+    506 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-22 10:40:49 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    22 / 548 instance(s) with two release records.
+    506 / 548 instance(s) with three release records.
+    2023-06-10T16:00:00.000Z - Summer '23 Major Release (MaintId: 639456)
+
+/---------------------------/
+
+SUMMARY - 2023-05-23 11:24:15 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    20 / 548 instance(s) with one release record.
+    22 / 548 instance(s) with two release records.
+    506 / 548 instance(s) with three release records.
+    2024-02-10T16:00:00.000Z - Spring '24 Major Release (MaintId: 640211)
+
+/---------------------------/
+
+SUMMARY - 2023-05-24 09:07:18 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    16 / 548 instance(s) with two release records.
+    526 / 548 instance(s) with three release records.
+    6 / 548 instance(s) with four release records.
+    2024-02-10T16:00:00.000Z - Spring '24 Major Release (MaintId: 640211)
+
+/---------------------------/
+
+SUMMARY - 2023-05-25 10:28:06 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    16 / 548 instance(s) with two release records.
+    526 / 548 instance(s) with three release records.
+    6 / 548 instance(s) with four release records.
+    2024-02-10T16:00:00.000Z - Spring '24 Major Release (MaintId: 640211)
+
+/---------------------------/
+
+SUMMARY - 2023-05-26 08:53:34 CDT
+  548 / 548 instance(s) with major release record issues.
+Details:
+    16 / 548 instance(s) with two release records.
+    526 / 548 instance(s) with three release records.
+    6 / 548 instance(s) with four release records.
