@@ -762,3 +762,13 @@ Details:
     191 / 579 instance(s) with two release records.
     375 / 579 instance(s) with three release records.
     1 / 579 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-06-16 10:25:11 CDT
+  578 / 578 instance(s) with major release record issues.
+Details:
+    12 / 578 instance(s) with one release record.
+    191 / 578 instance(s) with two release records.
+    374 / 578 instance(s) with three release records.
+    1 / 578 instance(s) with four release records.
