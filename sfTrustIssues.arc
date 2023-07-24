@@ -972,3 +972,83 @@ Details:
     319 / 654 instance(s) with three release records.
     308 / 654 instance(s) with four release records.
     1 / 654 instance(s) with five release records.
+/---------------------------/
+
+SUMMARY - 2023-07-12 09:59:52 CDT
+  654 / 654 instance(s) with major release record issues.
+Details:
+    4 / 654 instance(s) with one release record.
+    22 / 654 instance(s) with two release records.
+    319 / 654 instance(s) with three release records.
+    308 / 654 instance(s) with four release records.
+    1 / 654 instance(s) with five release records.
+curl: (6) Could not resolve host: api.status.salesforce.com
+jq: error: Could not open file sfTrustFile: No such file or directory
+Instance IND94 is not an active instance.
+SUMMARY - 2023-07-13 06:26:42 CDT
+  528 / 528 instance(s) with major release record issues.
+Details:
+    23 / 528 instance(s) with two release records.
+    283 / 528 instance(s) with three release records.
+    221 / 528 instance(s) with four release records.
+    1 / 528 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2023-07-14 22:44:21 EDT
+  654 / 654 instance(s) with major release record issues.
+Details:
+    9 / 654 instance(s) with one release record.
+    23 / 654 instance(s) with two release records.
+    620 / 654 instance(s) with three release records.
+    2 / 654 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-07-17 14:03:28 CDT
+  654 / 654 instance(s) with major release record issues.
+Details:
+    9 / 654 instance(s) with one release record.
+    23 / 654 instance(s) with two release records.
+    620 / 654 instance(s) with three release records.
+    2 / 654 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-18 12:27:05 CDT
+  661 / 661 instance(s) with major release record issues.
+Details:
+    5 / 661 instance(s) with zero release records.
+    10 / 661 instance(s) with one release record.
+    23 / 661 instance(s) with two release records.
+    621 / 661 instance(s) with three release records.
+    2 / 661 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-07-19 11:46:11 CDT
+  654 / 654 instance(s) with major release record issues.
+Details:
+    9 / 654 instance(s) with one release record.
+    18 / 654 instance(s) with two release records.
+    625 / 654 instance(s) with three release records.
+    2 / 654 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-07-20 09:21:48 CDT
+  654 / 654 instance(s) with major release record issues.
+Details:
+    9 / 654 instance(s) with one release record.
+    18 / 654 instance(s) with two release records.
+    625 / 654 instance(s) with three release records.
+    2 / 654 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-24 09:56:45 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
