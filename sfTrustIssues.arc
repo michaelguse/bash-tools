@@ -1052,3 +1052,163 @@ Details:
     17 / 716 instance(s) with two release records.
     626 / 716 instance(s) with three release records.
     2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-25 11:00:19 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-26 09:53:05 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-27 11:23:22 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-28 10:45:02 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-30 17:14:59 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-07-31 10:34:20 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-02 12:35:03 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-03 09:26:13 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-04 07:13:53 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-07 10:46:54 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-08 11:19:50 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-09 08:56:19 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    626 / 716 instance(s) with three release records.
+    2 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-10 11:37:05 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    625 / 716 instance(s) with three release records.
+    3 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-11 08:45:00 CDT
+  716 / 716 instance(s) with major release record issues.
+Details:
+    62 / 716 instance(s) with zero release records.
+    9 / 716 instance(s) with one release record.
+    17 / 716 instance(s) with two release records.
+    625 / 716 instance(s) with three release records.
+    3 / 716 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-15 11:20:10 CDT
+  720 / 720 instance(s) with major release record issues.
+Details:
+    62 / 720 instance(s) with zero release records.
+    9 / 720 instance(s) with one release record.
+    17 / 720 instance(s) with two release records.
+    629 / 720 instance(s) with three release records.
+    3 / 720 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-08-16 12:14:08 CDT
+  737 / 737 instance(s) with major release record issues.
+Details:
+    78 / 737 instance(s) with zero release records.
+    9 / 737 instance(s) with one release record.
+    17 / 737 instance(s) with two release records.
+    629 / 737 instance(s) with three release records.
+    3 / 737 instance(s) with four release records.

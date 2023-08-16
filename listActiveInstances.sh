@@ -1,0 +1,2 @@
+curl -sS https://api.status.salesforce.com/v1/instances -o tmpList
+jq -r -f '.[]|select(.isActive == true)|select(.Products[].key == "Salesforce_Services")|[.key,.status,.environment,.releaseVersion]|@csv' tmpList > tmpListResult.csv
