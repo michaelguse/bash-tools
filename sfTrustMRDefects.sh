@@ -37,7 +37,6 @@ for var in ${arr[@]}; do
 
     # Lookup instance status details from SF Trust REST API
     curl -sS "https://api.status.salesforce.com/v1/instances/${INST}/status?childProducts=false" -o sfTrustFile
-
     jq '. | select(.isActive == true)' sfTrustFile > activeInstance
 
     if [ -s activeInstance ]; then

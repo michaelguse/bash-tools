@@ -1392,3 +1392,93 @@ Details:
     630 / 748 instance(s) with three release records.
     4 / 748 instance(s) with four release records.
     1 / 748 instance(s) with five release records.
+
+SUMMARY - 2023-09-06 09:47:52 CDT
+  748 / 748 instance(s) with major release record issues.
+Details:
+    4 / 748 instance(s) with zero release records.
+    89 / 748 instance(s) with one release record.
+    20 / 748 instance(s) with two release records.
+    630 / 748 instance(s) with three release records.
+    4 / 748 instance(s) with four release records.
+    1 / 748 instance(s) with five release records.
+
+SUMMARY - 2023-09-07 09:06:51 CDT
+  748 / 748 instance(s) with major release record issues.
+Details:
+    4 / 748 instance(s) with zero release records.
+    89 / 748 instance(s) with one release record.
+    20 / 748 instance(s) with two release records.
+    630 / 748 instance(s) with three release records.
+    4 / 748 instance(s) with four release records.
+    1 / 748 instance(s) with five release records.
+
+SUMMARY - 2023-09-08 12:34:04 CDT
+  686 / 686 instance(s) with major release record issues.
+Details:
+    4 / 686 instance(s) with zero release records.
+    88 / 686 instance(s) with one release record.
+    18 / 686 instance(s) with two release records.
+    572 / 686 instance(s) with three release records.
+    3 / 686 instance(s) with four release records.
+    1 / 686 instance(s) with five release records.
+
+SUMMARY - 2023-09-08 15:18:35 CDT
+  710 / 710 instance(s) with major release record issues.
+Details:
+    4 / 710 instance(s) with zero release records.
+    83 / 710 instance(s) with one release record.
+    19 / 710 instance(s) with two release records.
+    599 / 710 instance(s) with three release records.
+    4 / 710 instance(s) with four release records.
+    1 / 710 instance(s) with five release records.
+
+SUMMARY - 2023-09-08 15:44:46 CDT
+  726 / 726 instance(s) with major release record issues.
+Details:
+    4 / 726 instance(s) with zero release records.
+    89 / 726 instance(s) with one release record.
+    20 / 726 instance(s) with two release records.
+    608 / 726 instance(s) with three release records.
+    4 / 726 instance(s) with four release records.
+    1 / 726 instance(s) with five release records.
+
+SUMMARY - 2023-09-09 21:18:46 CDT
+  737 / 737 instance(s) with major release record issues.
+Details:
+    4 / 737 instance(s) with zero release records.
+    79 / 737 instance(s) with one release record.
+    20 / 737 instance(s) with two release records.
+    629 / 737 instance(s) with three release records.
+    4 / 737 instance(s) with four release records.
+    1 / 737 instance(s) with five release records.
+
+SUMMARY - 2023-09-11 10:31:53 CDT
+  748 / 748 instance(s) with major release record issues.
+Details:
+    4 / 748 instance(s) with zero release records.
+    89 / 748 instance(s) with one release record.
+    20 / 748 instance(s) with two release records.
+    630 / 748 instance(s) with three release records.
+    4 / 748 instance(s) with four release records.
+    1 / 748 instance(s) with five release records.
+parse error: Invalid numeric literal at line 1, column 4
+Instance USA80S is not an active instance.
+SUMMARY - 2023-09-12 15:19:58 CDT
+  746 / 746 instance(s) with major release record issues.
+Details:
+    4 / 746 instance(s) with zero release records.
+    88 / 746 instance(s) with one release record.
+    20 / 746 instance(s) with two release records.
+    629 / 746 instance(s) with three release records.
+    5 / 746 instance(s) with four release records.
+/---------------------------/
+
+SUMMARY - 2023-09-13 09:13:01 CDT
+  750 / 750 instance(s) with major release record issues.
+Details:
+    4 / 750 instance(s) with zero release records.
+    89 / 750 instance(s) with one release record.
+    21 / 750 instance(s) with two release records.
+    632 / 750 instance(s) with three release records.
+    4 / 750 instance(s) with four release records.
