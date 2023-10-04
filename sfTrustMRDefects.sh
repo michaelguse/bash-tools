@@ -47,6 +47,7 @@ for var in ${arr[@]}; do
       l_location=`jq .location activeInstance`
       l_status=`jq .status activeInstance`
       l_currRel=`jq .releaseVersion activeInstance`
+      # Debug statement
       # printf "${l_instance}, ${l_location}, ${l_status}, ${l_currRel}\n"
 
       jq -f sfMRDefects.jq activeInstance > relFile1 
@@ -64,9 +65,31 @@ for var in ${arr[@]}; do
       printf "  Status:      ${l_status} \n"
       printf "  Current Release:  ${l_currRel} \n\n"
       printf "  Upcoming Releases:\n"
+
+      l_compare=""
       for ((i=0; i<len; i++)); do
-        # printf " i = $i \n"
-        printf "    `jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile` - `jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile` (MaintId: `jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`)\n"
+
+        l_relStart=`jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile`
+        l_relName=`jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile`
+        l_relMaintId=`jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`
+
+        printf "    $l_relStart - $l_relName (MaintId: $l_relMaintId)"
+        
+        # check for duplicate release entry        
+        if [[ $l_relName == $l_compare ]]
+        then
+          printf "  <-- duplicate entry\n" 
+          ((dupl++))
+        else
+          printf "\n"
+        fi
+        
+        #Debug statements
+        #printf "\nBefore: $l_compare"
+        #printf "\nAfter: $l_relName"
+
+        l_compare=$l_relName
+
       done
 
       echo
@@ -105,7 +128,9 @@ for var in ${arr[@]}; do
 done
 
 printf "SUMMARY - ${l_procDateTime}\n"
-printf "  ${il} / ${ol} instance(s) with major release record issues.\nDetails:\n"
+printf "${ol} active instance(s) were checked for major release record issues.\n"
+printf "${dupl} duplicate major release record entries were found.\n"
+printf "\nDetails:\n"
 
 if [ $c0 > 0 ]; then 
   printf "    ${c0} / ${il} instance(s) with zero release records.\n"
@@ -128,3 +153,5 @@ fi
 if [ $c5gt > 0 ]; then 
   printf "    ${c5gt} / ${il} instance(s) with more than five release records.\n"
 fi
+
+
