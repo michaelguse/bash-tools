@@ -17,19 +17,17 @@ echo "/                                                  /"
 echo '/--------------------------------------------------/'
 echo
 
-_in=""
-
 if [ -z "$1" ]
 then
   curl -sS https://api.status.salesforce.com/v1/instances/ -o tmpFile
   jq -r -f listAllInst.jq tmpFile > sb-prod-list.txt
   IFS=$'\n' read -r -d '' -a arr  < sb-prod-list.txt
 else
-  arr=($1)
+  arr=($@)
 fi
 
-let "il=0"
-let "ol=0"
+let "ol=0"     # initialize instance counter
+let "dupl=0"   # initialize duplicate counter
 
 for var in ${arr[@]}; do
     # translate input variable to uppercase
@@ -55,8 +53,6 @@ for var in ${arr[@]}; do
       jq '. |= sort_by(.start)' relFile2 > relFile
       
       len=`jq '. | length' relFile` 
-
-      ((il++))
       
       printf "$(echo "$INST" | awk '{print toupper($0)}') has (${len}) Major Release record(s)!\n\n"
 
@@ -133,25 +129,25 @@ printf "${dupl} duplicate major release record entries were found.\n"
 printf "\nDetails:\n"
 
 if [ $c0 > 0 ]; then 
-  printf "    ${c0} / ${il} instance(s) with zero release records.\n"
+  printf "    ${c0} / ${ol} instance(s) with zero release records.\n"
 fi
 if [ $c1 > 0 ]; then 
-  printf "    ${c1} / ${il} instance(s) with one release record.\n"
+  printf "    ${c1} / ${ol} instance(s) with one release record.\n"
 fi
 if [ $c2 > 0 ]; then 
-  printf "    ${c2} / ${il} instance(s) with two release records.\n"
+  printf "    ${c2} / ${ol} instance(s) with two release records.\n"
 fi
 if [ $c3 > 0 ]; then 
-  printf "    ${c3} / ${il} instance(s) with three release records.\n"
+  printf "    ${c3} / ${ol} instance(s) with three release records.\n"
 fi
 if [ $c4 > 0 ]; then 
-  printf "    ${c4} / ${il} instance(s) with four release records.\n"
+  printf "    ${c4} / ${ol} instance(s) with four release records.\n"
 fi
 if [ $c5 > 0 ]; then 
-  printf "    ${c5} / ${il} instance(s) with five release records.\n"
+  printf "    ${c5} / ${ol} instance(s) with five release records.\n"
 fi
 if [ $c5gt > 0 ]; then 
-  printf "    ${c5gt} / ${il} instance(s) with more than five release records.\n"
+  printf "    ${c5gt} / ${ol} instance(s) with more than five release records.\n"
 fi
 
 
