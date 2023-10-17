@@ -1672,3 +1672,63 @@ Details:
     83 / 797 instance(s) with one release record.
     204 / 797 instance(s) with two release records.
     476 / 797 instance(s) with three release records.
+
+SUMMARY - 2023-10-05 08:25:10 CDT
+800 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    4 / 800 instance(s) with zero release records.
+    13 / 800 instance(s) with one release record.
+    241 / 800 instance(s) with two release records.
+    542 / 800 instance(s) with three release records.
+/---------------------------/
+
+SUMMARY - 2023-10-06 10:14:38 CDT
+783 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    14 / 783 instance(s) with one release record.
+    247 / 783 instance(s) with two release records.
+    522 / 783 instance(s) with three release records.
+/---------------------------/
+
+SUMMARY - 2023-10-09 12:38:22 CDT
+770 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    8 / 770 instance(s) with one release record.
+    252 / 770 instance(s) with two release records.
+    510 / 770 instance(s) with three release records.
+/---------------------------/
+
+SUMMARY - 2023-10-10 10:45:49 CDT
+861 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    8 / 861 instance(s) with one release record.
+    332 / 861 instance(s) with two release records.
+    521 / 861 instance(s) with three release records.
+
+SUMMARY - 2023-10-16 10:39:23 CDT
+909 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    47 / 909 instance(s) with zero release records.
+    8 / 909 instance(s) with one release record.
+    333 / 909 instance(s) with two release records.
+    521 / 909 instance(s) with three release records.
+
+SUMMARY - 2023-10-17 12:40:39 CDT
+909 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    47 / 909 instance(s) with zero release records.
+    8 / 909 instance(s) with one release record.
+    333 / 909 instance(s) with two release records.
+    521 / 909 instance(s) with three release records.
