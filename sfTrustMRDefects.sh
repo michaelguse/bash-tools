@@ -68,8 +68,9 @@ for var in ${arr[@]}; do
         l_relStart=`jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile`
         l_relName=`jq -r --arg ij "$i" .[' $ij|tonumber '].name relFile`
         l_relMaintId=`jq -r --arg ij "$i" .[' $ij|tonumber '].maintId relFile`
+        l_relMaintStatus=`jq -r --arg ij "$i" .[' $ij|tonumber '].maintStatus relFile`
 
-        printf "    $l_relStart - $l_relName (MaintId: $l_relMaintId)"
+        printf "    $l_relStart - $l_relName (Id: $l_relMaintId, Status: $l_relMaintStatus)"
         
         # check for duplicate release entry        
         if [[ $l_relName == $l_compare ]]

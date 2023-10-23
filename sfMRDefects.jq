@@ -3,4 +3,4 @@
 | select(.message.maintenanceType == "release") 
 | select(.name | contains("Major Release")) 
 | select(.name | contains("-") | not) 
-| { "maintId" : .id, "name" : .name, "start" : .plannedStartTime, "end" : .plannedEndTime }
+| { "maintId" : .id, "maintStatus": .message.eventStatus, "name" : .name, "start" : .plannedStartTime, "end" : .plannedEndTime }
