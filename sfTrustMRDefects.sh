@@ -151,4 +151,5 @@ if [ $c5gt > 0 ]; then
   printf "    ${c5gt} / ${ol} instance(s) with more than five release records.\n"
 fi
 
+printf "\n"
 
