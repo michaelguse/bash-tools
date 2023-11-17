@@ -1905,3 +1905,111 @@ Details:
     348 / 972 instance(s) with two release records.
     511 / 972 instance(s) with three release records.
 
+/---------------------------/
+
+SUMMARY - 2023-11-08 09:05:37 CST
+972 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    105 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    346 / 972 instance(s) with two release records.
+    513 / 972 instance(s) with three release records.
+
+
+SUMMARY - 2023-11-09 08:45:52 CST
+972 active instance(s) were checked for major release record issues.
+12 duplicate major release record entries were found.
+
+Details:
+    105 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    342 / 972 instance(s) with two release records.
+    511 / 972 instance(s) with three release records.
+    6 / 972 instance(s) with four release records.
+
+
+SUMMARY - 2023-11-10 10:28:15 CST
+972 active instance(s) were checked for major release record issues.
+12 duplicate major release record entries were found.
+
+Details:
+    97 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    429 / 972 instance(s) with two release records.
+    432 / 972 instance(s) with three release records.
+    6 / 972 instance(s) with four release records.
+
+
+SUMMARY - 2023-11-12 20:50:38 CST
+972 active instance(s) were checked for major release record issues.
+12 duplicate major release record entries were found.
+
+Details:
+    97 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    429 / 972 instance(s) with two release records.
+    432 / 972 instance(s) with three release records.
+    6 / 972 instance(s) with four release records.
+
+
+SUMMARY - 2023-11-13 07:16:38 CST
+972 active instance(s) were checked for major release record issues.
+12 duplicate major release record entries were found.
+
+Details:
+    97 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    429 / 972 instance(s) with two release records.
+    432 / 972 instance(s) with three release records.
+    6 / 972 instance(s) with four release records.
+
+
+SUMMARY - 2023-11-14 08:47:09 CST
+972 active instance(s) were checked for major release record issues.
+6 duplicate major release record entries were found.
+
+Details:
+    97 / 972 instance(s) with zero release records.
+    8 / 972 instance(s) with one release record.
+    432 / 972 instance(s) with two release records.
+    432 / 972 instance(s) with three release records.
+    3 / 972 instance(s) with four release records.
+
+
+SUMMARY - 2023-11-15 08:17:13 CST
+970 active instance(s) were checked for major release record issues.
+5 duplicate major release record entries were found.
+
+Details:
+    97 / 970 instance(s) with zero release records.
+    7 / 970 instance(s) with one release record.
+    431 / 970 instance(s) with two release records.
+    433 / 970 instance(s) with three release records.
+    2 / 970 instance(s) with four release records.
+
+SUMMARY - 2023-11-16 08:32:13 CST
+972 active instance(s) were checked for major release record issues.
+65 duplicate major release record entries were found.
+
+Details:
+    50 / 972 instance(s) with zero release records.
+    50 / 972 instance(s) with one release record.
+    532 / 972 instance(s) with two release records.
+    300 / 972 instance(s) with three release records.
+    27 / 972 instance(s) with four release records.
+    12 / 972 instance(s) with five release records.
+
+
+SUMMARY - 2023-11-17 09:53:19 CST
+972 active instance(s) were checked for major release record issues.
+65 duplicate major release record entries were found.
+
+Details:
+    53 / 972 instance(s) with zero release records.
+    52 / 972 instance(s) with one release record.
+    822 / 972 instance(s) with two release records.
+    25 / 972 instance(s) with three release records.
+    20 / 972 instance(s) with four release records.
+
