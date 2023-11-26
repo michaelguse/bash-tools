@@ -2013,3 +2013,51 @@ Details:
     25 / 972 instance(s) with three release records.
     20 / 972 instance(s) with four release records.
 
+SUMMARY - 2023-11-20 08:31:26 CST
+964 active instance(s) were checked for major release record issues.
+13 duplicate major release record entries were found.
+
+Details:
+    1 / 964 instance(s) with zero release records.
+    51 / 964 instance(s) with one release record.
+    56 / 964 instance(s) with two release records.
+    845 / 964 instance(s) with three release records.
+    9 / 964 instance(s) with four release records.
+    2 / 964 instance(s) with five release records.
+
+SUMMARY - 2023-11-21 09:05:22 CST
+963 active instance(s) were checked for major release record issues.
+13 duplicate major release record entries were found.
+
+Details:
+    1 / 963 instance(s) with zero release records.
+    2 / 963 instance(s) with one release record.
+    3 / 963 instance(s) with two release records.
+    946 / 963 instance(s) with three release records.
+    9 / 963 instance(s) with four release records.
+    2 / 963 instance(s) with five release records.
+
+SUMMARY - 2023-11-22 09:19:40 CST
+961 active instance(s) were checked for major release record issues.
+13 duplicate major release record entries were found.
+
+Details:
+    1 / 961 instance(s) with zero release records.
+    2 / 961 instance(s) with one release record.
+    3 / 961 instance(s) with two release records.
+    944 / 961 instance(s) with three release records.
+    9 / 961 instance(s) with four release records.
+    2 / 961 instance(s) with five release records.
+
+SUMMARY - 2023-11-25 17:50:15 CST
+963 active instance(s) were checked for major release record issues.
+13 duplicate major release record entries were found.
+
+Details:
+    1 / 963 instance(s) with zero release records.
+    2 / 963 instance(s) with one release record.
+    3 / 963 instance(s) with two release records.
+    946 / 963 instance(s) with three release records.
+    9 / 963 instance(s) with four release records.
+    2 / 963 instance(s) with five release records.
+
