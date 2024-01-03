@@ -1,3 +1,414 @@
+
+SUMMARY - 2021-12-20 09:27:06 CDT
+  41 / 415 instance(s) with major release record issues.
+Details:
+    5 / 41 instance(s) with zero release records.
+    23 / 41 instance(s) with four release records.
+    13 / 41 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2021-12-27 08:12:26 CDT
+  41 / 415 instance(s) with major release record issues.
+Details:
+    5 / 41 instance(s) with zero release records.
+    23 / 41 instance(s) with four release records.
+    13 / 41 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2021-12-30 22:57:43 CDT
+  6 / 415 instance(s) with major release record issues.
+Details:
+    5 / 6 instance(s) with zero release records.
+    1 / 6 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-01-14 08:00:00 CDT
+  1 / 411 instance(s) with major release record issues.
+Details:
+    1 / 1 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-02-07 08:14:24 CDT
+  182 / 423 instance(s) with major release record issues.
+Details:
+    1 / 182 instance(s) with two release records.
+    181 / 182 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-02-15 08:00:00 CDT
+  284 / 429 instance(s) with major release record issues.
+Details:
+    2 / 284 instance(s) with two release records.
+    282 / 284 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-02-23 08:00:00 CDT
+  285 / 437 instance(s) with major release record issues.
+Details:
+    5 / 285 instance(s) with two release records.
+    280 / 285 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-03-02 08:00:00 CDT
+  287 / 439 instance(s) with major release record issues.
+Details:
+    5 / 287 instance(s) with two release records.
+    271 / 287 instance(s) with four release records.
+    11 / 287 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-03-08 08:00:00 CDT
+  282 / 447 instance(s) with major release record issues.
+Details:
+    271 / 282 instance(s) with four release records.
+    11 / 282 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-03-14 08:00:00 CDT
+  239 / 448 instance(s) with major release record issues.
+Details:
+    230 / 239 instance(s) with four release records.
+    9 / 239 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-03-18 08:00:00 CDT
+  0 / 452 instance(s) with major release record issues.
+Details:
+
+/---------------------------/
+
+SUMMARY - 2022-03-28 08:00:00 CDT
+  0 / 452 instance(s) with major release record issues.
+Details:
+
+/---------------------------/
+
+SUMMARY - 2022-04-12 08:00:00 CDT
+  0 / 463 instance(s) with major release record issues.
+Details:
+
+/---------------------------/
+
+SUMMARY - 2022-04-26 08:00:00 CDT
+  0 / 463 instance(s) with major release record issues.
+Details:
+
+/---------------------------/
+
+SUMMARY - 2022-05-04 08:00:00 CDT
+  4 / 467 instance(s) with major release record issues.
+Details:
+    4 / 4 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-05-05 08:00:00 CDT
+  7 / 470 instance(s) with major release record issues.
+Details:
+    7 / 7 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-05-06 08:00:00 CDT
+  16 / 479 instance(s) with major release record issues.
+Details:
+    13 / 16 instance(s) with zero release records.
+    3 / 16 instance(s) with one release record.
+
+/---------------------------/
+
+SUMMARY - 2022-05-09 08:00:00 CDT
+  26 / 493 instance(s) with major release record issues.
+Details:
+    23 / 26 instance(s) with zero release records.
+    3 / 26 instance(s) with one release record.
+
+/---------------------------/
+
+SUMMARY - 2022-05-17 08:00:00 CDT
+  30 / 493 instance(s) with major release record issues.
+Details:
+    18 / 30 instance(s) with zero release records.
+    3 / 30 instance(s) with one release record.
+    4 / 30 instance(s) with two release records.
+    4 / 30 instance(s) with four release records.
+    1 / 30 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-05-24 09:11:04 CDT
+  23 / 491 instance(s) with major release record issues.
+Details:
+    16 / 23 instance(s) with zero release records.
+    3 / 23 instance(s) with one release record.
+    4 / 23 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-05-31 13:28:51 CDT
+  42 / 491 instance(s) with major release record issues.
+Details:
+    6 / 42 instance(s) with one release record.
+    13 / 42 instance(s) with two release records.
+    23 / 42 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-01 15:45:16 CDT
+  23 / 491 instance(s) with major release record issues.
+Details:
+    19 / 23 instance(s) with one release record.
+    4 / 23 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-08 08:00:00 CDT
+  28 / 491 instance(s) with major release record issues.
+Details:
+    19 / 28 instance(s) with one release record.
+    4 / 28 instance(s) with four release records.
+    5 / 28 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-09 08:00:01 CDT
+  137 / 491 instance(s) with major release record issues.
+Details:
+    19 / 137 instance(s) with one release record.
+    109 / 137 instance(s) with two release records.
+    4 / 137 instance(s) with four release records.
+    5 / 137 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-10 08:00:01 CDT
+  178 / 491 instance(s) with major release record issues.
+Details:
+    19 / 178 instance(s) with one release record.
+    150 / 178 instance(s) with two release records.
+    4 / 178 instance(s) with four release records.
+    5 / 178 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-13 13:40:09 CDT
+  173 / 491 instance(s) with major release record issues.
+Details:
+    19 / 173 instance(s) with one release record.
+    150 / 173 instance(s) with two release records.
+    4 / 173 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-20 08:00:00 CDT
+  158 / 491 instance(s) with major release record issues.
+Details:
+    3 / 158 instance(s) with one release record.
+    150 / 158 instance(s) with two release records.
+    4 / 158 instance(s) with four release records.
+    1 / 158 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-23 08:00:00 CDT
+  162 / 491 instance(s) with major release record issues.
+Details:
+    3 / 162 instance(s) with one release record.
+    158 / 162 instance(s) with two release records.
+    1 / 162 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-06-28 08:00:00 CDT
+  162 / 491 instance(s) with major release record issues.
+Details:
+    3 / 162 instance(s) with one release record.
+    158 / 162 instance(s) with two release records.
+    1 / 162 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-07 08:00:00 CDT
+  207 / 491 instance(s) with major release record issues.
+Details:
+    3 / 207 instance(s) with one release record.
+    203 / 207 instance(s) with two release records.
+    1 / 207 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-12 08:00:00 CDT
+  207 / 491 instance(s) with major release record issues.
+Details:
+    3 / 207 instance(s) with one release record.
+    203 / 207 instance(s) with two release records.
+    1 / 207 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-13 11:20:25 CDT
+  288 / 491 instance(s) with major release record issues.
+Details:
+    3 / 288 instance(s) with one release record.
+    284 / 288 instance(s) with four release records.
+    1 / 288 instance(s) with more than five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-15 09:28:30 CDT
+  8 / 491 instance(s) with major release record issues.
+Details:
+    3 / 8 instance(s) with one release record.
+    4 / 8 instance(s) with four release records.
+    1 / 8 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-20 08:00:00 CDT
+  6 / 493 instance(s) with major release record issues.
+Details:
+    3 / 6 instance(s) with zero release records.
+    2 / 6 instance(s) with one release record.
+    1 / 6 instance(s) with five release records.
+
+/---------------------------/
+
+SUMMARY - 2022-07-25 15:12:15 CDT
+  5 / 496 instance(s) with major release record issues.
+Details:
+    3 / 5 instance(s) with zero release records.
+    2 / 5 instance(s) with one release record.
+
+/---------------------------/
+
+SUMMARY - 2022-08-02 08:00:00 CDT
+  3 / 496 instance(s) with major release record issues.
+Details:
+    3 / 3 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-08-16 08:00:00 CDT
+  4 / 505 instance(s) with major release record issues.
+Details:
+    4 / 4 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-08-24 13:10:08 CDT
+  4 / 505 instance(s) with major release record issues.
+Details:
+    4 / 4 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-09-01 08:00:00 CDT
+  5 / 505 instance(s) with major release record issues.
+Details:
+    4 / 5 instance(s) with zero release records.
+    1 / 5 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2022-09-06 13:37:28 CDT
+  4 / 505 instance(s) with major release record issues.
+Details:
+    4 / 4 instance(s) with zero release records.
+
+/---------------------------/
+
+SUMMARY - 2022-09-29 08:00:00 CDT
+  140 / 523 instance(s) with major release record issues.
+Details:
+    22 / 140 instance(s) with zero release records.
+    118 / 140 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2022-10-17 16:54:52 CDT
+  183 / 519 instance(s) with major release record issues.
+Details:
+    3 / 183 instance(s) with zero release records.
+    180 / 183 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2022-10-24 08:00:00 CDT
+  185 / 520 instance(s) with major release record issues.
+Details:
+    3 / 185 instance(s) with zero release records.
+    182 / 185 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2022-11-14 08:00:00 CST
+  230 / 515 instance(s) with major release record issues.
+Details:
+    6 / 230 instance(s) with zero release records.
+    224 / 230 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2022-11-18 08:00:00 CST
+  514 / 518 instance(s) with major release record issues.
+Details:
+    4 / 514 instance(s) with zero release records.
+    510 / 514 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2022-12-06 08:00:00 CST
+  516 / 520 instance(s) with major release record issues.
+Details:
+    4 / 516 instance(s) with one release record.
+    512 / 516 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2023-01-09 10:03:07 CST
+  8 / 517 instance(s) with major release record issues.
+Details:
+    2 / 8 instance(s) with zero release records.
+    5 / 8 instance(s) with two release records.
+    1 / 8 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-01-17 10:42:51 CST
+  8 / 525 instance(s) with major release record issues.
+Details:
+    4 / 8 instance(s) with zero release records.
+    3 / 8 instance(s) with two release records.
+    1 / 8 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2023-02-13 09:22:33 CST
+  175 / 524 instance(s) with major release record issues.
+Details:
+    4 / 175 instance(s) with zero release records.
+    2 / 175 instance(s) with one release record.
+    169 / 175 instance(s) with two release records.
+
+/---------------------------/
+
+SUMMARY - 2023-02-20 08:03:54 CST
+  180 / 524 instance(s) with major release record issues.
+Details:
+    4 / 180 instance(s) with zero release records.
+    2 / 180 instance(s) with one release record.
+    174 / 180 instance(s) with two release records.
+
 /---------------------------/
 
 SUMMARY - 2023-03-15 09:25:43 CDT
