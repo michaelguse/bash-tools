@@ -1802,16 +1802,6 @@ Details:
     630 / 748 instance(s) with three release records.
     4 / 748 instance(s) with four release records.
     1 / 748 instance(s) with five release records.
-/                                                  /
-/  RUN DATE: 2023-09-04 00:29:49 CDT               /
-/                                                  /
-/--------------------------------------------------/
-
-curl: (6) Could not resolve host: api.status.salesforce.com
-jq: error: Could not open file tmpFile: No such file or directory
-SUMMARY - 2023-09-04 00:29:49 CDT
-  0 / 0 instance(s) with major release record issues.
-Details:
 
 SUMMARY - 2023-09-04 09:57:02 CDT
   748 / 748 instance(s) with major release record issues.
