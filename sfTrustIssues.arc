@@ -2577,3 +2577,63 @@ Details:
     6 / 991 instance(s) with two release records.
     981 / 991 instance(s) with three release records.
 
+
+SUMMARY - 2024-01-25 11:27:58 CST
+991 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    1 / 991 instance(s) with zero release records.
+    3 / 991 instance(s) with one release record.
+    6 / 991 instance(s) with two release records.
+    964 / 991 instance(s) with three release records.
+    17 / 991 instance(s) with four release records.
+
+
+SUMMARY - 2024-01-26 09:14:24 CST
+991 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    1 / 991 instance(s) with zero release records.
+    3 / 991 instance(s) with one release record.
+    6 / 991 instance(s) with two release records.
+    963 / 991 instance(s) with three release records.
+    18 / 991 instance(s) with four release records.
+
+
+SUMMARY - 2024-01-29 10:13:51 CST
+991 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    1 / 991 instance(s) with zero release records.
+    3 / 991 instance(s) with one release record.
+    6 / 991 instance(s) with two release records.
+    963 / 991 instance(s) with three release records.
+    18 / 991 instance(s) with four release records.
+
+
+SUMMARY - 2024-01-30 11:07:45 CST
+991 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    1 / 991 instance(s) with zero release records.
+    3 / 991 instance(s) with one release record.
+    6 / 991 instance(s) with two release records.
+    963 / 991 instance(s) with three release records.
+    18 / 991 instance(s) with four release records.
+
+
+SUMMARY - 2024-01-31 07:58:32 CST
+991 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    1 / 991 instance(s) with zero release records.
+    3 / 991 instance(s) with one release record.
+    6 / 991 instance(s) with two release records.
+    963 / 991 instance(s) with three release records.
+    18 / 991 instance(s) with four release records.
+
