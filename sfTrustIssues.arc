@@ -2805,3 +2805,123 @@ Details:
     702 / 985 instance(s) with three release records.
     7 / 985 instance(s) with four release records.
 
+/---------------------------/
+
+SUMMARY - 2024-02-19 08:59:01 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    29 / 987 instance(s) with zero release records.
+    248 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2024-02-20 08:31:29 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    29 / 987 instance(s) with zero release records.
+    248 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+
+SUMMARY - 2024-02-21 09:35:22 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    27 / 987 instance(s) with zero release records.
+    2 / 987 instance(s) with one release record.
+    248 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2024-02-22 09:20:52 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    20 / 987 instance(s) with zero release records.
+    257 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2024-02-23 09:57:29 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    20 / 987 instance(s) with zero release records.
+    257 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2024-02-26 10:37:07 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    20 / 987 instance(s) with zero release records.
+    257 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2024-02-27 09:32:06 CST
+987 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    20 / 987 instance(s) with zero release records.
+    257 / 987 instance(s) with two release records.
+    703 / 987 instance(s) with three release records.
+    7 / 987 instance(s) with four release records.
+
+SUMMARY - 2024-02-28 10:21:24 CST
+990 active instance(s) were checked for major release record issues.
+21 duplicate major release record entries were found.
+
+Details:
+    22 / 990 instance(s) with zero release records.
+    253 / 990 instance(s) with two release records.
+    703 / 990 instance(s) with three release records.
+    9 / 990 instance(s) with four release records.
+    2 / 990 instance(s) with five release records.
+    1 / 990 instance(s) with more than five release records.
+
+SUMMARY - 2024-02-29 10:24:18 CST
+993 active instance(s) were checked for major release record issues.
+21 duplicate major release record entries were found.
+
+Details:
+    24 / 993 instance(s) with zero release records.
+    254 / 993 instance(s) with two release records.
+    703 / 993 instance(s) with three release records.
+    9 / 993 instance(s) with four release records.
+    2 / 993 instance(s) with five release records.
+    1 / 993 instance(s) with more than five release records.
+
+SUMMARY - 2024-03-01 10:03:56 CST
+991 active instance(s) were checked for major release record issues.
+21 duplicate major release record entries were found.
+
+Details:
+    22 / 991 instance(s) with zero release records.
+    254 / 991 instance(s) with two release records.
+    703 / 991 instance(s) with three release records.
+    9 / 991 instance(s) with four release records.
+    2 / 991 instance(s) with five release records.
+    1 / 991 instance(s) with more than five release records.
+
