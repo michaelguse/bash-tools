@@ -1,0 +1,430 @@
+|======================================================================|
+|==                                                                  ==|
+|==   Lookup of current active Salesforce Sandbox instances          ==|
+|==                                                                  ==|
+|==   Current Release: Spring '24                                    ==|
+|==      Next Release: Summer '24                                    ==|
+|==                                                                  ==|
+|==   Current run: 2024-03-29 08:51:03 CDT                           ==|
+|==      Last run: 2024-03-27 10:15:10 CDT                           ==|
+|==                                                                  ==|
+|======================================================================|
+
+Count of active [production] Cloud Instances:
+
+	183	- B2C_Commerce_Cloud
+	4	- Community_Cloud
+	4	- Datorama
+	1	- MCAccountEngagement
+	8	- MCPersonalization
+	1637	- Marketing_Cloud
+	640	- Salesforce_Services
+	1	- Social_Studio
+
+Active Sandbox Statistics:
+  # of Spring '24 sandboxes:      360
+  # of Summer '24 sandboxes:        0
+  # of all active sandboxes:      366
+
+List of unique releaseVersions:
+[
+  {
+    "release": "Spring '24 Patch 13.4",
+    "count": 2
+  },
+  {
+    "release": "Spring '24 Patch 14",
+    "count": 8
+  },
+  {
+    "release": "Spring '24 Patch 14.1",
+    "count": 1
+  },
+  {
+    "release": "Spring '24 Patch 14.2",
+    "count": 345
+  },
+  {
+    "release": "Spring '24 Patch 8.2",
+    "count": 4
+  },
+  {
+    "release": "Summer '23 Patch 15.5",
+    "count": 1
+  },
+  {
+    "release": "Winter '24 Patch 14.8",
+    "count": 5
+  }
+]
+
+==> Detected changes since last run! <==
+
+CURRENT (NEW)                                                 ( PREVIOUS (OLD)                                 
+--------------------------------------------------------------(------------------------------------------------
+"CS87","Spring '24 Patch 14.2","EMEA","OK",1			|       "CS87","Spring '24 Patch 14","EMEA","OK",1
+"CS89","Spring '24 Patch 14.2","EMEA","OK",2			|       "CS89","Spring '24 Patch 14","EMEA","OK",2
+"CS59","Spring '24 Patch 14.2","NA","OK",3			|       "CS59","Spring '24 Patch 14","NA","OK",3
+"CS63","Spring '24 Patch 14.2","NA","OK",4			|       "CS63","Spring '24 Patch 14","NA","OK",4
+"CS62","Spring '24 Patch 14.2","NA","OK",5			|       "CS62","Spring '24 Patch 14","NA","OK",5
+"CS81","Spring '24 Patch 14.2","EMEA","OK",6			|       "CS81","Spring '24 Patch 14","EMEA","OK",6
+"CS60","Spring '24 Patch 14.2","NA","OK",7			|       "CS60","Spring '24 Patch 13.5","NA","OK",7
+"CS2","Spring '24 Patch 14.2","NA","OK",8			|       "CS2","Spring '24 Patch 14","NA","OK",8
+"CS61","Spring '24 Patch 14.2","NA","OK",9			|       "CS61","Spring '24 Patch 14","NA","OK",9
+"CS86","Spring '24 Patch 14.2","EMEA","OK",10			|       "CS86","Spring '24 Patch 14","EMEA","OK",10
+"CS88","Spring '24 Patch 14.2","EMEA","OK",11			|       "CS88","Spring '24 Patch 14","EMEA","OK",11
+"CS84","Spring '24 Patch 14.2","EMEA","OK",12			|       "CS84","Spring '24 Patch 14","EMEA","OK",12
+"CS115","Winter '24 Patch 14.8","APAC","OK",13				"CS115","Winter '24 Patch 14.8","APAC","OK",13
+"CS116","Winter '24 Patch 14.8","APAC","OK",14				"CS116","Winter '24 Patch 14.8","APAC","OK",14
+"CS100","Spring '24 Patch 14.2","EMEA","OK",15			|       "CS100","Spring '24 Patch 14","EMEA","OK",15
+"CS101","Spring '24 Patch 14.2","EMEA","OK",16			|       "CS101","Spring '24 Patch 14","EMEA","OK",16
+"CS102","Spring '24 Patch 14.2","EMEA","OK",17			|       "CS102","Spring '24 Patch 14","EMEA","OK",17
+"CS105","Spring '24 Patch 14.2","EMEA","OK",18			|       "CS105","Spring '24 Patch 14","EMEA","OK",18
+"CS106","Spring '24 Patch 14.2","EMEA","OK",19			|       "CS106","Spring '24 Patch 14","EMEA","OK",19
+"CS107","Spring '24 Patch 14.2","EMEA","OK",20			|       "CS107","Spring '24 Patch 14","EMEA","OK",20
+"CS108","Spring '24 Patch 14.2","EMEA","OK",21			|       "CS108","Spring '24 Patch 14","EMEA","OK",21
+"CS109","Spring '24 Patch 14.2","EMEA","OK",22			|       "CS109","Spring '24 Patch 14","EMEA","OK",22
+"CS137","Winter '24 Patch 14.8","APAC","OK",23				"CS137","Winter '24 Patch 14.8","APAC","OK",23
+"CS173","Spring '24 Patch 14.2","EMEA","OK",24			|       "CS173","Spring '24 Patch 14","EMEA","OK",24
+"CS174","Spring '24 Patch 14.2","EMEA","OK",25			|       "CS174","Spring '24 Patch 14","EMEA","OK",25
+"CS189","Spring '24 Patch 14.2","EMEA","OK",26			|       "CS189","Spring '24 Patch 14","EMEA","OK",26
+"CS165","Spring '24 Patch 14.2","NA","OK",27			|       "CS165","Spring '24 Patch 14","NA","OK",27
+"CS194","Spring '24 Patch 14.2","NA","OK",28			|       "CS194","Spring '24 Patch 14","NA","OK",28
+"CS196","Spring '24 Patch 14.2","NA","OK",29			|       "CS196","Spring '24 Patch 14","NA","OK",29
+"CS198","Spring '24 Patch 14.2","NA","OK",30			|       "CS198","Spring '24 Patch 14","NA","OK",30
+"CS169","Spring '24 Patch 14.2","NA","OK",31			|       "CS169","Spring '24 Patch 14","NA","OK",31
+"CS195","Spring '24 Patch 14.2","NA","OK",32			|       "CS195","Spring '24 Patch 14","NA","OK",32
+"USA3S","Spring '24 Patch 14.2","NA","OK",33			|       "USA3S","Spring '24 Patch 14","NA","OK",33
+"USA2S","Spring '24 Patch 14.2","NA","OK",34			|       "USA2S","Spring '24 Patch 14","NA","OK",34
+"CS197","Spring '24 Patch 14.2","NA","OK",35			|       "CS197","Spring '24 Patch 14","NA","OK",35
+"CS121","Spring '24 Patch 14.2","EMEA","OK",36			|       "CS121","Spring '24 Patch 14","EMEA","OK",36
+"CS127","Spring '24 Patch 14.2","EMEA","OK",37			|       "CS127","Spring '24 Patch 14","EMEA","OK",37
+"CS113","Spring '24 Patch 14.2","APAC","OK",38			|       "CS113","Spring '24 Patch 14","APAC","OK",38
+"CS117","Spring '24 Patch 14.2","APAC","OK",39			|       "CS117","Spring '24 Patch 14","APAC","OK",39
+"CS129","Spring '24 Patch 14.2","EMEA","OK",40			|       "CS129","Spring '24 Patch 14","EMEA","OK",40
+"CS152","Winter '24 Patch 14.8","APAC","OK",41				"CS152","Winter '24 Patch 14.8","APAC","OK",41
+"CS132","Spring '24 Patch 14","NA","OK",42			|       "CS132","Spring '24 Patch 13.2","NA","OK",42
+"CS151","Winter '24 Patch 14.8","APAC","OK",43				"CS151","Winter '24 Patch 14.8","APAC","OK",43
+"CS148","Summer '23 Patch 15.5","NA","OK",44				"CS148","Summer '23 Patch 15.5","NA","OK",44
+"CS159","Spring '24 Patch 14.2","NA","OK",45			|       "CS159","Spring '24 Patch 14","NA","OK",45
+"CS112","Spring '24 Patch 14.2","APAC","OK",46			|       "CS112","Spring '24 Patch 14","APAC","OK",46
+"CS111","Spring '24 Patch 14.2","APAC","OK",47			|       "CS111","Spring '24 Patch 14","APAC","OK",47
+"CS114","Spring '24 Patch 14.2","APAC","OK",48			|       "CS114","Spring '24 Patch 14","APAC","OK",48
+"CS128","Spring '24 Patch 14.2","EMEA","OK",49			|       "CS128","Spring '24 Patch 14","EMEA","OK",49
+"CS124","Spring '24 Patch 14.2","NA","OK",50			|       "CS124","Spring '24 Patch 14","NA","OK",50
+"CS125","Spring '24 Patch 14.2","NA","OK",51			|       "CS125","Spring '24 Patch 14","NA","OK",51
+"CS133","Spring '24 Patch 14","NA","OK",52			|       "CS133","Spring '24 Patch 13.2","NA","OK",52
+"CS123","Spring '24 Patch 14.2","NA","OK",53			|       "CS123","Spring '24 Patch 14","NA","OK",53
+"IND2S","Spring '24 Patch 14.2","APAC","OK",54			|       "IND2S","Spring '24 Patch 14","APAC","OK",54
+"IND3S","Spring '24 Patch 14.2","APAC","OK",55			|       "IND3S","Spring '24 Patch 14","APAC","OK",55
+"CS190","Spring '24 Patch 14.2","NA","OK",56			|       "CS190","Spring '24 Patch 14","NA","OK",56
+"CS191","Spring '24 Patch 14.2","NA","OK",57			|       "CS191","Spring '24 Patch 14","NA","OK",57
+"CS192","Spring '24 Patch 14.2","NA","OK",58			|       "CS192","Spring '24 Patch 14","NA","OK",58
+"CS193","Spring '24 Patch 14.2","NA","OK",59			|       "CS193","Spring '24 Patch 14","NA","OK",59
+"CS199","Spring '24 Patch 14.2","NA","OK",60			|       "CS199","Spring '24 Patch 14","NA","OK",60
+"CS201","Spring '24 Patch 14.2","NA","OK",61			|       "CS201","Spring '24 Patch 14","NA","OK",61
+"CS160","Spring '24 Patch 14.2","EMEA","OK",62			|       "CS160","Spring '24 Patch 14","EMEA","OK",62
+"CS162","Spring '24 Patch 14.2","EMEA","OK",63			|       "CS162","Spring '24 Patch 13.4","EMEA","OK",63
+"CS203","Spring '24 Patch 14.2","NA","OK",64			|       "CS203","Spring '24 Patch 14","NA","OK",64
+"CS200","Spring '24 Patch 14.2","NA","OK",65			|       "CS200","Spring '24 Patch 14","NA","OK",65
+"CS202","Spring '24 Patch 14.2","NA","OK",66			|       "CS202","Spring '24 Patch 14","NA","OK",66
+"CS166","Spring '24 Patch 14.2","NA","OK",67			|       "CS166","Spring '24 Patch 14","NA","OK",67
+"CS167","Spring '24 Patch 14.2","NA","OK",68			|       "CS167","Spring '24 Patch 14","NA","OK",68
+"CS171","Spring '24 Patch 14.2","NA","OK",69			|       "CS171","Spring '24 Patch 14","NA","OK",69
+"CS172","Spring '24 Patch 14.2","NA","OK",70			|       "CS172","Spring '24 Patch 14","NA","OK",70
+"JPN2S","Spring '24 Patch 14.2","APAC","OK",71			|       "JPN2S","Spring '24 Patch 14","APAC","OK",71
+"CAN4S","Spring '24 Patch 14.2","NA","OK",72			|       "CAN4S","Spring '24 Patch 14","NA","OK",72
+"JPN4S","Spring '24 Patch 14.2","APAC","OK",73			|       "JPN4S","Spring '24 Patch 14","APAC","OK",73
+"CS170","Spring '24 Patch 14.2","NA","OK",74			|       "CS170","Spring '24 Patch 14","NA","OK",74
+"AUS2S","Spring '24 Patch 14.2","APAC","OK",75			|       "AUS2S","Spring '24 Patch 14","APAC","OK",75
+"AUS4S","Spring '24 Patch 14.2","APAC","OK",76			|       "AUS4S","Spring '24 Patch 13.4","APAC","OK",76
+"AUS22S","Spring '24 Patch 14.2","APAC","OK",77			|       "AUS22S","Spring '24 Patch 14","APAC","OK",77
+"CAN2S","Spring '24 Patch 14.2","NA","OK",78			|       "CAN2S","Spring '24 Patch 14","NA","OK",78
+"IND6S","Spring '24 Patch 14.2","APAC","OK",79			|       "IND6S","Spring '24 Patch 14","APAC","OK",79
+"IND16S","Spring '24 Patch 14.2","APAC","OK",80			|       "IND16S","Spring '24 Patch 14","APAC","OK",80
+"AUS24S","Spring '24 Patch 14.2","APAC","OK",81			|       "AUS24S","Spring '24 Patch 14","APAC","OK",81
+"IND4S","Spring '24 Patch 14.2","APAC","OK",82			|       "IND4S","Spring '24 Patch 14","APAC","OK",82
+"AUS26S","Spring '24 Patch 14.2","APAC","OK",83			|       "AUS26S","Spring '24 Patch 14","APAC","OK",83
+"IND18S","Spring '24 Patch 14.2","APAC","OK",84			|       "IND18S","Spring '24 Patch 14","APAC","OK",84
+"AUS6S","Spring '24 Patch 14.2","APAC","OK",85			|       "AUS6S","Spring '24 Patch 13.4","APAC","OK",85
+"CS234","Spring '24 Patch 14","NA","OK",86			|       "CS234","Spring '24 Patch 13.2","NA","OK",86
+"CS209","Spring '24 Patch 14.2","NA","OK",87			|       "CS209","Spring '24 Patch 14","NA","OK",87
+"CS210","Spring '24 Patch 14.2","NA","OK",88			|       "CS210","Spring '24 Patch 14","NA","OK",88
+"CS211","Spring '24 Patch 14.2","NA","OK",89			|       "CS211","Spring '24 Patch 14","NA","OK",89
+"CS212","Spring '24 Patch 14.2","NA","OK",90			|       "CS212","Spring '24 Patch 14","NA","OK",90
+"CS213","Spring '24 Patch 14.2","NA","OK",91			|       "CS213","Spring '24 Patch 14","NA","OK",91
+"CS214","Spring '24 Patch 14.2","NA","OK",92			|       "CS214","Spring '24 Patch 14","NA","OK",92
+"CS215","Spring '24 Patch 14.2","NA","OK",93			|       "CS215","Spring '24 Patch 14","NA","OK",93
+"CS216","Spring '24 Patch 14.2","NA","OK",94			|       "CS216","Spring '24 Patch 14","NA","OK",94
+"CS217","Spring '24 Patch 14.2","NA","OK",95			|       "CS217","Spring '24 Patch 14","NA","OK",95
+"CS218","Spring '24 Patch 14.2","NA","OK",96			|       "CS218","Spring '24 Patch 14","NA","OK",96
+"CS219","Spring '24 Patch 14.2","NA","OK",97			|       "CS219","Spring '24 Patch 14","NA","OK",97
+"CS220","Spring '24 Patch 14.2","NA","OK",98			|       "CS220","Spring '24 Patch 14","NA","OK",98
+"DEU2S","Spring '24 Patch 14.2","EMEA","OK",99			|       "DEU2S","Spring '24 Patch 14","EMEA","OK",99
+"DEU4S","Spring '24 Patch 14.2","EMEA","OK",100			|       "DEU4S","Spring '24 Patch 14","EMEA","OK",100
+"BRA2S","Spring '24 Patch 14.2","NA","OK",101			|       "BRA2S","Spring '24 Patch 14","NA","OK",101
+"BRA4S","Spring '24 Patch 14.2","NA","OK",102			|       "BRA4S","Spring '24 Patch 14","NA","OK",102
+"SGP2S","Spring '24 Patch 14.2","APAC","OK",103			|       "SGP2S","Spring '24 Patch 14","APAC","OK",103
+"SGP4S","Spring '24 Patch 14.2","APAC","OK",104			|       "SGP4S","Spring '24 Patch 14","APAC","OK",104
+"FRA2S","Spring '24 Patch 14.2","EMEA","OK",105			|       "FRA2S","Spring '24 Patch 14","EMEA","OK",105
+"FRA4S","Spring '24 Patch 14.2","EMEA","OK",106			|       "FRA4S","Spring '24 Patch 14","EMEA","OK",106
+"USA8S","Spring '24 Patch 14.2","NA","OK",107			|       "USA8S","Spring '24 Patch 14","NA","OK",107
+"CAN6S","Spring '24 Patch 14.2","NA","OK",108			|       "CAN6S","Spring '24 Patch 14","NA","OK",108
+"CAN8S","Spring '24 Patch 14.2","NA","OK",109			|       "CAN8S","Spring '24 Patch 14","NA","OK",109
+"JPN6S","Spring '24 Patch 14.2","APAC","OK",110			|       "JPN6S","Spring '24 Patch 14","APAC","OK",110
+"JPN8S","Spring '24 Patch 14.2","APAC","OK",111			|       "JPN8S","Spring '24 Patch 14","APAC","OK",111
+"JPN10S","Spring '24 Patch 14.2","APAC","OK",112		|       "JPN10S","Spring '24 Patch 14","APAC","OK",112
+"JPN12S","Spring '24 Patch 14.2","APAC","OK",113		|       "JPN12S","Spring '24 Patch 14","APAC","OK",113
+"AUS14S","Spring '24 Patch 14.2","APAC","OK",114		|       "AUS14S","Spring '24 Patch 14","APAC","OK",114
+"AUS28S","Spring '24 Patch 14.2","APAC","OK",115		|       "AUS28S","Spring '24 Patch 13.4","APAC","OK",115
+"AUS36S","Spring '24 Patch 14.2","APAC","OK",116		|       "AUS36S","Spring '24 Patch 14","APAC","OK",116
+"USA20S","Spring '24 Patch 14.2","NA","OK",117			|       "USA20S","Spring '24 Patch 14","NA","OK",117
+"USA22S","Spring '24 Patch 14.2","NA","OK",118			|       "USA22S","Spring '24 Patch 14","NA","OK",118
+"IND14S","Spring '24 Patch 14.2","APAC","OK",119		|       "IND14S","Spring '24 Patch 14","APAC","OK",119
+"IND20S","Spring '24 Patch 14.2","APAC","OK",120		|       "IND20S","Spring '24 Patch 14","APAC","OK",120
+"IND10S","Spring '24 Patch 14.2","APAC","OK",121		|       "IND10S","Spring '24 Patch 14","APAC","OK",121
+"IND22S","Spring '24 Patch 14.2","APAC","OK",122		|       "IND22S","Spring '24 Patch 14","APAC","OK",122
+"IND8S","Spring '24 Patch 14.2","APAC","OK",123			|       "IND8S","Spring '24 Patch 14","APAC","OK",123
+"DEU6S","Spring '24 Patch 14.2","EMEA","OK",124			|       "DEU6S","Spring '24 Patch 14","EMEA","OK",124
+"DEU8S","Spring '24 Patch 14.2","EMEA","OK",125			|       "DEU8S","Spring '24 Patch 14","EMEA","OK",125
+"JPN18S","Spring '24 Patch 14.2","APAC","OK",126		|       "JPN18S","Spring '24 Patch 14","APAC","OK",126
+"JPN20S","Spring '24 Patch 14.2","APAC","OK",127		|       "JPN20S","Spring '24 Patch 14","APAC","OK",127
+"JPN22S","Spring '24 Patch 14.2","APAC","OK",128		|       "JPN22S","Spring '24 Patch 14","APAC","OK",128
+"JPN24S","Spring '24 Patch 14.2","APAC","OK",129		|       "JPN24S","Spring '24 Patch 14","APAC","OK",129
+"JPN28S","Spring '24 Patch 14.2","APAC","OK",130		|       "JPN28S","Spring '24 Patch 14","APAC","OK",130
+"AUS16S","Spring '24 Patch 14.2","APAC","OK",131		|       "AUS16S","Spring '24 Patch 13.4","APAC","OK",131
+"AUS18S","Spring '24 Patch 14.2","APAC","OK",132		|       "AUS18S","Spring '24 Patch 14","APAC","OK",132
+"AUS20S","Spring '24 Patch 14.2","APAC","OK",133		|       "AUS20S","Spring '24 Patch 14","APAC","OK",133
+"AUS38S","Spring '24 Patch 14.2","APAC","OK",134		|       "AUS38S","Spring '24 Patch 14","APAC","OK",134
+"CS221","Spring '24 Patch 14.2","NA","OK",135			|       "CS221","Spring '24 Patch 14","NA","OK",135
+"CS223","Spring '24 Patch 14.2","NA","OK",136			|       "CS223","Spring '24 Patch 14","NA","OK",136
+"CS225","Spring '24 Patch 14.2","NA","OK",137			|       "CS225","Spring '24 Patch 14","NA","OK",137
+"CS222","Spring '24 Patch 14.2","NA","OK",138			|       "CS222","Spring '24 Patch 14","NA","OK",138
+"CS224","Spring '24 Patch 14.2","NA","OK",139			|       "CS224","Spring '24 Patch 14","NA","OK",139
+"CS226","Spring '24 Patch 14.2","NA","OK",140			|       "CS226","Spring '24 Patch 14","NA","OK",140
+"FRA6S","Spring '24 Patch 14.2","EMEA","OK",141			|       "FRA6S","Spring '24 Patch 14","EMEA","OK",141
+"FRA8S","Spring '24 Patch 14.2","EMEA","OK",142			|       "FRA8S","Spring '24 Patch 14","EMEA","OK",142
+"FRA12S","Spring '24 Patch 14.2","EMEA","OK",143		|       "FRA12S","Spring '24 Patch 14","EMEA","OK",143
+"FRA24S","Spring '24 Patch 14.2","EMEA","OK",144		|       "FRA24S","Spring '24 Patch 14","EMEA","OK",144
+"SGP6S","Spring '24 Patch 14.2","APAC","OK",145			|       "SGP6S","Spring '24 Patch 14","APAC","OK",145
+"SGP8S","Spring '24 Patch 14.2","APAC","OK",146			|       "SGP8S","Spring '24 Patch 14","APAC","OK",146
+"BRA6S","Spring '24 Patch 14.2","NA","OK",147			|       "BRA6S","Spring '24 Patch 14","NA","OK",147
+"BRA8S","Spring '24 Patch 14.2","NA","OK",148			|       "BRA8S","Spring '24 Patch 14","NA","OK",148
+"IND12S","Spring '24 Patch 14.2","APAC","OK",149		|       "IND12S","Spring '24 Patch 14","APAC","OK",149
+"IND24S","Spring '24 Patch 14.2","APAC","OK",150		|       "IND24S","Spring '24 Patch 14","APAC","OK",150
+"IND26S","Spring '24 Patch 14.2","APAC","OK",151		|       "IND26S","Spring '24 Patch 14","APAC","OK",151
+"IND28S","Spring '24 Patch 14.2","APAC","OK",152		|       "IND28S","Spring '24 Patch 14","APAC","OK",152
+"DEU10S","Spring '24 Patch 14.2","EMEA","OK",153		|       "DEU10S","Spring '24 Patch 14","EMEA","OK",153
+"DEU12S","Spring '24 Patch 14.2","EMEA","OK",154		|       "DEU12S","Spring '24 Patch 14","EMEA","OK",154
+"DEU14S","Spring '24 Patch 14.2","EMEA","OK",155		|       "DEU14S","Spring '24 Patch 14","EMEA","OK",155
+"DEU16S","Spring '24 Patch 14.2","EMEA","OK",156		|       "DEU16S","Spring '24 Patch 14","EMEA","OK",156
+"CS308","Spring '24 Patch 14","NA","OK",157			|       "CS308","Spring '24 Patch 13.2","NA","OK",157
+"CAN20S","Spring '24 Patch 14.2","NA","OK",158			|       "CAN20S","Spring '24 Patch 14","NA","OK",158
+"IND54S","Spring '24 Patch 14.1","APAC","OK",159		|       "IND54S","Spring '24 Patch 13.4","APAC","OK",159
+"DEU20S","Spring '24 Patch 14.2","EMEA","OK",160		|       "DEU20S","Spring '24 Patch 14","EMEA","OK",160
+"USA28S","Spring '24 Patch 14.2","NA","OK",161			|       "USA28S","Spring '24 Patch 14","NA","OK",161
+"USA30S","Spring '24 Patch 14.2","NA","OK",162			|       "USA30S","Spring '24 Patch 14","NA","OK",162
+"USA32S","Spring '24 Patch 14.2","NA","OK",163			|       "USA32S","Spring '24 Patch 14","NA","OK",163
+"USA60S","Spring '24 Patch 14.2","NA","OK",164			|       "USA60S","Spring '24 Patch 14","NA","OK",164
+"USA62S","Spring '24 Patch 14.2","NA","OK",165			|       "USA62S","Spring '24 Patch 14","NA","OK",165
+"USA202S","Spring '24 Patch 14.2","NA","OK",166			|       "USA202S","Spring '24 Patch 14","NA","OK",166
+"GBR4S","Spring '24 Patch 14.2","EMEA","OK",167			|       "GBR4S","Spring '24 Patch 14","EMEA","OK",167
+"GBR2S","Spring '24 Patch 14.2","EMEA","OK",168			|       "GBR2S","Spring '24 Patch 14","EMEA","OK",168
+"USA9906S","Spring '24 Patch 8.2","NA","OK",169				"USA9906S","Spring '24 Patch 8.2","NA","OK",169
+"USA9916S","Spring '24 Patch 8.2","NA","OK",170				"USA9916S","Spring '24 Patch 8.2","NA","OK",170
+"KOR2S","Spring '24 Patch 14.2","APAC","OK",171			|       "KOR2S","Spring '24 Patch 14","APAC","OK",171
+"KOR4S","Spring '24 Patch 14.2","APAC","OK",172			|       "KOR4S","Spring '24 Patch 14","APAC","OK",172
+"SWE2S","Spring '24 Patch 14.2","EMEA","OK",173			|       "SWE2S","Spring '24 Patch 14","EMEA","OK",173
+"SWE4S","Spring '24 Patch 14.2","EMEA","OK",174			|       "SWE4S","Spring '24 Patch 14","EMEA","OK",174
+"CS252","Spring '24 Patch 14.2","NA","OK",175			|       "CS252","Spring '24 Patch 14","NA","OK",175
+"CS251","Spring '24 Patch 14.2","NA","OK",176			|       "CS251","Spring '24 Patch 14","NA","OK",176
+"DEU48S","Spring '24 Patch 14.2","EMEA","OK",177		|       "DEU48S","Spring '24 Patch 14","EMEA","OK",177
+"DEU50S","Spring '24 Patch 14.2","EMEA","OK",178		|       "DEU50S","Spring '24 Patch 14","EMEA","OK",178
+"CS246","Spring '24 Patch 14.2","NA","OK",179			|       "CS246","Spring '24 Patch 14","NA","OK",179
+"CS238","Spring '24 Patch 14.2","NA","OK",180			|       "CS238","Spring '24 Patch 14","NA","OK",180
+"CS249","Spring '24 Patch 14.2","NA","OK",181			|       "CS249","Spring '24 Patch 14","NA","OK",181
+"CS243","Spring '24 Patch 14.2","NA","OK",182			|       "CS243","Spring '24 Patch 14","NA","OK",182
+"CS244","Spring '24 Patch 14.2","NA","OK",183			|       "CS244","Spring '24 Patch 14","NA","OK",183
+"CS245","Spring '24 Patch 14.2","NA","OK",184			|       "CS245","Spring '24 Patch 14","NA","OK",184
+"CS241","Spring '24 Patch 14.2","NA","OK",185			|       "CS241","Spring '24 Patch 14","NA","OK",185
+"CS247","Spring '24 Patch 14.2","NA","OK",186			|       "CS247","Spring '24 Patch 14","NA","OK",186
+"CS248","Spring '24 Patch 14.2","NA","OK",187			|       "CS248","Spring '24 Patch 14","NA","OK",187
+"CS250","Spring '24 Patch 14.2","NA","OK",188			|       "CS250","Spring '24 Patch 14","NA","OK",188
+"CS242","Spring '24 Patch 14.2","NA","OK",189			|       "CS242","Spring '24 Patch 14","NA","OK",189
+"USA222S","Spring '24 Patch 14.2","NA","OK",190			|       "USA222S","Spring '24 Patch 14","NA","OK",190
+"CS237","Spring '24 Patch 14.2","NA","OK",191			|       "CS237","Spring '24 Patch 13.4","NA","OK",191
+"CS364","Spring '24 Patch 14.2","EMEA","OK",192			|       "CS364","Spring '24 Patch 14","EMEA","OK",192
+"CS365","Spring '24 Patch 14.2","EMEA","OK",193			|       "CS365","Spring '24 Patch 14","EMEA","OK",193
+"CS263","Spring '24 Patch 14.2","NA","OK",194			|       "CS263","Spring '24 Patch 14","NA","OK",194
+"CS264","Spring '24 Patch 14.2","NA","OK",195			|       "CS264","Spring '24 Patch 14","NA","OK",195
+"CS254","Spring '24 Patch 14.2","NA","OK",196			|       "CS254","Spring '24 Patch 14","NA","OK",196
+"CS255","Spring '24 Patch 14.2","NA","OK",197			|       "CS255","Spring '24 Patch 14","NA","OK",197
+"CS256","Spring '24 Patch 14.2","NA","OK",198			|       "CS256","Spring '24 Patch 14","NA","OK",198
+"CS257","Spring '24 Patch 14.2","NA","OK",199			|       "CS257","Spring '24 Patch 14","NA","OK",199
+"CS260","Spring '24 Patch 14.2","NA","OK",200			|       "CS260","Spring '24 Patch 14","NA","OK",200
+"CS261","Spring '24 Patch 14.2","NA","OK",201			|       "CS261","Spring '24 Patch 14","NA","OK",201
+"CS262","Spring '24 Patch 14.2","NA","OK",202			|       "CS262","Spring '24 Patch 14","NA","OK",202
+"CS269","Spring '24 Patch 14.2","NA","OK",203			|       "CS269","Spring '24 Patch 14","NA","OK",203
+"CS236","Spring '24 Patch 14.2","NA","OK",204			|       "CS236","Spring '24 Patch 14","NA","OK",204
+"CS253","Spring '24 Patch 14.2","NA","OK",205			|       "CS253","Spring '24 Patch 14","NA","OK",205
+"CS240","Spring '24 Patch 14.2","NA","OK",206			|       "CS240","Spring '24 Patch 14","NA","OK",206
+"CS258","Spring '24 Patch 14.2","NA","OK",207			|       "CS258","Spring '24 Patch 14","NA","OK",207
+"CS239","Spring '24 Patch 14.2","NA","OK",208			|       "CS239","Spring '24 Patch 14","NA","OK",208
+"CS266","Spring '24 Patch 14.2","NA","OK",209			|       "CS266","Spring '24 Patch 14","NA","OK",209
+"CS267","Spring '24 Patch 14.2","NA","OK",210			|       "CS267","Spring '24 Patch 14","NA","OK",210
+"CS268","Spring '24 Patch 14.2","NA","OK",211			|       "CS268","Spring '24 Patch 14","NA","OK",211
+"CS270","Spring '24 Patch 14.2","NA","OK",212			|       "CS270","Spring '24 Patch 14","NA","OK",212
+"CS271","Spring '24 Patch 14.2","NA","OK",213			|       "CS271","Spring '24 Patch 14","NA","OK",213
+"CS265","Spring '24 Patch 14.2","NA","OK",214			|       "CS265","Spring '24 Patch 14","NA","OK",214
+"CS259","Spring '24 Patch 14.2","NA","OK",215			|       "CS259","Spring '24 Patch 14","NA","OK",215
+"CS272","Spring '24 Patch 14.2","NA","OK",216			|       "CS272","Spring '24 Patch 14","NA","OK",216
+"CS282","Spring '24 Patch 14.2","NA","OK",217			|       "CS282","Spring '24 Patch 14","NA","OK",217
+"CS278","Spring '24 Patch 14.2","NA","OK",218			|       "CS278","Spring '24 Patch 14","NA","OK",218
+"CS279","Spring '24 Patch 14.2","NA","OK",219			|       "CS279","Spring '24 Patch 14","NA","OK",219
+"CS276","Spring '24 Patch 14.2","NA","OK",220			|       "CS276","Spring '24 Patch 14","NA","OK",220
+"CS273","Spring '24 Patch 14.2","NA","OK",221			|       "CS273","Spring '24 Patch 14","NA","OK",221
+"CS280","Spring '24 Patch 14.2","NA","OK",222			|       "CS280","Spring '24 Patch 14","NA","OK",222
+"CS274","Spring '24 Patch 14.2","NA","OK",223			|       "CS274","Spring '24 Patch 14","NA","OK",223
+"CS277","Spring '24 Patch 14.2","NA","OK",224			|       "CS277","Spring '24 Patch 14","NA","OK",224
+"CS281","Spring '24 Patch 14.2","NA","OK",225			|       "CS281","Spring '24 Patch 14","NA","OK",225
+"CS314","Spring '24 Patch 14.2","APAC","OK",226			|       "CS314","Spring '24 Patch 14","APAC","OK",226
+"CS315","Spring '24 Patch 14.2","APAC","OK",227			|       "CS315","Spring '24 Patch 13.4","APAC","OK",227
+"CS275","Spring '24 Patch 14.2","NA","OK",228			|       "CS275","Spring '24 Patch 14","NA","OK",228
+"CS283","Spring '24 Patch 14.2","NA","OK",229			|       "CS283","Spring '24 Patch 14","NA","OK",229
+"USA224S","Spring '24 Patch 14.2","NA","OK",230			|       "USA224S","Spring '24 Patch 14","NA","OK",230
+"CS384","Spring '24 Patch 14","NA","OK",231			|       "CS384","Spring '24 Patch 13.2","NA","OK",231
+"CS385","Spring '24 Patch 14","NA","OK",232			|       "CS385","Spring '24 Patch 13.2","NA","OK",232
+"CS290","Spring '24 Patch 14.2","APAC","OK",233			|       "CS290","Spring '24 Patch 14","APAC","OK",233
+"CS291","Spring '24 Patch 14.2","APAC","OK",234			|       "CS291","Spring '24 Patch 13.4","APAC","OK",234
+"CS293","Spring '24 Patch 14.2","APAC","OK",235			|       "CS293","Spring '24 Patch 13.4","APAC","OK",235
+"CS294","Spring '24 Patch 14.2","APAC","OK",236			|       "CS294","Spring '24 Patch 14","APAC","OK",236
+"CS295","Spring '24 Patch 14.2","APAC","OK",237			|       "CS295","Spring '24 Patch 13.4","APAC","OK",237
+"CS311","Spring '24 Patch 14.2","APAC","OK",238			|       "CS311","Spring '24 Patch 13.4","APAC","OK",238
+"CS312","Spring '24 Patch 14.2","APAC","OK",239			|       "CS312","Spring '24 Patch 14","APAC","OK",239
+"CS313","Spring '24 Patch 14.2","APAC","OK",240			|       "CS313","Spring '24 Patch 13.4","APAC","OK",240
+"USA250S","Spring '24 Patch 14.2","NA","OK",241			|       "USA250S","Spring '24 Patch 14","NA","OK",241
+"USA262S","Spring '24 Patch 14.2","NA","OK",242			|       "USA262S","Spring '24 Patch 14","NA","OK",242
+"USA248S","Spring '24 Patch 14.2","NA","OK",243			|       "USA248S","Spring '24 Patch 14","NA","OK",243
+"USA246S","Spring '24 Patch 14.2","NA","OK",244			|       "USA246S","Spring '24 Patch 14","NA","OK",244
+"USA242S","Spring '24 Patch 14.2","NA","OK",245			|       "USA242S","Spring '24 Patch 14","NA","OK",245
+"USA258S","Spring '24 Patch 14.2","NA","OK",246			|       "USA258S","Spring '24 Patch 14","NA","OK",246
+"USA244S","Spring '24 Patch 14.2","NA","OK",247			|       "USA244S","Spring '24 Patch 14","NA","OK",247
+"USA254S","Spring '24 Patch 14.2","NA","OK",248			|       "USA254S","Spring '24 Patch 14","NA","OK",248
+"USA256S","Spring '24 Patch 14.2","NA","OK",249			|       "USA256S","Spring '24 Patch 14","NA","OK",249
+"USA268S","Spring '24 Patch 14.2","NA","OK",250			|       "USA268S","Spring '24 Patch 14","NA","OK",250
+"USA270S","Spring '24 Patch 14.2","NA","OK",251			|       "USA270S","Spring '24 Patch 14","NA","OK",251
+"USA240S","Spring '24 Patch 14.2","NA","OK",252			|       "USA240S","Spring '24 Patch 14","NA","OK",252
+"USA252S","Spring '24 Patch 14.2","NA","OK",253			|       "USA252S","Spring '24 Patch 14","NA","OK",253
+"USA260S","Spring '24 Patch 14.2","NA","OK",254			|       "USA260S","Spring '24 Patch 14","NA","OK",254
+"GBR40S","Spring '24 Patch 14.2","EMEA","OK",255		|       "GBR40S","Spring '24 Patch 14","EMEA","OK",255
+"GBR42S","Spring '24 Patch 14.2","EMEA","OK",256		|       "GBR42S","Spring '24 Patch 14","EMEA","OK",256
+"GBR44S","Spring '24 Patch 14.2","EMEA","OK",257		|       "GBR44S","Spring '24 Patch 14","EMEA","OK",257
+"SWE30S","Spring '24 Patch 14.2","EMEA","OK",258		|       "SWE30S","Spring '24 Patch 14","EMEA","OK",258
+"SWE6S","Spring '24 Patch 14.2","EMEA","OK",259			|       "SWE6S","Spring '24 Patch 14","EMEA","OK",259
+"AUS80S","Spring '24 Patch 14.2","APAC","OK",260		|       "AUS80S","Spring '24 Patch 14","APAC","OK",260
+"SWE28S","Spring '24 Patch 14.2","EMEA","OK",261		|       "SWE28S","Spring '24 Patch 14","EMEA","OK",261
+"GBR60S","Spring '24 Patch 14.2","EMEA","OK",262		|       "GBR60S","Spring '24 Patch 14","EMEA","OK",262
+"GBR62S","Spring '24 Patch 14.2","EMEA","OK",263		|       "GBR62S","Spring '24 Patch 14","EMEA","OK",263
+"USA434S","Spring '24 Patch 14.2","NA","OK",264			|       "USA434S","Spring '24 Patch 14","NA","OK",264
+"USA432S","Spring '24 Patch 14.2","NA","OK",265			|       "USA432S","Spring '24 Patch 14","NA","OK",265
+"USA488S","Spring '24 Patch 14.2","NA","OK",266			|       "USA488S","Spring '24 Patch 14","NA","OK",266
+"USA490S","Spring '24 Patch 14.2","NA","OK",267			|       "USA490S","Spring '24 Patch 14","NA","OK",267
+"USA366S","Spring '24 Patch 14.2","NA","OK",268			|       "USA366S","Spring '24 Patch 14","NA","OK",268
+"SWE44S","Spring '24 Patch 14.2","EMEA","OK",269		|       "SWE44S","Spring '24 Patch 14","EMEA","OK",269
+"ITA2S","Spring '24 Patch 14.2","EMEA","OK",270			|       "ITA2S","Spring '24 Patch 14","EMEA","OK",270
+"IDN2S","Spring '24 Patch 14.2","APAC","OK",271			|       "IDN2S","Spring '24 Patch 14","APAC","OK",271
+"ITA4S","Spring '24 Patch 14.2","EMEA","OK",272			|       "ITA4S","Spring '24 Patch 14","EMEA","OK",272
+"USA446S","Spring '24 Patch 14.2","NA","OK",273			|       "USA446S","Spring '24 Patch 14","NA","OK",273
+"IDN4S","Spring '24 Patch 14.2","APAC","OK",274			|       "IDN4S","Spring '24 Patch 14","APAC","OK",274
+"USA448S","Spring '24 Patch 14.2","NA","OK",275			|       "USA448S","Spring '24 Patch 14","NA","OK",275
+"DEU62S","Spring '24 Patch 14.2","EMEA","OK",276		|       "DEU62S","Spring '24 Patch 14","EMEA","OK",276
+"CHE2S","Spring '24 Patch 14.2","EMEA","OK",277			|       "CHE2S","Spring '24 Patch 14","EMEA","OK",277
+"CHE4S","Spring '24 Patch 14.2","EMEA","OK",278			|       "CHE4S","Spring '24 Patch 14","EMEA","OK",278
+"ARE2S","Spring '24 Patch 14.2","APAC","OK",279			|       "ARE2S","Spring '24 Patch 14","APAC","OK",279
+"ARE4S","Spring '24 Patch 14.2","APAC","OK",280			|       "ARE4S","Spring '24 Patch 14","APAC","OK",280
+"USA80S","Spring '24 Patch 14.2","NA","OK",281			|       "USA80S","Spring '24 Patch 14","NA","OK",281
+"CS310","Spring '24 Patch 14.2","APAC","OK",282			|       "CS310","Spring '24 Patch 14","APAC","OK",282
+"GBR90S","Spring '24 Patch 14.2","EMEA","OK",283		|       "GBR90S","Spring '24 Patch 14","EMEA","OK",283
+"GBR92S","Spring '24 Patch 14.2","EMEA","OK",284		|       "GBR92S","Spring '24 Patch 14","EMEA","OK",284
+"USA534S","Spring '24 Patch 14.2","NA","OK",285			|       "USA534S","Spring '24 Patch 14","NA","OK",285
+"CAN70S","Spring '24 Patch 14.2","NA","OK",286			|       "CAN70S","Spring '24 Patch 14","NA","OK",286
+"USA540S","Spring '24 Patch 14.2","NA","OK",287			|       "USA540S","Spring '24 Patch 14","NA","OK",287
+"USA542S","Spring '24 Patch 14.2","NA","OK",288			|       "USA542S","Spring '24 Patch 14","NA","OK",288
+"SWE60S","Spring '24 Patch 14.2","EMEA","OK",289		|       "SWE60S","Spring '24 Patch 14","EMEA","OK",289
+"USA712S","Spring '24 Patch 14.2","NA","OK",290			|       "USA712S","Spring '24 Patch 14","NA","OK",290
+"USA710S","Spring '24 Patch 14.2","NA","OK",291			|       "USA710S","Spring '24 Patch 14","NA","OK",291
+"USA670S","Spring '24 Patch 14.2","NA","OK",292			|       "USA670S","Spring '24 Patch 14","NA","OK",292
+"GBR110S","Spring '24 Patch 14.2","EMEA","OK",293		|       "GBR110S","Spring '24 Patch 14","EMEA","OK",293
+"SWE92S","Spring '24 Patch 14.2","EMEA","OK",294		|       "SWE92S","Spring '24 Patch 14","EMEA","OK",294
+"GBR106S","Spring '24 Patch 14.2","EMEA","OK",295		|       "GBR106S","Spring '24 Patch 14","EMEA","OK",295
+"USA668S","Spring '24 Patch 14.2","NA","OK",296			|       "USA668S","Spring '24 Patch 14","NA","OK",296
+"USA672S","Spring '24 Patch 14.2","NA","OK",297			|       "USA672S","Spring '24 Patch 14","NA","OK",297
+"ITA22S","Spring '24 Patch 14.2","EMEA","OK",298		|       "ITA22S","Spring '24 Patch 14","EMEA","OK",298
+"GBR108S","Spring '24 Patch 14.2","EMEA","OK",299		|       "GBR108S","Spring '24 Patch 14","EMEA","OK",299
+"SWE90S","Spring '24 Patch 14.2","EMEA","OK",300		|       "SWE90S","Spring '24 Patch 14","EMEA","OK",300
+"USA656S","Spring '24 Patch 14.2","NA","OK",301			|       "USA656S","Spring '24 Patch 14","NA","OK",301
+"SWE94S","Spring '24 Patch 14.2","EMEA","OK",302		|       "SWE94S","Spring '24 Patch 14","EMEA","OK",302
+"USA662S","Spring '24 Patch 14.2","NA","OK",303			|       "USA662S","Spring '24 Patch 14","NA","OK",303
+"USA664S","Spring '24 Patch 14.2","NA","OK",304			|       "USA664S","Spring '24 Patch 14","NA","OK",304
+"USA654S","Spring '24 Patch 14.2","NA","OK",305			|       "USA654S","Spring '24 Patch 14","NA","OK",305
+"USA658S","Spring '24 Patch 14.2","NA","OK",306			|       "USA658S","Spring '24 Patch 14","NA","OK",306
+"SWE96S","Spring '24 Patch 14.2","EMEA","OK",307		|       "SWE96S","Spring '24 Patch 14","EMEA","OK",307
+"USA660S","Spring '24 Patch 14.2","NA","OK",308			|       "USA660S","Spring '24 Patch 14","NA","OK",308
+"SWE88S","Spring '24 Patch 14.2","EMEA","OK",309		|       "SWE88S","Spring '24 Patch 14","EMEA","OK",309
+"USA666S","Spring '24 Patch 14.2","NA","OK",310			|       "USA666S","Spring '24 Patch 14","NA","OK",310
+"USA9404S","Spring '24 Patch 8.2","NA","OK",311				"USA9404S","Spring '24 Patch 8.2","NA","OK",311
+"USA9406S","Spring '24 Patch 8.2","NA","OK",312				"USA9406S","Spring '24 Patch 8.2","NA","OK",312
+"USA9004S","Spring '24 Patch 14","NA","OK",313			|       "USA9004S","Spring '24 Patch 13.2","NA","OK",313
+"USA9006S","Spring '24 Patch 14","NA","OK",314			|       "USA9006S","Spring '24 Patch 13.2","NA","OK",314
+"USA804S","Spring '24 Patch 14.2","NA","OK",315			|       "USA804S","Spring '24 Patch 14","NA","OK",315
+"USA758S","Spring '24 Patch 14.2","NA","OK",316			|       "USA758S","Spring '24 Patch 14","NA","OK",316
+"USA770S","Spring '24 Patch 14.2","NA","OK",317			|       "USA770S","Spring '24 Patch 14","NA","OK",317
+"USA756S","Spring '24 Patch 14.2","NA","OK",318			|       "USA756S","Spring '24 Patch 14","NA","OK",318
+"USA768S","Spring '24 Patch 14.2","NA","OK",319			|       "USA768S","Spring '24 Patch 14","NA","OK",319
+"USA766S","Spring '24 Patch 14.2","NA","OK",320			|       "USA766S","Spring '24 Patch 14","NA","OK",320
+"USA754S","Spring '24 Patch 14.2","NA","OK",321			|       "USA754S","Spring '24 Patch 14","NA","OK",321
+"USA772S","Spring '24 Patch 14.2","NA","OK",322			|       "USA772S","Spring '24 Patch 14","NA","OK",322
+"USA762S","Spring '24 Patch 14.2","NA","OK",323			|       "USA762S","Spring '24 Patch 14","NA","OK",323
+"USA752S","Spring '24 Patch 14.2","NA","OK",324			|       "USA752S","Spring '24 Patch 14","NA","OK",324
+"USA764S","Spring '24 Patch 14.2","NA","OK",325			|       "USA764S","Spring '24 Patch 14","NA","OK",325
+"USA760S","Spring '24 Patch 14.2","NA","OK",326			|       "USA760S","Spring '24 Patch 14","NA","OK",326
+"USA750S","Spring '24 Patch 14.2","NA","OK",327			|       "USA750S","Spring '24 Patch 14","NA","OK",327
+"USA774S","Spring '24 Patch 14.2","NA","OK",328			|       "USA774S","Spring '24 Patch 14","NA","OK",328
+"USA786S","Spring '24 Patch 14.2","NA","OK",329			|       "USA786S","Spring '24 Patch 14","NA","OK",329
+"USA792S","Spring '24 Patch 14.2","NA","OK",330			|       "USA792S","Spring '24 Patch 14","NA","OK",330
+"USA836S","Spring '24 Patch 14.2","NA","OK",331			|       "USA836S","Spring '24 Patch 14","NA","OK",331
+"DEU104S","Spring '24 Patch 14.2","EMEA","OK",332		|       "DEU104S","Spring '24 Patch 14","EMEA","OK",332
+"CS338","Spring '24 Patch 14.2","EMEA","OK",333			|       "CS338","Spring '24 Patch 13.2","EMEA","OK",333
+"USA896S","Spring '24 Patch 14.2","NA","OK",334			|       "USA896S","Spring '24 Patch 14","NA","OK",334
+"USA894S","Spring '24 Patch 14.2","NA","OK",335			|       "USA894S","Spring '24 Patch 14","NA","OK",335
+"USA892S","Spring '24 Patch 14.2","NA","OK",336			|       "USA892S","Spring '24 Patch 14","NA","OK",336
+"USA902S","Spring '24 Patch 14.2","NA","OK",337			|       "USA902S","Spring '24 Patch 14","NA","OK",337
+"USA900S","Spring '24 Patch 14.2","NA","OK",338			|       "USA900S","Spring '24 Patch 14","NA","OK",338
+"USA898S","Spring '24 Patch 14.2","NA","OK",339			|       "USA898S","Spring '24 Patch 14","NA","OK",339
+"USA888S","Spring '24 Patch 14.2","NA","OK",340			|       "USA888S","Spring '24 Patch 14","NA","OK",340
+"USA882S","Spring '24 Patch 14.2","NA","OK",341			|       "USA882S","Spring '24 Patch 14","NA","OK",341
+"USA880S","Spring '24 Patch 14.2","NA","OK",342			|       "USA880S","Spring '24 Patch 14","NA","OK",342
+"USA890S","Spring '24 Patch 14.2","NA","OK",343			|       "USA890S","Spring '24 Patch 14","NA","OK",343
+"USA884S","Spring '24 Patch 14.2","NA","OK",344			|       "USA884S","Spring '24 Patch 14","NA","OK",344
+"USA886S","Spring '24 Patch 14.2","NA","OK",345			|       "USA886S","Spring '24 Patch 14","NA","OK",345
+"CS343","Spring '24 Patch 14.2","NA","OK",346			|       "CS343","Spring '24 Patch 14","NA","OK",346
+"CS341","Spring '24 Patch 14.2","NA","OK",347			|       "CS341","Spring '24 Patch 14","NA","OK",347
+"CS342","Spring '24 Patch 14.2","NA","OK",348			|       "CS342","Spring '24 Patch 14","NA","OK",348
+"CS344","Spring '24 Patch 13.4","NA","OK",349				"CS344","Spring '24 Patch 13.4","NA","OK",349
+"CS332","Spring '24 Patch 14.2","EMEA","OK",350			|       "CS332","Spring '24 Patch 14","EMEA","OK",350
+"CS328","Spring '24 Patch 14.2","EMEA","OK",351			|       "CS328","Spring '24 Patch 14","EMEA","OK",351
+"USA870S","Spring '24 Patch 14.2","NA","OK",352			|       "USA870S","Spring '24 Patch 14","NA","OK",352
+"FRA98S","Spring '24 Patch 14.2","EMEA","OK",353		|       "FRA98S","Spring '24 Patch 14","EMEA","OK",353
+"BRA54S","Spring '24 Patch 14.2","NA","OK",354			|       "BRA54S","Spring '24 Patch 14","NA","OK",354
+"FRA96S","Spring '24 Patch 14.2","EMEA","OK",355		|       "FRA96S","Spring '24 Patch 14","EMEA","OK",355
+"USA874S","Spring '24 Patch 14.2","NA","OK",356			|       "USA874S","Spring '24 Patch 14","NA","OK",356
+"USA872S","Spring '24 Patch 14.2","NA","OK",357			|       "USA872S","Spring '24 Patch 14","NA","OK",357
+"DEU114S","Spring '24 Patch 14.2","EMEA","OK",358		|       "DEU114S","Spring '24 Patch 14","EMEA","OK",358
+"DEU116S","Spring '24 Patch 14.2","EMEA","OK",359		|       "DEU116S","Spring '24 Patch 14","EMEA","OK",359
+"CAN86S","Spring '24 Patch 14.2","NA","OK",360			|       "CAN86S","Spring '24 Patch 14","NA","OK",360
+"SWE120S","Spring '24 Patch 14.2","EMEA","OK",361		|       "SWE120S","Spring '24 Patch 14","EMEA","OK",361
+"ITA32S","Spring '24 Patch 14.2","EMEA","OK",362		|       "ITA32S","Spring '24 Patch 14","EMEA","OK",362
+"CHE26S","Spring '24 Patch 14.2","EMEA","OK",363		|       "CHE26S","Spring '24 Patch 14","EMEA","OK",363
+"ISR2S","Spring '24 Patch 14.2","EMEA","OK",364			|       "ISR2S","Spring '24 Patch 14","EMEA","OK",364
+"ISR4S","Spring '24 Patch 14.2","EMEA","OK",365			|       "ISR4S","Spring '24 Patch 14","EMEA","OK",365
+"CS321","Spring '24 Patch 13.4","APAC","OK",366				"CS321","Spring '24 Patch 13.4","APAC","OK",366
