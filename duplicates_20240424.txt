@@ -1,0 +1,67 @@
+
+GBR102 has (4) Major Release record(s)!
+
+  Instance:    "GBR102"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 17.7" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656845, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684015, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662151, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679629, Status: confirmed)
+
+/---------------------------/
+
+--
+
+CHE16 has (4) Major Release record(s)!
+
+  Instance:    "CHE16"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 17.7" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656914, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684014, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662140, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679612, Status: confirmed)
+
+/---------------------------/
+
+--
+
+SWE64 has (4) Major Release record(s)!
+
+  Instance:    "SWE64"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 17.7" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656917, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684017, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662167, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679647, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR98 has (4) Major Release record(s)!
+
+  Instance:    "GBR98"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 17.7" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656916, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684016, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662159, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679637, Status: confirmed)
+
+/---------------------------/
+
