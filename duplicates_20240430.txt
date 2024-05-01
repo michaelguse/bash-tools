@@ -1,0 +1,564 @@
+
+GBR76 has (4) Major Release record(s)!
+
+  Instance:    "GBR76"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684359, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655826, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662330, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679836, Status: confirmed)
+
+/---------------------------/
+
+DEU68 has (4) Major Release record(s)!
+
+  Instance:    "DEU68"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684349, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655821, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662289, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679785, Status: confirmed)
+
+/---------------------------/
+
+DEU66 has (4) Major Release record(s)!
+
+  Instance:    "DEU66"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684348, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655820, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662288, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679784, Status: confirmed)
+
+/---------------------------/
+
+--
+
+SWE48 has (4) Major Release record(s)!
+
+  Instance:    "SWE48"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684371, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655836, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662372, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679879, Status: confirmed)
+
+/---------------------------/
+
+FRA42 has (4) Major Release record(s)!
+
+  Instance:    "FRA42"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684353, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655823, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662300, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679797, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR82 has (4) Major Release record(s)!
+
+  Instance:    "GBR82"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684362, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655829, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662333, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679839, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR84 has (4) Major Release record(s)!
+
+  Instance:    "GBR84"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684363, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655830, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662334, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679840, Status: confirmed)
+
+/---------------------------/
+
+SWE50 has (4) Major Release record(s)!
+
+  Instance:    "SWE50"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684372, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655837, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662374, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679881, Status: confirmed)
+
+/---------------------------/
+
+IND102 has (4) Major Release record(s)!
+
+  Instance:    "IND102"
+  Location:    "APAC" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684364, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655831, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662339, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679844, Status: confirmed)
+
+/---------------------------/
+
+--
+
+IND108 has (4) Major Release record(s)!
+
+  Instance:    "IND108"
+  Location:    "APAC" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684365, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655833, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662340, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679845, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR78 has (4) Major Release record(s)!
+
+  Instance:    "GBR78"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684360, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655827, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662331, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679837, Status: confirmed)
+
+/---------------------------/
+
+IND110 has (4) Major Release record(s)!
+
+  Instance:    "IND110"
+  Location:    "APAC" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684366, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655834, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662341, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679846, Status: confirmed)
+
+/---------------------------/
+
+--
+
+SWE54 has (4) Major Release record(s)!
+
+  Instance:    "SWE54"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684374, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655839, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662376, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679883, Status: confirmed)
+
+/---------------------------/
+
+--
+
+DEU70 has (4) Major Release record(s)!
+
+  Instance:    "DEU70"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684350, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655822, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662290, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679786, Status: confirmed)
+
+/---------------------------/
+
+FRA44 has (4) Major Release record(s)!
+
+  Instance:    "FRA44"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684354, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655824, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662301, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679798, Status: confirmed)
+
+/---------------------------/
+
+--
+
+SWE52 has (4) Major Release record(s)!
+
+  Instance:    "SWE52"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684373, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655838, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662375, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679882, Status: confirmed)
+
+/---------------------------/
+
+FRA46 has (4) Major Release record(s)!
+
+  Instance:    "FRA46"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684355, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655825, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662302, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679799, Status: confirmed)
+
+/---------------------------/
+
+GBR80 has (4) Major Release record(s)!
+
+  Instance:    "GBR80"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684361, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 655828, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662332, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679838, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR102 has (4) Major Release record(s)!
+
+  Instance:    "GBR102"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656845, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684015, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662151, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679629, Status: confirmed)
+
+/---------------------------/
+
+--
+
+ITA16 has (4) Major Release record(s)!
+
+  Instance:    "ITA16"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684370, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 656931, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662350, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679854, Status: confirmed)
+
+/---------------------------/
+
+--
+
+CHE16 has (4) Major Release record(s)!
+
+  Instance:    "CHE16"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656914, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684014, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662140, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679612, Status: confirmed)
+
+/---------------------------/
+
+--
+
+SWE64 has (4) Major Release record(s)!
+
+  Instance:    "SWE64"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656917, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684017, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662167, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679647, Status: confirmed)
+
+/---------------------------/
+
+--
+
+GBR98 has (4) Major Release record(s)!
+
+  Instance:    "GBR98"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 656916, Status: confirmed)
+    2024-06-08T02:00:00.000Z - Summer '24 Major Release (Id: 684016, Status: confirmed)  <-- duplicate entry
+    2024-10-05T02:00:00.000Z - Winter '25 Major Release (Id: 662159, Status: confirmed)
+    2025-02-08T03:00:00.000Z - Spring '25 Major Release (Id: 679637, Status: confirmed)
+
+/---------------------------/
+
+--
+
+DEU76 has (4) Major Release record(s)!
+
+  Instance:    "DEU76"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684352, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 657009, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662292, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679788, Status: confirmed)
+
+/---------------------------/
+
+--
+
+DEU74 has (4) Major Release record(s)!
+
+  Instance:    "DEU74"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684351, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 657008, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662291, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679787, Status: confirmed)
+
+/---------------------------/
+
+--
+
+ITA14 has (4) Major Release record(s)!
+
+  Instance:    "ITA14"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684369, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 660673, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662349, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679853, Status: confirmed)
+
+/---------------------------/
+
+ITA10 has (4) Major Release record(s)!
+
+  Instance:    "ITA10"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684367, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 660680, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662347, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679851, Status: confirmed)
+
+/---------------------------/
+
+ITA12 has (4) Major Release record(s)!
+
+  Instance:    "ITA12"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684368, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 660681, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 662348, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679852, Status: confirmed)
+
+/---------------------------/
+
+--
+
+FRA86 has (4) Major Release record(s)!
+
+  Instance:    "FRA86"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684357, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673201, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673210, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679813, Status: confirmed)
+
+/---------------------------/
+
+DEU112 has (4) Major Release record(s)!
+
+  Instance:    "DEU112"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684347, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673197, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673206, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679771, Status: confirmed)
+
+/---------------------------/
+
+FRA88 has (4) Major Release record(s)!
+
+  Instance:    "FRA88"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684358, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673202, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673211, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679814, Status: confirmed)
+
+/---------------------------/
+
+DEU110 has (4) Major Release record(s)!
+
+  Instance:    "DEU110"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684346, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673196, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673205, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679770, Status: confirmed)
+
+/---------------------------/
+
+DEU108 has (4) Major Release record(s)!
+
+  Instance:    "DEU108"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684345, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673195, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673204, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679768, Status: confirmed)
+
+/---------------------------/
+
+--
+
+FRA84 has (4) Major Release record(s)!
+
+  Instance:    "FRA84"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684356, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673200, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673209, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679812, Status: confirmed)
+
+/---------------------------/
+
+--
+
+DEU106 has (4) Major Release record(s)!
+
+  Instance:    "DEU106"
+  Location:    "EMEA" 
+  Status:      "OK" 
+  Current Release:  "Spring '24 Patch 18.2" 
+
+  Upcoming Releases:
+    2024-06-14T22:00:00.000Z - Summer '24 Major Release (Id: 684344, Status: confirmed)
+    2024-06-14T23:00:00.000Z - Summer '24 Major Release (Id: 673194, Status: confirmed)  <-- duplicate entry
+    2024-10-11T23:00:00.000Z - Winter '25 Major Release (Id: 673203, Status: confirmed)
+    2025-02-15T00:00:00.000Z - Spring '25 Major Release (Id: 679767, Status: confirmed)
+
+/---------------------------/
+
