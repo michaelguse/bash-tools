@@ -3,6 +3,8 @@ sfTrustResult.new
 sfTrustResult.old
 srv-prd-info.new
 srv-prd-info.old
+srv-prd-info_new.json
+srv-prd-info_old.json
 hasChanged
 srvprd_hasChanged
 tmpFile
