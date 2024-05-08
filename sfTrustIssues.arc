@@ -3501,3 +3501,15 @@ Details:
     42 / 1031 instance(s) with two release records.
     966 / 1031 instance(s) with three release records.
 
+/---------------------------/
+
+SUMMARY - 2024-05-08 07:34:55 CDT
+1031 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    10 / 1031 instance(s) with zero release records.
+    13 / 1031 instance(s) with one release record.
+    42 / 1031 instance(s) with two release records.
+    966 / 1031 instance(s) with three release records.
+
