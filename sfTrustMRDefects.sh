@@ -62,8 +62,11 @@ for var in ${arr[@]}; do
       printf "  Current Release:  ${l_currRel} \n\n"
       printf "  Upcoming Releases:\n"
 
+      # Initialize compare variables for duplicate logic
       l_name_compare=""
       l_status_compare=""
+      l_relStart_compare=""
+
       for ((i=0; i<len; i++)); do
 
         l_relStart=`jq -r --arg ij "$i" .[' $ij|tonumber '].start relFile`
@@ -74,7 +77,7 @@ for var in ${arr[@]}; do
         printf "    $l_relStart - $l_relName (Id: $l_relMaintId, Status: $l_relMaintStatus)"
         
         # check for duplicate release entry        
-        if [[ $l_relName == $l_name_compare && $l_relMaintStatus == $l_status_compare ]]
+        if [[ $l_relName == $l_name_compare && $l_relMaintStatus == $l_status_compare && $l_relStart == $l_relStart_compare ]]
         then
           printf "  <-- duplicate entry\n" 
           ((dupl++))
@@ -92,6 +95,7 @@ for var in ${arr[@]}; do
 
         l_name_compare=$l_relName
         l_status_compare=$l_relMaintStatus
+        l_relStart_compare=$l_relStart
 
       done
 

@@ -4281,3 +4281,75 @@ Details:
     22 / 1031 instance(s) with five release records.
     98 / 1031 instance(s) with more than five release records.
 
+
+SUMMARY - 2024-08-19 08:23:59 CDT
+1020 active instance(s) were checked for major release record issues.
+3 duplicate major release record entries were found.
+
+Details:
+    43 / 1020 instance(s) with zero release records.
+    642 / 1020 instance(s) with three release records.
+    215 / 1020 instance(s) with four release records.
+    22 / 1020 instance(s) with five release records.
+    98 / 1020 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-08-20 10:51:57 CDT
+1020 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    41 / 1020 instance(s) with zero release records.
+    721 / 1020 instance(s) with three release records.
+    212 / 1020 instance(s) with four release records.
+    11 / 1020 instance(s) with five release records.
+    35 / 1020 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-08-21 09:09:52 CDT
+1020 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    41 / 1020 instance(s) with zero release records.
+    720 / 1020 instance(s) with three release records.
+    213 / 1020 instance(s) with four release records.
+    11 / 1020 instance(s) with five release records.
+    35 / 1020 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-08-22 09:00:38 CDT
+1020 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    41 / 1020 instance(s) with zero release records.
+    720 / 1020 instance(s) with three release records.
+    213 / 1020 instance(s) with four release records.
+    11 / 1020 instance(s) with five release records.
+    35 / 1020 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-08-26 08:38:40 CDT
+1020 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    41 / 1020 instance(s) with zero release records.
+    720 / 1020 instance(s) with three release records.
+    213 / 1020 instance(s) with four release records.
+    11 / 1020 instance(s) with five release records.
+    35 / 1020 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-08-26 09:12:17 CDT
+1020 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    41 / 1020 instance(s) with zero release records.
+    720 / 1020 instance(s) with three release records.
+    213 / 1020 instance(s) with four release records.
+    11 / 1020 instance(s) with five release records.
+    35 / 1020 instance(s) with more than five release records.
+
