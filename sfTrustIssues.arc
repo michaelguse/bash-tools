@@ -4473,3 +4473,27 @@ Details:
     30 / 1015 instance(s) with five release records.
     232 / 1015 instance(s) with more than five release records.
 
+1015 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    44 / 1015 instance(s) with zero release records.
+    1 / 1015 instance(s) with one release record.
+    2 / 1015 instance(s) with two release records.
+    685 / 1015 instance(s) with three release records.
+    21 / 1015 instance(s) with four release records.
+    30 / 1015 instance(s) with five release records.
+    232 / 1015 instance(s) with more than five release records.
+
+1015 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    44 / 1015 instance(s) with zero release records.
+    1 / 1015 instance(s) with one release record.
+    2 / 1015 instance(s) with two release records.
+    685 / 1015 instance(s) with three release records.
+    21 / 1015 instance(s) with four release records.
+    30 / 1015 instance(s) with five release records.
+    232 / 1015 instance(s) with more than five release records.
+
