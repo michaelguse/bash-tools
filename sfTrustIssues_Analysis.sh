@@ -1,8 +1,8 @@
 #!/bin/zsh
 
-local numRelRcds="4"        #default
+local numRelRcds="6"         #default
 local search=""             #default
-local field="14"            #default [MaintId]
+local field="14"            #default [Maintenance Id Status]
 local positional=()
 # local debug="false"
 local usage=(
@@ -25,30 +25,40 @@ while (( $# )); do
     shift
 done
 
-#if [[ $debug == "true" ]] 
-#then
-    echo "Debug Info"
-    echo "--------------------------------"
-    echo "# of Rel Rcds: ${numRelRcds}"
-    echo "Search string: ${search}"
-    echo "Field: ${field}"
-    echo "\nResult is sorted and shows unique occurrences."
-    echo '\nPress any key to continue...\n'; read -k1 -s
-#fi
+echo "Run Info"
+echo "--------------------------------"
+echo "Number of Rel Rcds: ${numRelRcds}"
+echo "Search string: ${search}"
+echo "Field: ${field}"
+echo "\nResult is sorted and shows unique occurrences."
+echo '\nPress any key to continue...\n'; read -k1 -s
+
+# if [[ ${numRelRcds} == ""]] 
+# then 
+#     numRelRcds=(0 1 2 3 4 5 6)
+#     echo "numRelRcds: ${numRelRcds[@]}\n"
+# fi
+# 
+# for var in ${numRelRcds[@]}; 
+# do
+
+var=${numRelRcds}
 
 if [[ $search == "" ]]
 then
-pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${numRelRcds}}\n\/---" sfTrustIssues.log \
-| grep ', Status: ' \
-| cut -f ${field} -d " " \
-| sort \
-| uniq -c \
-|awk '{print; count++} END {print "\nCount: " count}'
+    pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${var}}\n\/---" sfTrustIssues.log \
+    | grep ', Status: ' \
+    | cut -f ${field} -w \
+    | sort \
+    | uniq -c \
+    |awk '{print; count++} END {print "\nCount: " count}'
 else
-pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${numRelRcds}}\n\/---" sfTrustIssues.log \
-| grep ${search} \
-| cut -f ${field} -d " " \
-| sort \
-| uniq -c \
-|awk '{print; count++} END {print "\nCount: " count}'
+    pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${var}}\n\/---" sfTrustIssues.log \
+    | grep ${search} \
+    | cut -f ${field} -d " " \
+    | sort \
+    | uniq -c \
+    |awk '{print; count++} END {print "\nCount: " count}'
 fi
+
+# done
