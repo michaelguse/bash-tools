@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-local numRelRcds="6"         #default
-local search=""             #default
+local numRelRcds=()         #default
+local search=", Status: "   #default
 local field="14"            #default [Maintenance Id Status]
 local positional=()
 # local debug="false"
@@ -33,32 +33,22 @@ echo "Field: ${field}"
 echo "\nResult is sorted and shows unique occurrences."
 echo '\nPress any key to continue...\n'; read -k1 -s
 
-# if [[ ${numRelRcds} == ""]] 
-# then 
-#     numRelRcds=(0 1 2 3 4 5 6)
-#     echo "numRelRcds: ${numRelRcds[@]}\n"
-# fi
-# 
-# for var in ${numRelRcds[@]}; 
-# do
+if [[ -z ${numRelRcds[@]} ]] 
+then 
+    numRelRcds=(0 1 2 3 4 5 6)
+    # echo "numRelRcds: ${numRelRcds}\n"
+fi
 
-var=${numRelRcds}
+for var in ${numRelRcds}; do
 
-if [[ $search == "" ]]
-then
-    pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${var}}\n\/---" sfTrustIssues.log \
-    | grep ', Status: ' \
-    | cut -f ${field} -w \
-    | sort \
-    | uniq -c \
-    |awk '{print; count++} END {print "\nCount: " count}'
-else
+    echo "\nRelease Record Count: $var"
+    echo "--------------------------------"
+
     pcre2grep -B 6 -A 0 -M ".*Upc.*:\n(.*202.*\n){${var}}\n\/---" sfTrustIssues.log \
     | grep ${search} \
     | cut -f ${field} -d " " \
     | sort \
     | uniq -c \
-    |awk '{print; count++} END {print "\nCount: " count}'
-fi
+    | awk '{print; count++} END {print "\nCount: " count}'
 
-# done
+done
