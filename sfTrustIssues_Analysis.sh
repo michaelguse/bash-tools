@@ -25,13 +25,23 @@ while (( $# )); do
     shift
 done
 
-echo "Run Info"
-echo "--------------------------------"
-echo "Number of Rel Rcds: ${numRelRcds}"
-echo "Search string: ${search}"
-echo "Field: ${field}"
-echo "\nResult is sorted and shows unique occurrences."
-echo '\nPress any key to continue...\n'; read -k1 -s
+l_procDateTime=`date "+%Y-%m-%d %H:%M:%S %Z"`
+
+echo
+echo '/--------------------------------------------------/'
+echo "/                                                  /"
+echo "/  JOB: SF Trust Issues - Analysis                 /"
+echo "/                                                  /"
+echo "/  AUTHOR: Michael Guse - mguse@salesforce.com     /"
+echo "/                                                  /"
+echo "/  RUN DATE: ${l_procDateTime}               /"
+echo "/                                                  /"
+echo '/--------------------------------------------------/'
+echo
+echo "  Number of Rel Rcds: ${numRelRcds}"
+echo "  Search string: ${search}"
+echo "  Field: ${field}"
+echo "\n  Result is sorted and shows unique occurrences."
 
 if [[ -z ${numRelRcds[@]} ]] 
 then 
