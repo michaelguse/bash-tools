@@ -4720,3 +4720,42 @@ Details:
     29 / 1008 instance(s) with five release records.
     230 / 1008 instance(s) with more than five release records.
 
+
+SUMMARY - 2024-10-09 09:05:23 CDT
+1008 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    35 / 1008 instance(s) with zero release records.
+    239 / 1008 instance(s) with two release records.
+    463 / 1008 instance(s) with three release records.
+    12 / 1008 instance(s) with four release records.
+    29 / 1008 instance(s) with five release records.
+    230 / 1008 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-10-09 20:06:24 CDT
+1008 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    35 / 1008 instance(s) with zero release records.
+    239 / 1008 instance(s) with two release records.
+    466 / 1008 instance(s) with three release records.
+    11 / 1008 instance(s) with four release records.
+    224 / 1008 instance(s) with five release records.
+    33 / 1008 instance(s) with more than five release records.
+
+
+SUMMARY - 2024-10-10 08:50:12 CDT
+1008 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    35 / 1008 instance(s) with zero release records.
+    239 / 1008 instance(s) with two release records.
+    466 / 1008 instance(s) with three release records.
+    11 / 1008 instance(s) with four release records.
+    224 / 1008 instance(s) with five release records.
+    33 / 1008 instance(s) with more than five release records.
+
