@@ -5045,3 +5045,16 @@ Details:
     51 / 1001 instance(s) with four release records.
     214 / 1001 instance(s) with five release records.
 
+/---------------------------/
+
+SUMMARY - 2024-11-13 09:33:59 CST
+1001 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    36 / 1001 instance(s) with zero release records.
+    319 / 1001 instance(s) with two release records.
+    381 / 1001 instance(s) with three release records.
+    51 / 1001 instance(s) with four release records.
+    214 / 1001 instance(s) with five release records.
+
