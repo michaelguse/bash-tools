@@ -1,5 +1,13 @@
 #!/bin/zsh
 
+# Example of a search for unique instances by number of major release records
+#
+# ./sfTrustIssues_Analysis.sh -s Instance -n 0 -f 7 
+#
+# search string: Instance
+# release count: 0
+# field #: 7
+
 local numRelRcds=()         #default
 local search=", Status: "   #default
 local field="14"            #default [Maintenance Id Status]
