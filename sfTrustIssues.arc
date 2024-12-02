@@ -5162,3 +5162,55 @@ Details:
     37 / 994 instance(s) with zero release records.
     957 / 994 instance(s) with two release records.
 
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-11-26 07:47:22 CST
+994 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    37 / 994 instance(s) with zero release records.
+    957 / 994 instance(s) with two release records.
+
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-11-27 09:56:18 CST
+994 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    37 / 994 instance(s) with zero release records.
+    957 / 994 instance(s) with two release records.
+
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-11-28 12:12:11 CST
+994 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    37 / 994 instance(s) with zero release records.
+    957 / 994 instance(s) with two release records.
+
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-12-02 09:43:22 CST
+994 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    37 / 994 instance(s) with zero release records.
+    957 / 994 instance(s) with two release records.
+
