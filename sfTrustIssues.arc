@@ -5253,3 +5253,42 @@ Details:
     40 / 997 instance(s) with zero release records.
     957 / 997 instance(s) with two release records.
 
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-12-06 10:08:30 CST
+997 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    40 / 997 instance(s) with zero release records.
+    957 / 997 instance(s) with two release records.
+
+    2025-02-08T06:00:00.000Z - Spring '25 Major Release (Id: 707342, Status: confirmed)
+    2025-06-07T05:00:00.000Z - Summer '25 Major Release (Id: 707344, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2024-12-09 09:25:24 CST
+997 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    40 / 997 instance(s) with zero release records.
+    957 / 997 instance(s) with two release records.
+
+
+  Upcoming Releases:
+
+/---------------------------/
+
+SUMMARY - 2024-12-10 10:30:35 CST
+1004 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    47 / 1004 instance(s) with zero release records.
+    957 / 1004 instance(s) with two release records.
+
