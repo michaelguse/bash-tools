@@ -5474,3 +5474,16 @@ Details:
     929 / 1013 instance(s) with two release records.
     29 / 1013 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2025-01-08 09:35:52 CST
+1013 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    36 / 1013 instance(s) with zero release records.
+    19 / 1013 instance(s) with one release record.
+    926 / 1013 instance(s) with two release records.
+    32 / 1013 instance(s) with three release records.
+
