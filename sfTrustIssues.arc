@@ -5734,3 +5734,68 @@ Details:
     935 / 1005 instance(s) with two release records.
     13 / 1005 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2025-02-05 11:21:18 CST
+1005 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    38 / 1005 instance(s) with zero release records.
+    19 / 1005 instance(s) with one release record.
+    935 / 1005 instance(s) with two release records.
+    13 / 1005 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2025-02-06 07:57:26 CST
+1005 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    38 / 1005 instance(s) with zero release records.
+    19 / 1005 instance(s) with one release record.
+    935 / 1005 instance(s) with two release records.
+    13 / 1005 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2025-02-07 08:55:12 CST
+1007 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    39 / 1007 instance(s) with zero release records.
+    249 / 1007 instance(s) with one release record.
+    706 / 1007 instance(s) with two release records.
+    13 / 1007 instance(s) with three release records.
+
+/---------------------------/
+
+SUMMARY - 2025-02-09 14:43:25 CST
+1007 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    36 / 1007 instance(s) with zero release records.
+    3 / 1007 instance(s) with one release record.
+    252 / 1007 instance(s) with two release records.
+    702 / 1007 instance(s) with three release records.
+    14 / 1007 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2025-02-10 08:36:28 CST
+1007 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+    36 / 1007 instance(s) with zero release records.
+    3 / 1007 instance(s) with one release record.
+    252 / 1007 instance(s) with two release records.
+    702 / 1007 instance(s) with three release records.
+    14 / 1007 instance(s) with four release records.
+
