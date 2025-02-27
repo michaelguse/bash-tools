@@ -77,7 +77,8 @@ for var in ${arr[@]}; do
         printf "    $l_relStart - $l_relName (Id: $l_relMaintId, Status: $l_relMaintStatus)"
         
         # check for duplicate release entry        
-        if [[ $l_relName == $l_name_compare && $l_relMaintStatus == $l_status_compare && $l_relStart == $l_relStart_compare ]]
+        if [[ $l_relName == $l_name_compare && $l_relMaintStatus == $l_status_compare ]]
+        #if [[ $l_relName == $l_name_compare && $l_relMaintStatus == $l_status_compare && $l_relStart == $l_relStart_compare ]]
         then
           printf "  <-- duplicate entry\n" 
           ((dupl++))
