@@ -6448,3 +6448,29 @@ Details:
     928 / 989 instance(s) with three release records.
     1 / 989 instance(s) with four release records.
 
+/---------------------------/
+
+SUMMARY - 2025-04-23 17:28:19 CDT
+989 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    37 / 989 instance(s) with zero release records.
+    15 / 989 instance(s) with one release record.
+    8 / 989 instance(s) with two release records.
+    928 / 989 instance(s) with three release records.
+    1 / 989 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2025-04-24 12:01:45 CDT
+989 active instance(s) were checked for major release record issues.
+1 duplicate major release record entries were found.
+
+Details:
+    37 / 989 instance(s) with zero release records.
+    15 / 989 instance(s) with one release record.
+    8 / 989 instance(s) with two release records.
+    928 / 989 instance(s) with three release records.
+    1 / 989 instance(s) with four release records.
+
