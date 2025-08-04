@@ -14,7 +14,7 @@ local field="14"            #default [Maintenance Id Status]
 local positional=()
 # local debug="false"
 local usage=(
-    "sfTrustIssues_Ananlysis.sh [-h|--help] [-d|--debug] [-n|--numRelRcds <number of release records|default('4')>] [-s|--search <search string|default('eventStatusCanceled')>] [-f|--field <field string|default('12')>]"
+    "sfTrustIssues_Ananlysis.sh [-h|--help] [-d|--debug] [-n|--numRelRcds <number of release records|default('4')>] [-s|--search <search string|default(', Status: ')>] [-f|--field <field string|default('14')>]"
 )
 
 opterr() { echo >&2 "optparsing_demo: Unknown option '$1'" }
