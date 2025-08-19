@@ -7032,3 +7032,42 @@ Details:
     920 / 936 instance(s) with three release records.
     3 / 936 instance(s) with four release records.
 
+/                                                  /
+/  RUN DATE: 2025-08-18 10:58:42 CDT               /
+/                                                  /
+/--------------------------------------------------/
+
+curl: (6) Could not resolve host: api.status.salesforce.com
+jq: error: Could not open file tmpFile: No such file or directory
+SUMMARY - 2025-08-18 10:58:42 CDT
+0 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+
+/---------------------------/
+
+SUMMARY - 2025-08-18 11:35:33 CDT
+936 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 936 instance(s) with zero release records.
+    4 / 936 instance(s) with one release record.
+    2 / 936 instance(s) with two release records.
+    920 / 936 instance(s) with three release records.
+    3 / 936 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2025-08-19 13:20:30 CDT
+936 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 936 instance(s) with zero release records.
+    4 / 936 instance(s) with one release record.
+    2 / 936 instance(s) with two release records.
+    920 / 936 instance(s) with three release records.
+    3 / 936 instance(s) with four release records.
+
