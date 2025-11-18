@@ -10,8 +10,8 @@ fi
 
 date "+%Y-%m-%d %H:%M:%S %Z" > newDate
 
-CURR_REL=$'Summer \'25'
-NEXT_REL=$'Winter \'26'
+CURR_REL=$'Winter \'26'
+NEXT_REL=$'Spring \'26'
 
 echo
 echo "|======================================================================|"
