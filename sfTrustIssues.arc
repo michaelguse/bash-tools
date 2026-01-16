@@ -8046,3 +8046,16 @@ Details:
     2 / 942 instance(s) with four release records.
     1 / 942 instance(s) with five release records.
 
+
+SUMMARY - 2026-01-16 11:38:08 CST
+943 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 943 instance(s) with zero release records.
+    5 / 943 instance(s) with one release record.
+    6 / 943 instance(s) with two release records.
+    922 / 943 instance(s) with three release records.
+    2 / 943 instance(s) with four release records.
+    1 / 943 instance(s) with five release records.
+
