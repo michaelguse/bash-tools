@@ -8501,3 +8501,68 @@ Details:
     930 / 943 instance(s) with two release records.
     4 / 943 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-04-29 10:39:00 CDT
+943 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 943 instance(s) with zero release records.
+    2 / 943 instance(s) with one release record.
+    930 / 943 instance(s) with two release records.
+    4 / 943 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-04-30 08:47:03 CDT
+943 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 943 instance(s) with zero release records.
+    2 / 943 instance(s) with one release record.
+    930 / 943 instance(s) with two release records.
+    4 / 943 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-05-01 12:23:46 CDT
+943 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 943 instance(s) with zero release records.
+    2 / 943 instance(s) with one release record.
+    930 / 943 instance(s) with two release records.
+    4 / 943 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-05-05 09:48:34 EDT
+943 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    7 / 943 instance(s) with zero release records.
+    2 / 943 instance(s) with one release record.
+    930 / 943 instance(s) with two release records.
+    4 / 943 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-05-07 10:51:41 EDT
+944 active instance(s) were checked for major release record issues.
+2 duplicate major release record entries were found.
+
+Details:
+    8 / 944 instance(s) with zero release records.
+    2 / 944 instance(s) with one release record.
+    930 / 944 instance(s) with two release records.
+    4 / 944 instance(s) with three release records.
+
