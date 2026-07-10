@@ -8657,32 +8657,6 @@ Details:
     699 / 1003 instance(s) with two release records.
     20 / 1003 instance(s) with three release records.
 
-/                                                  /
-/  RUN DATE: 2026-06-29 07:53:04 PDT               /
-/                                                  /
-/--------------------------------------------------/
-
-curl: (6) Could not resolve host: api.status.salesforce.com
-jq: error: Could not open file tmpFile: No such file or directory
-SUMMARY - 2026-06-29 07:53:04 PDT
-0 active instance(s) were checked for major release record issues.
-0 duplicate major release record entries were found.
-
-Details:
-
-/                                                  /
-/  RUN DATE: 2026-07-06 10:15:03 CDT               /
-/                                                  /
-/--------------------------------------------------/
-
-curl: (6) Could not resolve host: api.status.salesforce.com
-jq: error: Could not open file tmpFile: No such file or directory
-SUMMARY - 2026-07-06 10:15:03 CDT
-0 active instance(s) were checked for major release record issues.
-0 duplicate major release record entries were found.
-
-Details:
-
 
 /---------------------------/
 
@@ -8721,4 +8695,3 @@ Details:
     246 / 1010 instance(s) with one release record.
     698 / 1010 instance(s) with two release records.
     20 / 1010 instance(s) with three release records.
-
