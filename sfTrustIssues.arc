@@ -8566,3 +8566,159 @@ Details:
     930 / 944 instance(s) with two release records.
     4 / 944 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-06-01 15:24:37 EDT
+966 active instance(s) were checked for major release record issues.
+19 duplicate major release record entries were found.
+
+Details:
+    7 / 966 instance(s) with zero release records.
+    33 / 966 instance(s) with one release record.
+    906 / 966 instance(s) with two release records.
+    20 / 966 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-02 10:51:12 EDT
+966 active instance(s) were checked for major release record issues.
+19 duplicate major release record entries were found.
+
+Details:
+    7 / 966 instance(s) with zero release records.
+    33 / 966 instance(s) with one release record.
+    906 / 966 instance(s) with two release records.
+    20 / 966 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-03 09:57:33 EDT
+966 active instance(s) were checked for major release record issues.
+19 duplicate major release record entries were found.
+
+Details:
+    7 / 966 instance(s) with zero release records.
+    33 / 966 instance(s) with one release record.
+    906 / 966 instance(s) with two release records.
+    20 / 966 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-12 07:43:41 CDT
+979 active instance(s) were checked for major release record issues.
+19 duplicate major release record entries were found.
+
+Details:
+    12 / 979 instance(s) with zero release records.
+    238 / 979 instance(s) with one release record.
+    714 / 979 instance(s) with two release records.
+    15 / 979 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-15 11:34:56 EDT
+980 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    12 / 980 instance(s) with zero release records.
+    239 / 980 instance(s) with one release record.
+    708 / 980 instance(s) with two release records.
+    21 / 980 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-23 11:04:53 CDT
+999 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    33 / 999 instance(s) with zero release records.
+    247 / 999 instance(s) with one release record.
+    699 / 999 instance(s) with two release records.
+    20 / 999 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-06-26 09:34:00 PDT
+1003 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    37 / 1003 instance(s) with zero release records.
+    247 / 1003 instance(s) with one release record.
+    699 / 1003 instance(s) with two release records.
+    20 / 1003 instance(s) with three release records.
+
+/                                                  /
+/  RUN DATE: 2026-06-29 07:53:04 PDT               /
+/                                                  /
+/--------------------------------------------------/
+
+curl: (6) Could not resolve host: api.status.salesforce.com
+jq: error: Could not open file tmpFile: No such file or directory
+SUMMARY - 2026-06-29 07:53:04 PDT
+0 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+
+/                                                  /
+/  RUN DATE: 2026-07-06 10:15:03 CDT               /
+/                                                  /
+/--------------------------------------------------/
+
+curl: (6) Could not resolve host: api.status.salesforce.com
+jq: error: Could not open file tmpFile: No such file or directory
+SUMMARY - 2026-07-06 10:15:03 CDT
+0 active instance(s) were checked for major release record issues.
+0 duplicate major release record entries were found.
+
+Details:
+
+
+/---------------------------/
+
+SUMMARY - 2026-07-07 10:15:00 CDT
+1010 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    44 / 1010 instance(s) with zero release records.
+    247 / 1010 instance(s) with one release record.
+    699 / 1010 instance(s) with two release records.
+    20 / 1010 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-07-08 15:23:56 CDT
+1010 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    44 / 1010 instance(s) with zero release records.
+    247 / 1010 instance(s) with one release record.
+    699 / 1010 instance(s) with two release records.
+    20 / 1010 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-07-09 12:22:55 CDT
+1010 active instance(s) were checked for major release record issues.
+18 duplicate major release record entries were found.
+
+Details:
+    46 / 1010 instance(s) with zero release records.
+    246 / 1010 instance(s) with one release record.
+    698 / 1010 instance(s) with two release records.
+    20 / 1010 instance(s) with three release records.
+
