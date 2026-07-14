@@ -8721,3 +8721,16 @@ Details:
     585 / 1012 instance(s) with two release records.
     17 / 1012 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-07-14 12:06:03 EDT
+1007 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    46 / 1007 instance(s) with zero release records.
+    364 / 1007 instance(s) with one release record.
+    581 / 1007 instance(s) with two release records.
+    16 / 1007 instance(s) with three release records.
+
