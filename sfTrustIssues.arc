@@ -8877,3 +8877,29 @@ Details:
     977 / 1008 instance(s) with one release record.
     20 / 1008 instance(s) with two release records.
 
+    2026-08-29T01:00:00.000Z - Winter '27 Major Release (Id: 20162983, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2026-08-07 12:26:05 CDT
+1008 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    11 / 1008 instance(s) with zero release records.
+    976 / 1008 instance(s) with one release record.
+    21 / 1008 instance(s) with two release records.
+
+    2026-08-29T01:00:00.000Z - Winter '27 Major Release (Id: 20162983, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2026-08-10 13:40:01 EDT
+1008 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    11 / 1008 instance(s) with zero release records.
+    976 / 1008 instance(s) with one release record.
+    21 / 1008 instance(s) with two release records.
+
