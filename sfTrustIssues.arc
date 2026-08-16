@@ -8916,3 +8916,42 @@ Details:
     976 / 1009 instance(s) with one release record.
     21 / 1009 instance(s) with two release records.
 
+  Upcoming Releases:
+
+/---------------------------/
+
+SUMMARY - 2026-08-12 10:59:22 EDT
+1009 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    12 / 1009 instance(s) with zero release records.
+    976 / 1009 instance(s) with one release record.
+    21 / 1009 instance(s) with two release records.
+
+  Upcoming Releases:
+
+/---------------------------/
+
+SUMMARY - 2026-08-14 16:06:04 CDT
+1011 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    14 / 1011 instance(s) with zero release records.
+    976 / 1011 instance(s) with one release record.
+    21 / 1011 instance(s) with two release records.
+
+  Upcoming Releases:
+
+/---------------------------/
+
+SUMMARY - 2026-08-16 11:56:18 CDT
+1006 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    14 / 1006 instance(s) with zero release records.
+    971 / 1006 instance(s) with one release record.
+    21 / 1006 instance(s) with two release records.
+
