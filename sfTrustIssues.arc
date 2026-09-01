@@ -8968,3 +8968,120 @@ Details:
     971 / 1006 instance(s) with one release record.
     21 / 1006 instance(s) with two release records.
 
+    2026-10-10T06:30:00.000Z - Winter '27 Major Release (Id: 20163557, Status: confirmed)
+
+/---------------------------/
+
+SUMMARY - 2026-08-19 15:21:56 CDT
+1004 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1004 instance(s) with zero release records.
+    974 / 1004 instance(s) with one release record.
+    21 / 1004 instance(s) with two release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-20 12:35:29 CDT
+1004 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1004 instance(s) with zero release records.
+    3 / 1004 instance(s) with one release record.
+    971 / 1004 instance(s) with two release records.
+    21 / 1004 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-22 16:37:20 CDT
+1034 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    8 / 1034 instance(s) with one release record.
+    996 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-24 16:25:05 EDT
+1034 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    8 / 1034 instance(s) with one release record.
+    996 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-25 10:30:18 EDT
+1034 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    8 / 1034 instance(s) with one release record.
+    996 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-26 12:57:47 EDT
+1034 active instance(s) were checked for major release record issues.
+17 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    2 / 1034 instance(s) with one release record.
+    1002 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-28 16:21:39 CDT
+1034 active instance(s) were checked for major release record issues.
+11 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    2 / 1034 instance(s) with one release record.
+    1002 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-08-31 09:43:53 CDT
+1034 active instance(s) were checked for major release record issues.
+11 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    2 / 1034 instance(s) with one release record.
+    1002 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-09-01 08:16:32 CDT
+1034 active instance(s) were checked for major release record issues.
+11 duplicate major release record entries were found.
+
+Details:
+    9 / 1034 instance(s) with zero release records.
+    2 / 1034 instance(s) with one release record.
+    1002 / 1034 instance(s) with two release records.
+    21 / 1034 instance(s) with three release records.
+
