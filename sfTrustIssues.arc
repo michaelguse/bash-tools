@@ -9098,3 +9098,16 @@ Details:
     1002 / 1034 instance(s) with two release records.
     21 / 1034 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-09-08 11:57:42 CDT
+1035 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    10 / 1035 instance(s) with zero release records.
+    2 / 1035 instance(s) with one release record.
+    1003 / 1035 instance(s) with two release records.
+    20 / 1035 instance(s) with three release records.
+
