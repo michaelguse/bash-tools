@@ -9111,3 +9111,55 @@ Details:
     1003 / 1035 instance(s) with two release records.
     20 / 1035 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-09-09 10:45:17 CDT
+1035 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    10 / 1035 instance(s) with zero release records.
+    2 / 1035 instance(s) with one release record.
+    1003 / 1035 instance(s) with two release records.
+    20 / 1035 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-09-11 14:39:54 CDT
+1035 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    10 / 1035 instance(s) with zero release records.
+    2 / 1035 instance(s) with one release record.
+    1003 / 1035 instance(s) with two release records.
+    20 / 1035 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-09-14 12:32:02 CDT
+1035 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    10 / 1035 instance(s) with zero release records.
+    2 / 1035 instance(s) with one release record.
+    1003 / 1035 instance(s) with two release records.
+    20 / 1035 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-09-17 11:33:32 CDT
+1035 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    11 / 1035 instance(s) with zero release records.
+    2 / 1035 instance(s) with one release record.
+    1002 / 1035 instance(s) with two release records.
+    20 / 1035 instance(s) with three release records.
+
