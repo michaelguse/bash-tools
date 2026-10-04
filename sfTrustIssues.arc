@@ -9202,3 +9202,42 @@ Details:
     1002 / 1032 instance(s) with two release records.
     20 / 1032 instance(s) with three release records.
 
+
+/---------------------------/
+
+SUMMARY - 2026-09-29 08:16:56 CDT
+1032 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    8 / 1032 instance(s) with zero release records.
+    2 / 1032 instance(s) with one release record.
+    1002 / 1032 instance(s) with two release records.
+    20 / 1032 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-10-01 14:31:08 CDT
+1029 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    8 / 1029 instance(s) with zero release records.
+    2 / 1029 instance(s) with one release record.
+    999 / 1029 instance(s) with two release records.
+    20 / 1029 instance(s) with three release records.
+
+
+/---------------------------/
+
+SUMMARY - 2026-10-02 10:26:24 CDT
+1029 active instance(s) were checked for major release record issues.
+10 duplicate major release record entries were found.
+
+Details:
+    9 / 1029 instance(s) with zero release records.
+    232 / 1029 instance(s) with one release record.
+    777 / 1029 instance(s) with two release records.
+    11 / 1029 instance(s) with three release records.
+
