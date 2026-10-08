@@ -9241,3 +9241,29 @@ Details:
     777 / 1029 instance(s) with two release records.
     11 / 1029 instance(s) with three release records.
 
+/---------------------------/
+
+SUMMARY - 2026-10-06 10:03:56 EDT
+1019 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    8 / 1019 instance(s) with zero release records.
+    3 / 1019 instance(s) with one release record.
+    218 / 1019 instance(s) with two release records.
+    779 / 1019 instance(s) with three release records.
+    11 / 1019 instance(s) with four release records.
+
+/---------------------------/
+
+SUMMARY - 2026-10-08 09:21:10 EDT
+1020 active instance(s) were checked for major release record issues.
+9 duplicate major release record entries were found.
+
+Details:
+    8 / 1020 instance(s) with zero release records.
+    3 / 1020 instance(s) with one release record.
+    218 / 1020 instance(s) with two release records.
+    781 / 1020 instance(s) with three release records.
+    10 / 1020 instance(s) with four release records.
+
