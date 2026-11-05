@@ -7,3 +7,4 @@
 ] 
 | group_by(.Product) 
 | map({ ProductCloud: .[0].Product, Count: map(.Key) | length })
+| sort_by(.Count) | reverse
