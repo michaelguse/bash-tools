@@ -9475,3 +9475,16 @@ Details:
     1 / 1024 instance(s) with five release records.
     1 / 1024 instance(s) with more than five release records.
 
+
+SUMMARY - 2026-11-13 15:26:39 CST
+1023 active instance(s) were checked for major release record issues.
+3 duplicate major release record entries were found.
+
+Details:
+    25 / 1023 instance(s) with zero release records.
+    1 / 1023 instance(s) with one release record.
+    4 / 1023 instance(s) with two release records.
+    989 / 1023 instance(s) with three release records.
+    3 / 1023 instance(s) with four release records.
+    1 / 1023 instance(s) with five release records.
+
